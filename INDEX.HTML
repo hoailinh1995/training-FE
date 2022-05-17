@@ -10,6 +10,17 @@
 <body>
     <div class="tong">
     <div class="Trai">
+        <canvas id="myCanvas" width="400" height="10"></canvas>
+                <script>
+                    var canvas = document.getElementById('myCanvas');
+                    var context = canvas.getContext('2d');
+                    context.beginPath();       
+                    context.moveTo(0, 10);
+                    context.lineTo(180, 10);  
+                    context.lineWidth = 3;     
+                    context.strokeStyle = 'pink';
+                    context.stroke();           
+                </script>
         <h1>The Encompass Platform Seamlessly Connects the Supply Chain, Allowing You to:</h1>
     </div>
     <div class="Phai">

@@ -1,24 +1,37 @@
 ul{
     list-style-type: none !important;
 }
-h4,h5{
-    font-size: 18px;
+h3,h4,h5{
+    font-size: 23px;
+    width: 250px;
+}
+p{
+    width: 230px;
+    font-weight: lighter;
+    line-height: 20px;
 }
 .content_Trai {
     float: left;
-    width: 330px;
+    width: 380px;
 }
 .content_Phai {
     float: right;
     width: 1000px;
 }
 .left-column {
-    width: 50%;
+    width: 35%;
     height: 350px;
     float: left;
+    margin-top: 12px;
 }
 .right-column {
-    width: 50%;
+    width: 65%;
     height: 350px;
     float: right;
+}
+.P3{
+    margin-top: 82px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
 }

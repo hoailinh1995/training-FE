@@ -1,0 +1,27 @@
+.tong{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.Trai{
+    float:left;
+    width:30%;
+
+}
+.Phai{
+    float:right;
+    width:70%;
+}
+.khoia{
+    width:40%;
+    float:left;
+    margin-left: 30px;
+}
+.a2{
+    padding-top: 20px;
+}
+.khoib{
+    float:right;
+    width:40%;
+    
+}

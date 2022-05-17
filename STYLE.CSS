@@ -16,8 +16,9 @@
 }
 .left{
     float:left;
-    width:25%;   
+    width:30%;   
     background-color: white;
+    font-size: 25px;
 }
 .right {
     float:right;
@@ -28,6 +29,7 @@
 .trai{
     float:left;
     width:25%;
+    margin-left: 10%;
 }
 .a{
     font-size: 20px;
@@ -39,7 +41,7 @@
 }
 .phai{
     margin-right: 15%;
-    width:30%;
+    width:25%;
 }
 .c{
     font-size: 20px;

@@ -1,1 +1,1 @@
-# traning-FE
+# training-FE

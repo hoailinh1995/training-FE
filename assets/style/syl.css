@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:border-box; 
+}
+.wrap{
+    margin:0 auto;
+    width:  90%;
+    height: 100%;
+}
+.main-content{
+    width: 100%;
+    height: 100%;
+}
+.left{
+    padding-bottom: 39.65%;
+    width: 25%;
+    float: left;
+    color: red;
+    background-color: yellow; 
+
+}
+.right{
+    width: 75%;
+    float: right;
+    background-color: orange;
+}
+.trai{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+}
+.a{
+    font-size: 20px;
+     
+}
+.tap{
+    color: crimson;
+}
+.b{
+    padding-top: 30%;
+    font-size: 20px;
+}
+.stream{
+    color: crimson;
+}
+.phai{
+    width: 30%;
+    float: right;
+    margin-right: 20%;
+}
+.c{
+    font-size: 20px;
+}
+.Accelerate{
+    color: crimson;
+}
+.d{
+    padding-top: 14%;
+    font-size: 20px;
+}
+.when{
+    color: crimson;
+}

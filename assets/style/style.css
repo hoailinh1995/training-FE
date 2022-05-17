@@ -26,16 +26,24 @@
     float: left;
     margin-left: 10%;
 }
+.a{
+    font-size: 20px;
+}
 .b{
-    padding-top: 20%;
+    padding-top: 30%;
+    font-size: 20px;
 }
 .phai{
     width: 30%;
     float: right;
     margin-right: 20%;
 }
+.c{
+    font-size: 20px;
+}
 .d{
-    padding-top: 16%;
+    padding-top: 14%;
+    font-size: 20px;
 }
 
 

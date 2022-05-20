@@ -103,7 +103,7 @@
   <div class="container">
     <div class="row w-100-per bg-white">
       <div class="left col w-full lg:w-1/2">
-        <div class="the pr-35 ">
+        <div class="the pr-10 ">
           <h2>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h2>
         </div>
       </div>

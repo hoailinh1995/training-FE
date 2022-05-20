@@ -117,7 +117,7 @@
               <p>Tap into the power of predictive analytics and demand forecasting. Capitalize on revenue-generating opportunities faster. Encompass ERP captures mission-critical data across your entire operation, empowering you to bring your beverage of food business into new levels of profitability.</p>
             </div>
           </div>
-          <div class="b">
+          <div class="b pt-55 ">
             <div class="improve">
               <h3>Improve Operational Efficiencies</h3>
             </div>
@@ -128,7 +128,7 @@
           </div>
         </div>
         <div class="phai float-right w-50-per">
-          <div class="c">
+          <div class="c pl-30">
             <div class="Leverage">
               <h3>Leverage Real-Time Data for Better Decision-Marking</h3>
             </div>
@@ -136,7 +136,7 @@
               <p>Accelerate business decisions with better, more accurate system-to-system data and comprehensive reporting that results in deep, actionable insights. Stay ahead of potential disruptions and maintain a finger on the pulse of your supply chain from anywhere in the world.</p>
             </div>
           </div>
-          <div class="d">
+          <div class="d pl-30">
             <div class="Enhance">
               <h3>Enhance Team Dynamics & Employee Satisfaction</h3>
             </div>

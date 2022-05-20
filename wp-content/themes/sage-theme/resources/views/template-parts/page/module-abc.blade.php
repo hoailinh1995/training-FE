@@ -8,6 +8,7 @@
     <div class="right">
     <div class="trai">
     <div class="a">
+    sssss
         <div class="drive"><h3>Drive Business Growth</h3></div>
         <div class="tap"><p>Tap into the power of predictive analytics and demand forecasting. Capitalize on revenue-generating opportunities faster. Encompass ERP captures mission-critical data across your entire operation, empowering you to bring your beverage of food business into new levels of profitability.</p></div>
     </div>

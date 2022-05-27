@@ -9,3 +9,11 @@ export default class UserAgent {
 }
 
 new UserAgent().init()
+
+$(document).ready(function(){
+  $("a").click(function(){
+    $(".more").animate({
+      height: 'toggle'
+    });
+  });
+});

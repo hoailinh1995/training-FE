@@ -33,6 +33,15 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_629024cb68477": {
+                    "key": "layout_629024cb68477",
+                    "name": "TheLatest",
+                    "label": "TheLatest",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -58,5 +67,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1652934128
+    "modified": 1653613771
 }

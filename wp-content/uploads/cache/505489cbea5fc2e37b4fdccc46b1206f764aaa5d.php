@@ -2,8 +2,6 @@
   <div class="container footer-top">
     <div class="row">
       <ul class="list-none col p-0 w-1/2 lg:w-2/3">
-        <?php echo App::getFooterNav(); ?>
-
       </ul>
       <div class="footer-item-col col w-1/2 lg:w-1/3">
         <?php echo App::getFooterAddress(); ?>

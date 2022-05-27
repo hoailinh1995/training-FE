@@ -23,9 +23,26 @@
 
             <div class="col w-full lg:w-4/5 navbar-collapse main-menu flex flex-col justify-between" id="main-menu"
                 data-module="menu">
-                
-                <?php echo App::getMainNav(); ?>
+                <!-- <ul
+                    class="main-menu-ul navbar-nav list-none flex mb-0 p-0 text-white flex-col text-inherit
+        lg:flex-row lg:justify-end">
+                    <li class="menu-item mb-0 ">
+                        <a class="block py-9 lg:p-9 no-underline" href="#">TEST2</a>
+                    </li>
+                    <li class="menu-item mb-0">
+                        <a class="block py-9 lg:p-9 no-underline" href="#">erp-selection</a>
+                    </li>
+                    <li class="menu-item mb-0">
+                        <a class="block py-9 lg:p-9 no-underline" href="#">Erp lanning</a>
+                    </li>
 
+                    <li class="active menu-item mb-0">
+                        <a class="block py-9 lg:p-9 no-underline" href="#">Program Mangement</a>
+                    </li>
+                    <li class="menu-item mb-0">
+                        <a class="block py-9 lg:p-9 no-underline" href="#">Training</a>
+                    </li>
+                </ul> -->
             </div>
         </nav>
     </div>

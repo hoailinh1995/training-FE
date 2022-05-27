@@ -144,7 +144,7 @@
             </div>
             <div class="when">
               <p>When your labor force has the tools they need to succeed, the workplace runs like a well-oiled machine. With Encompass ERP, every stakeholder across your supply chain-from purchasing to Point-of-sale-has what they need to do their jobs effectively.</p>
-            </div>
+              </div>
           </div>
         </div>
         </div>

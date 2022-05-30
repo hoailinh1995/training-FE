@@ -13,6 +13,7 @@ const maxWidth = {
   '6xl': '72rem',
   '7xl': '80rem',
   full: '100%',
+  not_full:'90%',
   min: 'min-content',
   max: 'max-content',
   prose: '65ch',

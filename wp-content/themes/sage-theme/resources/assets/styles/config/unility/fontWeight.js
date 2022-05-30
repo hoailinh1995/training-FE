@@ -12,3 +12,4 @@ const fontWeight = {
 module.exports = {
   fontWeight
 }
+

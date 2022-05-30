@@ -10,10 +10,15 @@ export default class UserAgent {
 
 new UserAgent().init()
 
+// $(document).ready(function(){
+//   $("a").click(function(){
+//     $(".more").animate({
+//       height: 'toggle'
+//     });
+//   });
+// });
 $(document).ready(function(){
-  $("a").click(function(){
-    $(".more").animate({
-      height: 'toggle'
-    });
+  $(".flip").click(function(){
+    $(".more").slideToggle("slow");
   });
 });

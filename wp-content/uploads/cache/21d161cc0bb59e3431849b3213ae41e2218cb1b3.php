@@ -4,7 +4,7 @@
         <div class="font-extrabold text-red-700">
             <p>THE LATEST</p>
         </div>
-        <div class="flex flex-row w-full">
+        <div class="flex flex-row flex-wrap w-full">
             <div class="left w-full lg:w-1/2 p-4 ">
                 <div class="bg-yellow rounded-3xl">
                     <img class="rounded-t-3xl" src="<?= \App\asset_path('/images/May-27.jpg'); ?>">
@@ -26,8 +26,8 @@
                     </div>
                 </div>
             </div>
-            <div class="right flex-col w-full lg:w-1/2">
-                <div class="up md:w-1/2 p-4">
+            <div class="right flex-col flex-wrap w-full lg:w-1/2">
+                <div class="up md:w-full p-4">
                     <div class="bg-green-300 rounded-3xl p-8">
                         <div class="font-bold">
                             <h3>
@@ -49,7 +49,7 @@
                         
                     </div>
                 </div>
-                <div class="down w-full md:w-1/2  p-4">
+                <div class="down w-full md:w-full  p-4">
                     <div class="bg-red-400 rounded-3xl p-8">
                         <div class="font-bold">
                             <h3>

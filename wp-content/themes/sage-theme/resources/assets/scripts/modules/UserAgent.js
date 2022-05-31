@@ -10,34 +10,35 @@ export default class UserAgent {
       console.log(111)
     })
   }
-
-  clean(){
+asc(){
   $(document).ready(function(){
-    $("#hide").click(function(){
-      $("p").hide();
-    });
-    $("#show").click(function(){
-      $("p").show();
+    $(".nut1").click(function(){
+      $(".more1").slideToggle();
     });
   });
 }
 
-clean1(){
+asc1(){
   $(document).ready(function(){
-    $("#hid").click(function(){
-      $("t").animate({right:"250px"});
-    });
-    $("#sho").click(function(){
-      $("t").show();
+    $(".nut2").click(function(){
+      $(".more2").slideToggle();
     });
   });
 }
 
+asc2(){
+  $(document).ready(function(){
+    $(".nut3").click(function(){
+      $(".more3").slideToggle();
+    });
+  });
+}
   init () {
     console.log('test')
-    this.clikshow()
-    this.clean()
-    this.clean1()
+   // this.clikshow()
+    this.asc()
+    this.asc1()
+    this.asc2()
   }
 
   

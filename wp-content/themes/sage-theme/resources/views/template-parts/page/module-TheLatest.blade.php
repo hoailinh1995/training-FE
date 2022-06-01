@@ -1,14 +1,14 @@
-<section class="module-TheLatest font-nunito">
-    <div class="container font-nunito">
-    <span class="icomoon icon-iconC"></span>
-        <div class="font-extrabold text-red-700">
+<section class="module-TheLatest font-nunito relative">
+<span class="icomoon icon-iconC text-70xl absolute z-1 left-auto right-1/20"></span>
+    <div class="container font-nunito w-not_full relative z-3 py-60">
+        <div class="font-extrabold text-red-700"> 
             <p>THE LATEST</p>
         </div>
         <div class="flex flex-row flex-wrap w-full">
             <div class="left w-full lg:w-1/2 p-4 ">
                 <div class="bg-white rounded-3xl shadow-2xl">
-                    <!-- <div class="bg-[url('')] rounded-t-3xl" w-full h-400></div> -->
-                    <img class="rounded-t-3xl" src="@asset('/images/May-27.jpg')">
+                    <div class="rounded-t-3xl w-full h-295 bg-no-repeat bg-cover" style="background-image:url(@asset('/images/May-27.jpg'))" ></div>
+                    <!-- <img class="rounded-t-3xl" src="@asset('/images/May-27.jpg')"> -->
                     <div class="p-8">
                         <div class="font-bold">
                             <h3>

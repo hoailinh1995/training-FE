@@ -1,6 +1,7 @@
-<section class="module-TheLatest font-nunito">
+<section class="module-TheLatest font-nunito relative">
     <meta name="viewport" content="width-device-width, initial-scale=1">
-        <div class="container">
+    <span class="icomoon icon-iconC text-40xl absolute z-1 left-auto right-1/20"></span>
+        <div class="container relative z-3 py-60">
             <div class="font-bold text-red-700 p-4">
                 <p>THE LATEST</p>
             </div>
@@ -25,8 +26,7 @@
                     </div>
                 </div>
                 <div class="right flex-col flex-wrap w-full lg:w-1/2">
-                    <span class="icomoon icon-iconC text-40xl"></span>
-                    <div class="up w-full md:w-full p-4">
+                    <div class="up md:w-full p-4 w-700 ml-2">
                         <div class=" rounded-3xl p-8 bg-white shadow-2xl">
                             <div class="font-bold">
                                 <h3>
@@ -46,7 +46,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="down w-full md:w-full p-4">
+                    <div class="down md:w-full p-4">
                         <div class="bg-white rounded-3xl p-8 shadow-2xl">
                             <div class="font-bold">
                             <h3>

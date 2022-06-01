@@ -74,9 +74,11 @@ $table_prefix = 'wp_';
  * @link https://wordpress.org/support/article/debugging-in-wordpress/
  */
 define( 'WP_DEBUG', false );
-define( 'WP_HOME', 'http://localhost:10004/' );
-define( 'WP_SITEURL', 'http://localhost:10004/' );
+
+define( 'WP_HOME', 'http://localhost:10015/' );
+define( 'WP_SITEURL', 'http://localhost:10015/' );
 define( 'WP_THEME_ACTIVE', 'sage-theme' );
+
 
 /* Add any custom values between this line and the "stop editing" line. */
 

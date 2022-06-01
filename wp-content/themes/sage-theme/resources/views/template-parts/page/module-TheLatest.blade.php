@@ -7,8 +7,8 @@
             <div class="flex flex-row flex-wrap ">
                 <div class="left w-full lg:w-1/2  p-4">
                     <div class=" bg-white rounded-3xl shadow-2xl">
-                        <!-- <div class="bg-[url('http://localhost:3000/wp-content/themes/sage-theme/dist/images/May27.jpg')] rounded-3xl"></div> -->
-                        <img class="rounded-t-3xl" src="@asset('images/May27.jpg')">
+                    <div class="rounded-t-3xl w-full h-380 bg-no-repeat bg-cover" style="background-image:url(@asset('images/May27.jpg'))" ></div>
+                        <!-- <img class="rounded-t-3xl" src="@asset('images/May27.jpg')"> -->
                         <div class="p-8">
                             <div class="font-bold">
                                 <h3>
@@ -25,6 +25,7 @@
                     </div>
                 </div>
                 <div class="right flex-col flex-wrap w-full lg:w-1/2">
+                    <span class="icomoon icon-iconC text-40xl"></span>
                     <div class="up w-full md:w-full p-4">
                         <div class=" rounded-3xl p-8 bg-white shadow-2xl">
                             <div class="font-bold">
@@ -54,7 +55,6 @@
                         </div>
                         <div class="font-light">
                                 Lorem ipsum dolor sit amet, conseyetur sadipscing elit, sed diam nonumy eirmod.
-                                <span class="icomoon icon-iconC"></span>
                             <div class="font-bold text-red-700">
                                 READ MORE<span class="icomoon icon-chevron-right"></span>
                             </div>

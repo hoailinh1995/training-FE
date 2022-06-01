@@ -25,17 +25,8 @@
                     "min": "",
                     "max": ""
                 },
-                "layout_6285c60acf092": {
-                    "key": "layout_6285c60acf092",
-                    "name": "Abc",
-                    "label": "Abc",
-                    "display": "block",
-                    "sub_fields": [],
-                    "min": "",
-                    "max": ""
-                },
-                "layout_629024ccdea7b": {
-                    "key": "layout_629024ccdea7b",
+                "layout_6296c6536fac1": {
+                    "key": "layout_6296c6536fac1",
                     "name": "TheLatest",
                     "label": "TheLatest",
                     "display": "block",
@@ -67,5 +58,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1653613772
+    "modified": 1654048339
 }

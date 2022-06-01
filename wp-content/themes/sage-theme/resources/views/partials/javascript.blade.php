@@ -34,4 +34,6 @@
   });
 </script>
 
+
+<!-- only run local -->
 <script defer src='@asset("scripts/app.js")'></script>

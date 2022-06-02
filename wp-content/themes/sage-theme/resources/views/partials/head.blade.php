@@ -19,6 +19,9 @@
   <link href='@asset("scripts/app-desktop.js")' media="(min-width: 992px)" rel="preload" as="script">
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;700;800&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;700&display=swap" rel="stylesheet">
   @php wp_head() @endphp
   <link rel="stylesheet" id="sage/font-css" onload="if(media!='screen')media='screen'" href="{{S3_FONT}}" type="text/css" media="print" />

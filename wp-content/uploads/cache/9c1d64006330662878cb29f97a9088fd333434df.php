@@ -49,5 +49,30 @@
         </div>
       </div>
     </div>
+    <div class="slide w-800 bg-white rounded-4xl shadow-2xl m-auto relative z-1">
+      <div class="slick_slide">
+        <div class="p-46">
+          <div class="pr-100">
+            <h2>
+              “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
+            </h2>
+          </div>
+          <p>
+            David Little<br>CTO,  Savannah Distributing
+          </p>
+        </div>
+        <div class="p-46">
+          <div class="pr-100">
+            <h2>
+              Next “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
+            </h2>
+          </div>
+          <p>
+            David Little<br>CTO,  Savannah Distributing
+          </p>
+        </div>
+      </div>
+      <div class="button_slick bg-red-600 w-100 h-30 absolute z-2 text-3xl bottom-25 text-white -right-9 "></div>
+    </div>
   </div>
 </section>

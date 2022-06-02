@@ -16,7 +16,8 @@ module.exports = {
     fontFamily: {
       montserrat: ['Montserrat', 'sans-serif'],
       syncopate: ['Syncopate', 'sans-serif'],
-      nunito: ['Nunito Sans', 'sans-serif']
+      nunito: ['Nunito Sans', 'sans-serif'],
+      poppins:['Poppins', 'sans-serif']
     },
 
     spacing: configs.spaces,

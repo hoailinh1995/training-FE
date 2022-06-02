@@ -8,7 +8,7 @@
             <div class="flex flex-row flex-wrap ">
                 <div class="left w-full lg:w-1/2  p-4">
                     <div class=" bg-white rounded-3xl shadow-2xl">
-                    <div class="rounded-t-3xl w-full h-380 bg-no-repeat bg-cover" style="background-image:url(<?= \App\asset_path('images/May27.jpg'); ?>)" ></div>
+                    <div class="rounded-t-3xl w-full h-300 bg-no-repeat bg-cover" style="background-image:url(<?= \App\asset_path('images/May27.jpg'); ?>)" ></div>
                         <!-- <img class="rounded-t-3xl" src="<?= \App\asset_path('images/May27.jpg'); ?>"> -->
                         <div class="p-8">
                             <div class="font-bold">
@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="right flex-col flex-wrap w-full lg:w-1/2">
-                    <div class="up md:w-full p-4 w-700 ml-2">
+                    <div class="up md:w-full p-4 w-70p ml-2">
                         <div class=" rounded-3xl p-8 bg-white shadow-2xl">
                             <div class="font-bold">
                                 <h3>

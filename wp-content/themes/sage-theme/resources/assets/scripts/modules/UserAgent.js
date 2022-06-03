@@ -33,14 +33,24 @@ asc2(){
     });
   });
 }
+slickslide(){
+  $('.slick_slide').slick({
+    appendArrows: '.button_slick',
+    nextArrow: '<button class="next w-25"><span class="icomoon icon-chevron-right"></span></button>',
+    prevArrow: '<button class="back w-25"><span class="icomoon icon-chevron-left"></span></button>'
+  });
+}
   init () {
     console.log('test')
    // this.clikshow()
     this.asc()
     this.asc1()
     this.asc2()
+    this.slickslide()
+    
   }
 
+  
   
 }
 

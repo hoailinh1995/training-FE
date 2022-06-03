@@ -1,6 +1,6 @@
 <section class="module-TheLatest relative font-poppins">
 <span class="icomoon icon-iconC text-70xl absolute z-1 left-auto right-1/20"></span>
-    <div class="container w-not_full relative z-3 py-60">
+    <div class="container w-full relative z-3 py-60">
         <div class="font-extrabold text-red-700"> 
             <p>THE LATEST</p>
         </div>

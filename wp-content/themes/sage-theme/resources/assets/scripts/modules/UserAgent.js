@@ -5,8 +5,6 @@ export default class UserAgent
   {
     this.$html = $('html')
   }
-  
-
 check1()
 {
   $(document).ready(function(){
@@ -18,8 +16,10 @@ check1()
 
 check2()
 {
-  $(document).ready(function(){
-    $(".nut2").click(function(){
+  $(document).ready(function()
+  {
+    $(".nut2").click(function()
+    {
       $(".more2").slideToggle();
     });
   });
@@ -34,12 +34,23 @@ check3()
     });
   });
 }
+SlickkSlide() {
+  $(".flip").click(function(){
+    $(".more").slideToggle("slow");
+  });
+  $('.slickslide').slick({
+    appendArrows:'.btt',
+    nextArrow: '<button class="next"><span class="icomoon icon-chevron-right"></span></button>',
+    prevArrow: '<button class="prev"><span class="icomoon icon-chevron-left"></span></button>'
+  });
+}
   init () 
   {
     console.log('test')
     this.check1()
     this.check2()
     this.check3()
+  this.SlickkSlide()
   }
 }
 

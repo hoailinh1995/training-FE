@@ -60,6 +60,24 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_629d4c9e8dfe6": {
+                    "key": "layout_629d4c9e8dfe6",
+                    "name": "Abc",
+                    "label": "Abc",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629d4cb11cb83": {
+                    "key": "layout_629d4cb11cb83",
+                    "name": "APC",
+                    "label": "APC",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -85,5 +103,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1653981074
+    "modified": 1654475953
 }

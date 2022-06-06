@@ -1,5 +1,5 @@
 const Screens = {
-  'sm': '481px',
+  'sm': '0px',
   'md': '769px',
   'lg': '1025px',
   'xl': '1026px',

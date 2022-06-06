@@ -105,6 +105,8 @@
     <div class="row w-100-per bg-white">
       <div class="left col w-full lg:w-1/2 2xl:w-1/2 2xl:pl-10-per ">
         <div class="the">
+          <div class="gach bg-red-600 h-4 w-100 "></div>
+          <br>
           <h2>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h2>
         </div>
       </div>

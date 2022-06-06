@@ -7,7 +7,7 @@
                     <h6>THE LATEST</h6>
                 </div>
                 <div class=" bg-white rounded-3xl shadow-2xl ">
-                    <div class="hinh"><img class="rounded-t-3xl" src="@asset('images/May-27.jpg')" alt="hinh" style="width:100%;height:270px"></div>
+                    <div class="hinh"><img class="rounded-t-3xl" src="@asset('images/May-27.jpg')" alt="hinh" style="width:100%;height:320px"></div>
                     <div class="dau1 pl-8">
                         <h3>Lorem ipsum dolor sit amet, consetetur</h3>
                     </div>

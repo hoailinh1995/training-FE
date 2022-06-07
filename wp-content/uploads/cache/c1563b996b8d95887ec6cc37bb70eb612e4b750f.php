@@ -1,15 +1,18 @@
 <section class="module-abc">
     <div class="container">
-        <div class="row w-100-per">
+        <div class="row w-full">
             <div class="left left col w-full lg:w-1/2 2xl:w-1/2 2xl:pl-10-per ">
-                <div class="the pt-5">
+                <div class="bg-red h-1 w-92">
+                </div>
+                <br>
+                <div class="the pt-5 md:w-175">
                     <h2>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h2>
                 </div>
             </div>
-            <div class="right col w-full lg:w-1/2 2xl:w-1/2 2xl:pr-10-per">
+            <div class="right col w-full lg:w-1/2 2xl:w-1/2 2xl:pr-5-per">
                 <div class="row ">
                     <div class="trai col w-full md:w-1/2  ">
-                        <div class="a pt-3">
+                        <div class="a pt-3 md:w-137">
                             <div class="drive">
                                 <h3>Drive Business Growth</h3>
                             </div>
@@ -20,7 +23,7 @@
                                     business into new levels of profitability.</p>
                             </div>
                         </div>
-                        <div class="b pt-3 ">
+                        <div class="b pt-3 md:w-137">
                             <div class="improve">
                                 <h3>Improve Operational Efficiencies</h3>
                             </div>
@@ -33,7 +36,7 @@
                         </div>
                     </div>
                     <div class="phai col w-full md:w-1/2">
-                        <div class="c">
+                        <div class="c md:w-137">
                             <div class="Leverage">
                                 <h3>Leverage Real-Time Data for Better Decision-Marking</h3>
                             </div>
@@ -45,7 +48,7 @@
                             </div>
                         </div>
                         <div class="d">
-                            <div class="Enhance">
+                            <div class="Enhance md:w-137">
                                 <h3>Enhance Team Dynamics & Employee Satisfaction</h3>
                             </div>
                             <div class="when">

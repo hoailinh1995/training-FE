@@ -48,8 +48,8 @@ function() {
   // });
   $('.slick_slide').slick({
     appendArrows:'.btt',
-    nextArrow: '<button class="next"><span class="icomoon icon-chevron-right"></span></button>',
-    prevArrow: '<button class="prev"><span class="icomoon icon-chevron-left"></span></button>'
+    nextArrow: '<button class="next w-25 h-6 "><span class="icon-Group-2452"></span></button>',
+    prevArrow: '<button class="prev w-25 h-6"><span class="icon-Group-2453"></span></button>'
   });
 }
   

@@ -5,6 +5,7 @@ const Colors = {
     200: '#495735'
   },
   yellow: '#e0aa2a',
+  red:'#ff0000',
 orange:'#E03116',
   brown: {
     100: '#b94a02',

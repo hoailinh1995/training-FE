@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row w-100-per">
       <div class="left col w-full lg:w-1/2 2xl:w-1/2 2xl:pl-10-per">
-        <div class="line bg-red-600 w-58 h-1"></div>
+        <div class="line bg-red-600 w-58 h-1 mb-15 ml-1"></div>
         <div class="the">
           <h2>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h2>
         </div>

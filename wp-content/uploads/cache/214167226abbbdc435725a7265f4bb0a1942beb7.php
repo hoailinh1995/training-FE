@@ -102,17 +102,17 @@
 <section class="module-abc">
   <meta name="viewport" content="width-device-width, initial-scale=1">
   <div class="container">
-    <div class="row w-100-per bg-white">
-      <div class="left col w-full lg:w-1/2 2xl:w-1/2 2xl:pl-10-per ">
+    <div class="row w-100-per bg-white pl-30">
+      <div class="left col w-full 2xl:w-1/2  ">
         <div class="the">
           <div class="gach bg-red-600 h-4 w-100 "></div>
           <br>
           <h2>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h2>
         </div>
       </div>
-      <div class="right col w-full lg:w-1/2 2xl:w-1/2 2xl:pl-10-per ">
+      <div class="right col w-full 2xl:w-1/2 ">
         <div class="row ">
-        <div class="trai col w-full md:w-1/2  ">
+        <div class="trai col w-full lg:w-1/2  ">
           <div class="a">
             <div class="drive">
               <h3>Drive Business Growth</h3>
@@ -131,7 +131,7 @@
             </div>
           </div>
         </div>
-        <div class="phai col w-full md:w-1/2">
+        <div class="phai col w-full lg:w-1/2 ">
           <div class="c">
             <div class="Leverage">
               <h3>Leverage Real-Time Data for Better Decision-Marking</h3>

@@ -60,6 +60,15 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_629e9c7ef24c2": {
+                    "key": "layout_629e9c7ef24c2",
+                    "name": "pro",
+                    "label": "pro",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -85,5 +94,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1654489433
+    "modified": 1654561918
 }

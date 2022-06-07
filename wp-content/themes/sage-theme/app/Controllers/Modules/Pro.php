@@ -2,7 +2,7 @@
 
 namespace App\Controllers\Modules;
 
-class 123
+class Pro
 {
     public function dataModule($module)
     {

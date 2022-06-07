@@ -1,8 +1,8 @@
 <section class="mod_abcde">
-<div class="slide w-800 bg-white rounded-3xl shadow-2xl m-auto relative z-1">
+<div class="slide w-700 bg-white rounded-3xl shadow-2xl m-auto relative z-1 lg:w-800 2xl:w-800 ">
       <div class="slick_slide">
-        <div class="a p-46">
-          <div class="a1 pr-50">
+        <div class="a p-30 ">
+          <div class="a1 pr-70">
             <h2>
               “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
             </h2>
@@ -11,8 +11,8 @@
             David Little<br>CTO,  Savannah Distributing
           </p>
         </div>
-        <div class="b p-46">
-          <div class="b1 pr-50">
+        <div class="b p-30">
+          <div class="b1 pr-70">
             <h2>
               Next “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
             </h2>

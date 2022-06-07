@@ -51,6 +51,42 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_629e9f2d08d9f": {
+                    "key": "layout_629e9f2d08d9f",
+                    "name": "ContentCenter1",
+                    "label": "ContentCenter1",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629eb5f240049": {
+                    "key": "layout_629eb5f240049",
+                    "name": "LogoContent",
+                    "label": "LogoContent",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629ec44c47d60": {
+                    "key": "layout_629ec44c47d60",
+                    "name": "LogoFooter",
+                    "label": "LogoFooter",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629ec91bbc9ae": {
+                    "key": "layout_629ec91bbc9ae",
+                    "name": "Above_TheLatest",
+                    "label": "AboveTheLatest",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -76,5 +112,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1654151197
+    "modified": 1654573339
 }

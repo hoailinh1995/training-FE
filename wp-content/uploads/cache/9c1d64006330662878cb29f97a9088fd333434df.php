@@ -3,9 +3,10 @@
   <div class="container">
     <div class="row w-100-per">
       <div class="left col w-full lg:w-1/2 2xl:w-1/2 2xl:pl-10-per">
-        <div class="the">
-          <h2>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h2>
-        </div>
+      <div class="line bg-red-600 mb-15 ml-1 w-58 h-1"></div>
+      <div class="the">
+        <h2>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h2>
+      </div>
       </div>
       <div class="right col w-full lg:w-1/2 2xl:w-1/2 2xl:pr-10-per">
         <div class="row ">
@@ -72,7 +73,7 @@
           </p>
         </div>
       </div>
-      <div class="button_slick bg-red-600 w-100 h-30 absolute z-2 text-3xl bottom-25 text-white -right-9 "></div>
+      <div class="button_slick bg-red-600 w-100 absolute z-2 text-3xl bottom-25 text-white -right-9 "></div>
     </div>
   </div>
 </section>

@@ -17,7 +17,10 @@
                         </div>
                         <div class="font-light">
                                 Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.
-                            <div class="font-bold text-red-700">
+                                <div class="more1" style="display: none">
+                                    Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod, sed diam nonumy eirmod Lorem ipsum dolor sit anet consetetur sadipscing elitr, sed diam nonumy eirmod. Lorem ipsum dolir sit amet, consetetur.
+                                </div>
+                            <div class="flip1 font-bold text-red-700 hover:text-pink-500">
                                 READ MORE 
                                 <span class="icomoon icon-chevron-right"></span>
                             </div>
@@ -26,7 +29,7 @@
                 </div>
             </div>
             <div class="right flex-col flex-wrap w-full lg:w-1/2">
-                <div class="up md:w-full p-4">
+                <div class="up md:w-full p-4 w-70-per ml-10">
                     <div class="bg-white rounded-3xl p-8 shadow-2xl">
                         <div class="font-bold">
                             <h3>
@@ -35,10 +38,10 @@
                         </div>
                         <div class="font-light">
                                 Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.
-                                <div class="more" style="display: none">
+                                <div class="more2" style="display: none">
                                     Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod, sed diam nonumy eirmod Lorem ipsum dolor sit anet consetetur sadipscing elitr, sed diam nonumy eirmod. Lorem ipsum dolir sit amet, consetetur.
                                 </div>
-                            <div class="flip font-bold text-red-700">
+                            <div class="flip2 font-bold text-red-700 hover:text-pink-500">
                                 READ MORE 
                                 <span class="icomoon icon-chevron-right"></span>
                             </div>
@@ -46,7 +49,7 @@
                         
                     </div>
                 </div>
-                <div class="down w-full md:w-full p-4">
+                <div class="down md:w-full p-4 w-70-per mt-13 ml-10">
                     <div class="bg-white rounded-3xl p-8 shadow-2xl">
                         <div class="font-bold">
                             <h3>
@@ -55,7 +58,10 @@
                         </div>
                         <div class="font-light">
                                 Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.
-                            <div class="font-bold text-red-700">
+                                <div class="more3" style="display: none">
+                                    Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod. Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod, sed diam nonumy eirmod Lorem ipsum dolor sit anet consetetur sadipscing elitr, sed diam nonumy eirmod. Lorem ipsum dolir sit amet, consetetur.
+                                </div>
+                            <div class="flip3 font-bold text-red-700 hover:text-pink-500">
                                 READ MORE 
                                 <span class="icomoon icon-chevron-right"></span>
                             </div>

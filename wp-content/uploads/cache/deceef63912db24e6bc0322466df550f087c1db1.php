@@ -23,7 +23,7 @@
                                             Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod, sed diam nonumy eirmod Lorem ipsum dolor sit anet consetetur sadipscing elitr, sed diam nonumy eirmod. Lorem ipsum dolir sit amet, consetetur.
                                         </div>
                                     </div>
-                            <div class="flip1 font-bold text-red-700 hover:text-yellow">
+                            <div class="flip1 font-bold text-red-700 hover:text-blue-600">
                                 READ MORE<span class="icomoon icon-chevron-right"></span>
                             </div>
                             </div>
@@ -46,7 +46,7 @@
                                         </div>
                                     </div>
                             </div>
-                            <div class="flip2 font-bold text-red-700 hover:text-purple-500">
+                            <div class="flip2 font-bold text-red-700 hover:text-blue-600">
                                 READ MORE<span class="icomoon icon-chevron-right"></span>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                             Lorem ispum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod, sed diam nonumy eirmod Lorem ipsum dolor sit anet consetetur sadipscing elitr, sed diam nonumy eirmod. Lorem ipsum dolir sit amet, consetetur.
                                         </div>
                                     </div>
-                            <div class="flip3 font-bold text-red-700 hover:text-pink-500">
+                            <div class="flip3 font-bold text-red-700 hover:text-blue-600">
                                 READ MORE<span class="icomoon icon-chevron-right"></span>
                             </div>
                         </div>

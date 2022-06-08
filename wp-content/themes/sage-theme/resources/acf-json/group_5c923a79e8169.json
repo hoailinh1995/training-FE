@@ -87,6 +87,24 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62a00a7d69c42": {
+                    "key": "layout_62a00a7d69c42",
+                    "name": "ContentCenter2",
+                    "label": "ContentCenter2",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62a00a9badfa9": {
+                    "key": "layout_62a00a9badfa9",
+                    "name": "PictureConnect",
+                    "label": "PictureConnect",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -112,5 +130,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1654573325
+    "modified": 1654655643
 }

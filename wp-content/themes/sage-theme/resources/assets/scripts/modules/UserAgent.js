@@ -29,8 +29,8 @@ export default class UserAgent {
     });
     $('.slickSlide3').slick({
       appendArrows: '.butSlide2',
-      // nextArrow: '<button class="next hover:text-black"><span class="icomoon icon-chevron-right1"></span></button>',
-      // prevArrow: '<button class="previous hover:text-black"><span class="icomoon icon-chevron-left1"></span></button>'
+      nextArrow: '<button class="next hover:text-black"><span class="icomoon icon-chevron-right1"></span></button>',
+      prevArrow: '<button class="previous hover:text-black"><span class="icomoon icon-chevron-left1"></span></button>'
     });
   }
 }

@@ -1,0 +1,90 @@
+{
+    "key": "group_5c923a79e8169",
+    "title": "Modules",
+    "fields": [
+        {
+            "key": "field_5c923a83d29a1",
+            "label": "Modules",
+            "name": "c8_templates",
+            "type": "flexible_content",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layouts": {
+                "layout_61cc0a39fec23": {
+                    "key": "layout_61cc0a39fec23",
+                    "name": "",
+                    "label": "",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629f0143a7f47": {
+                    "key": "layout_629f0143a7f47",
+                    "name": "mê",
+                    "label": "Mee",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629f02775f7d5": {
+                    "key": "layout_629f02775f7d5",
+                    "name": "test",
+                    "label": "test",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629f0285ed3cb": {
+                    "key": "layout_629f0285ed3cb",
+                    "name": "two_col",
+                    "label": "Two Col",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629ff05cdb8a2": {
+                    "key": "layout_629ff05cdb8a2",
+                    "name": "hoai_my",
+                    "label": "hoaimy",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                }
+            },
+            "button_label": "Add Module",
+            "min": "",
+            "max": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1654648928,
+    "local_file": "\/Users\/hoaimi\/Local Sites\/hoaimy\/app\/public\/wp-content\/themes\/sage-theme\/resources\/acf-json\/group_5c923a79e8169.json"
+}

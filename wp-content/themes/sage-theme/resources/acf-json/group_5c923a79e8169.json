@@ -87,6 +87,24 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62a00a7c31027": {
+                    "key": "layout_62a00a7c31027",
+                    "name": "ContentCenter2",
+                    "label": "ContentCenter2",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62a00a8802ebb": {
+                    "key": "layout_62a00a8802ebb",
+                    "name": "PictureContent",
+                    "label": "PictureContent",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -112,5 +130,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1654573339
+    "modified": 1654655624
 }

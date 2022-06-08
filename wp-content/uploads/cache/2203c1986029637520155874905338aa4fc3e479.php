@@ -1,6 +1,6 @@
-<section class="module-LogoContent font-poppins m-auto xx:w-1/2 2xl:w-60-per lg:w-70-per md:w-80-per">
+<section class="module-LogoContent bg-gra font-poppins m-auto xx:w-1/2 2xl:w-60-per lg:w-70-per md:w-80-per">
     <div class="">
-        <div class="title font-bold xx:w-1/2 2xl:w-1/2 lg:w-full md:w-full">
+        <div class="title font-bold w-1/2">
             <h3>
                 Our Open Ecosystem of Partners Gives You the Power to Choose
             </h3>
@@ -17,13 +17,13 @@
             <div class="logo w-1/2 float-right"> 
                 <div class="slick_slide2">
                     <div>
-                        <img class="relative z-1" src="<?= \App\asset_path('/images/logo.png'); ?>">
+                        <img class="" src="<?= \App\asset_path('/images/logo.png'); ?>">
                     </div>
                     <div>
-                        <img class="relative z-1" src="<?= \App\asset_path('/images/logo.png'); ?>">
+                        <img class="" src="<?= \App\asset_path('/images/logo.png'); ?>">
                     </div>
                 </div>
-                    <div class="button_slick2 text-red-600 w-50 text-3xl absolute right-430 z-2 "></div>
+                    <div class="button_slick2 text-red-600 w-50 text-3xl float-right "></div>
             </div>
         </div>
     </div>

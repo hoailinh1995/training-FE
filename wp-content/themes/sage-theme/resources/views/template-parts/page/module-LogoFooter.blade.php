@@ -30,7 +30,7 @@
                         <div class="l6 w-1/6 float-right"><img class="" src="@asset('images/6.png')"></div>
                     </div>
                 </div>
-                <div class="butSlide2 text-red-600 absolute z-2 w-50 text-3xl right-20"></div>
+                <div class="butSlide2 absolute z-2 w-50 text-3xl right-20"></div>
             </div>
         </div>
     </div>

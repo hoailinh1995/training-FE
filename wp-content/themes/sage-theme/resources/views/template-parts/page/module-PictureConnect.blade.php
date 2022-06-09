@@ -19,7 +19,7 @@
                 </p>
             </div>
             <div class=" text-white text-base ">
-                <button class="bg-red-600 rounded-full font-extrabold w-95 h-20 hover:bg-blue-600">LEARN MORE</button>
+                <button class="btn-red rounded-full font-extrabold w-95 h-20">LEARN MORE</button>
             </div>
         </div>
     </div>

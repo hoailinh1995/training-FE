@@ -19,18 +19,18 @@ export default class UserAgent {
     });
     $('.slickSlide').slick({
       appendArrows: '.buttonSlide',
-      nextArrow: '<button class="next w-25 hover:bg-blue-600 hover:text-black"><span class="icomoon icon-chevron-right1"></span></button>',
-      prevArrow: '<button class="previous w-25 hover:bg-blue-600 hover:text-black"><span class="icomoon icon-chevron-left1 "></span></button>'
+      nextArrow: '<button class="btn-red w-1/2"><span class="icomoon icon-chevron-right1"></span></button>',
+      prevArrow: '<button class="btn-red w-1/2"><span class="icomoon icon-chevron-left1 "></span></button>'
     });    
     $('.slickSlide2').slick({
       appendArrows: '.butSlide',
-      nextArrow: '<button class="next hover:text-black"><span class="icomoon icon-chevron-right1"></span></button>',
-      prevArrow: '<button class="previous hover:text-black"><span class="icomoon icon-chevron-left1"></span></button>'
+      nextArrow: '<button class="btn-slideno"><span class="icomoon icon-chevron-right1"></span></button>',
+      prevArrow: '<button class="btn-slideno"><span class="icomoon icon-chevron-left1"></span></button>'
     });
     $('.slickSlide3').slick({
       appendArrows: '.butSlide2',
-      nextArrow: '<button class="next hover:text-black"><span class="icomoon icon-chevron-right1"></span></button>',
-      prevArrow: '<button class="previous hover:text-black"><span class="icomoon icon-chevron-left1"></span></button>'
+      nextArrow: '<button class="btn-slideno"><span class="icomoon icon-chevron-right1"></span></button>',
+      prevArrow: '<button class="btn-slideno"><span class="icomoon icon-chevron-left1"></span></button>'
     });
   }
 }

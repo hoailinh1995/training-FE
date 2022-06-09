@@ -53,6 +53,7 @@
   h5,
   h6{
     @apply mb-8;
+    @apply text-blue-300;
   }
 
   p,
@@ -78,6 +79,7 @@
   }
   p {
     @apply mb-15;
+    @apply text-gray-10;
   }
 }
 

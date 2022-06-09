@@ -3,19 +3,19 @@
         <div class="icon">
             <div class="flex flex-row pb-10 w-70-per m-auto">
                 <div class="icon1 w-15-per text-center">
-                    <img class=" inline-block" src="@asset('images/2Bottle.png')">
+                    <img class=" inline-block" src="<?= \App\asset_path('images/2Bottle.png'); ?>">
                 </div>
                 <div class="icon2 w-27.5-per text-center">
-                    <img class=" inline-block" src="@asset('images/3Line.png')">
+                    <img class=" inline-block" src="<?= \App\asset_path('images/3Line.png'); ?>">
                 </div>
                 <div class="icon3 w-15-per text-center">
-                    <img class=" inline-block" src="@asset('images/Path.png')">
+                    <img class=" inline-block" src="<?= \App\asset_path('images/Path.png'); ?>">
                 </div>
                 <div class="icon4 w-27.5-per text-center">
-                    <img class=" inline-block" src="@asset('images/3Line.png')">
+                    <img class=" inline-block" src="<?= \App\asset_path('images/3Line.png'); ?>">
                 </div>
                 <div class="icon5 w-15-per text-center">
-                    <img class=" inline-block" src="@asset('images/Store.png')">
+                    <img class=" inline-block" src="<?= \App\asset_path('images/Store.png'); ?>">
                 </div>
             </div>
         </div>

@@ -5,6 +5,7 @@ const Colors = {
     200: '#495735'
   },
   yellow: '#e0aa2a',
+  orange: '#E03116',
   brown: {
     100: '#b94a02',
     200: '#A33100',
@@ -12,11 +13,14 @@ const Colors = {
   },
   gray: {
     100: '#fcf7ef',
-    200: '#F7F1E7'
+    200: '#F7F1E7',
+    300: '#D4D3D2',
+    10: '#666666',
   },
   blue: {
     100: '#1d4f91',
-    200: '#1e5091'
+    200: '#1e5091',
+    300: '#1F2C40',
   },
   black: '#000',
   transparent: 'transparent'

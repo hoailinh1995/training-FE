@@ -1,12 +1,12 @@
 <section class="module-LogoContent font-poppins w-full m-auto xx:w-1/2 2xl:w-60-per lg:w-70-per md:w-80-per">
     <div class="">
         <div class="">
-            <div class="title font-bold">
+            <div class="title font-bold text-4xl">
                 <h3>
                     Our Open Ecosystem of Partners Gives You the Power to Choose
                 </h3>
             </div>
-            <div class="para font-light w-1/2 float-left">
+            <div class="para font-light text-lg w-1/2 float-left">
                 <p>
                     We believe in the power of transparency and connectedness. Encompass' ecosystem of partners combines diversity and best-in-class API functionality to provide one powerful, unified source of truth for our clients, no matter how many modules they choose to utilize. 
                 </p>
@@ -24,7 +24,7 @@
                     <img class="" src="@asset('images/Logo1.png')">
                 </div>
             </div>
-            <div class="butSlide text-red-600 w-50 text-3xl float-right"></div>
+            <div class="butSlide w-50 text-3xl float-right"></div>
         </div>
     </div>
 </section>

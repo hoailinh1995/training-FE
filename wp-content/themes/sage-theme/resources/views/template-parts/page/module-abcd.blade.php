@@ -1,6 +1,6 @@
 <section class="mod_abcd">
     <div class="container pl-30 relative z-3">
-    <span class="icomoon icon-iconC absolute z-1 text-70xl left-auto right-5"></span>
+        <span class="icomoon icon-iconC absolute z-1 text-70xl left-auto right-5"></span>
         <div class=" row w-full relative z-3">
             <div class="TRAI w-full 2xl:w-1/2 ">
                 <div class="gach text-orange">

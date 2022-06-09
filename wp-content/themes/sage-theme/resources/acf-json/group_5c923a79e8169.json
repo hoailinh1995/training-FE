@@ -69,6 +69,24 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62a03ee746752": {
+                    "key": "layout_62a03ee746752",
+                    "name": "pro1",
+                    "label": "pro1",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62a1720489d68": {
+                    "key": "layout_62a1720489d68",
+                    "name": "pro2",
+                    "label": "pro2",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -94,5 +112,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1654561918
+    "modified": 1654747652
 }

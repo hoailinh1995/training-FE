@@ -34,12 +34,20 @@ asc2(){
   });
 }
 slickslide(){
-  $('.slick_slide').slick({
+  $('.chuyencanh').slick({
     appendArrows: '.button_slick',
     nextArrow: '<button class="next w-25"><span class="icomoon icon-chevron-right"></span></button>',
     prevArrow: '<button class="back w-25"><span class="icomoon icon-chevron-left"></span></button>'
   });
 }
+slickslide1(){
+  $('.slick_slide1').slick({
+    appendArrows: '.button_slick1',
+    nextArrow: '<button class="next1 w-1/2 h-10 "><span class="icomoon icon-Group-2455"></span></button>',
+    prevArrow: '<button class="back2 w-1/2 h-10"><span class="icomoon icon-Group-2454"></span></button>'
+  });
+}
+
   init () {
     console.log('test')
    // this.clikshow()
@@ -47,6 +55,7 @@ slickslide(){
     this.asc1()
     this.asc2()
     this.slickslide()
+    this.slickslide1()
     
   }
 

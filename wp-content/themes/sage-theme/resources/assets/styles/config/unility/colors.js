@@ -13,12 +13,15 @@ const Colors = {
   },
   gray: {
     100: '#fcf7ef',
-    200: '#F7F1E7'
+    200: '#F7F1E7',
+    300:'#707070',
+    400:'#F1F5F5'
   },
   blue: {
     100: '#1d4f91',
     200: '#1e5091',
-    300:'#B6CFD0'
+    300:'#B6CFD0',
+    400:'#F1F5F5'
   },
   black: '#000',
   transparent: 'transparent'

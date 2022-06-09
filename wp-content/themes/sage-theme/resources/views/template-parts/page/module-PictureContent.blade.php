@@ -20,8 +20,8 @@
                     Our cloud-native, secure, and compliant solutions are optimized for continuous innovation. Our ERP solutions unlock business growth opportunities by enabling each tier of the supply chain to drive operational efficiencies, improve how people work, and meet fast-changing, unpredictable consumer demand.
                 </p>
             </div>
-            <div class=" text-white text-base">
-                <button class="bg-red-600 font-extrabold  rounded-full w-95 h-20 hover:bg-green-500">LEARN MORE</button>
+            <div class="text-base">
+                <button class="btn-red font-extrabold rounded-full w-95 h-20">LEARN MORE</button>
             </div>
         </div>
     </div>

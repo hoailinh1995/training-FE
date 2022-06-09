@@ -31,7 +31,7 @@
                         Over 400 breweries, distilleries, and cideries use Encompass' Orchestra Cloud to work from a single source of truth for operations, data, and decision making. Streamlining the business in this way provides benefits that extend to tier-to-tier automation, process transparency, and predictive forecasting.
                     </p>
                 </div>
-                <div class="link text-red-600 text-base font-bold mt-30">
+                <div class="link btn-slick-none text-base font-bold mt-30">
                     <a class="no-underline align-bottom" href="">
                         EXPLORE ORCHESTRA
                         <span class="icomoon icon-chevron-right"></span>
@@ -49,7 +49,7 @@
                         Encompass Cloud powered by the Encompass Platform is specifically built for the beverage and food distribution industry. Encompass Cloud integrates warehouse management, sales execution, logistics, warehouse automation, and retailer ordering tools in a way that makes the overall business function smoothly, predictably, efficiently.
                     </p>
                 </div>
-                <div class="link text-red-600 text-base font-bold">
+                <div class="link btn-slick-none text-base font-bold">
                     <a class="no-underline" href="">
                         EXPLORE ORCHESTRA
                         <span class="icomoon icon-chevron-right"></span>
@@ -67,7 +67,7 @@
                         Our Retail solutions are advancing the way beverage retailers do business by optimizing commercial interactions between distributors, retailers, and consumers. This is done by consolidating online ordering and retail eCommerce websites with advanced product discovery and delivery applications. 
                     </p>
                 </div>
-                <div class="link text-red-600 text-base font-bold mt-30">
+                <div class="link btn-slick-none text-base font-bold mt-30">
                     <a class="no-underline" href="">
                         EXPLORE ORCHESTRA
                         <span class="icomoon icon-chevron-right"></span>

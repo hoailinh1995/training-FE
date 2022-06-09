@@ -11,8 +11,8 @@
   }
 }
 .btn-red{
-  @apply text-white bg-red-600 border-red-600 hover:bg-green-500 hover:border-red-500;
+  @apply text-white bg-orange border-orange hover:bg-green-500 hover:border-red-500;
 }
 .btn-slick-none{
-  @apply text-red-600 hover:text-green-500;
+  @apply text-orange hover:text-green-500;
 }

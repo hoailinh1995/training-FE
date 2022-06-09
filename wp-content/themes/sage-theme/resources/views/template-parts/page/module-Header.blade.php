@@ -19,6 +19,23 @@
                     CONTACT US
             </div>
         </div>
+        <div class="title w-40-per xx:mt-180 xx:-ml-7">
+            <div class="font-bold">
+                <h2 class="text-white text-7xl">
+                    Unlock the Power of Connection
+                </h2>
+            </div> 
+            <div class="content xx:w-70-per text-xl font-light">
+                <p class="text-white">
+                    Connect & Grow Your Business with the Power of the Encompass Platform
+                </p>
+            </div>
+            <div class="text-base">
+                <button class="btn-red font-extrabold rounded-full w-95 h-20">ABOUT US</button>
+            </div>
+        </div>
+        <!-- <div class="pic xx:w-60-per">
+            <div class="bg-cover left-0 right-0 top-0 bottom-0 h-943 absolute z-3" style="background-image:url(@asset('/images/lap.png'))" ></div>
+        </div> -->
     </div>
-
 </section>

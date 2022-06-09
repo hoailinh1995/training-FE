@@ -100,6 +100,7 @@ const Space = {
   '98': '196px',
   '99': '198px',
   '100': '200px',
+  '114': '228px',
   '100vw': '100vw'
 }
 module.exports = {

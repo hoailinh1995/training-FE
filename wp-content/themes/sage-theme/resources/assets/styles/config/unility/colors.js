@@ -2,7 +2,8 @@ const Colors = {
   primary: '#b94a02',
   green: {
     100: '#576541',
-    200: '#495735'
+    200: '#B6CFD0'
+
   },
   yellow: '#e0aa2a',
   brown: {

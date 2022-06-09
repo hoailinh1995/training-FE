@@ -9,26 +9,29 @@ export default class UserAgent {
       console.log(111)
     })
   }
+  
+  
+  
 asc(){
   $(document).ready(function(){
-    $("#a").click(function(){
-      $("p").toggle();
+    $(".flip1").click(function(){
+      $(".more1").slideToggle("slow");
     });
   });
 }
 
 asc1(){
   $(document).ready(function(){
-    $("#b").click(function(){
-      $("t").toggle();
+    $(".flip2").click(function(){
+      $(".more2").slideToggle("slow");
     });
   });
 }
 
 asc2(){
   $(document).ready(function(){
-    $("#c").click(function(){
-      $("q").toggle();
+    $(".flip3").click(function(){
+      $(".more3").slideToggle("slow");
     });
   });
 }
@@ -71,6 +74,7 @@ asc5(){
     this.function()
   }
 function(){
+
     $('.slick_slide').slick({
       appendArrows: '.button_slick',
       nextArrow: '<button class="next w-25"><span class="icomoon icon-chevron-right"></span></button>',

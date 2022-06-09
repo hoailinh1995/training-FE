@@ -42,7 +42,7 @@
  -->
 
 
-<section class="module-two_col">
+<section class="module-test">
 <meta name="viewport" content="width-device-width, initial-scale=1">
   <div class="container">
     <div class="row w-100-per bg-white">

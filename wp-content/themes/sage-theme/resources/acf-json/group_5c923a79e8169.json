@@ -87,6 +87,24 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62a03e228b632": {
+                    "key": "layout_62a03e228b632",
+                    "name": "AIC",
+                    "label": "AIC",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62a16a401cdd3": {
+                    "key": "layout_62a16a401cdd3",
+                    "name": "AOC",
+                    "label": "AOC",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -112,5 +130,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1654575470
+    "modified": 1654745664
 }

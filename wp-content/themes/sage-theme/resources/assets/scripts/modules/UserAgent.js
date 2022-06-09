@@ -41,6 +41,8 @@ init ()
     this.check2()
     this.check3()
     this.function()
+    this.functions()
+  
   }
 function() {
   // $(".flip").click(function(){
@@ -48,11 +50,23 @@ function() {
   // });
   $('.slick_slide').slick({
     appendArrows:'.btt',
-    nextArrow: '<button class="next w-25 h-6 "><span class="icon-Group-2452"></span></button>',
+    nextArrow: '<button class="next w-25 h-6"><span class="icon-Group-2452"></span></button>',
     prevArrow: '<button class="prev w-25 h-6"><span class="icon-Group-2453"></span></button>'
   });
 }
   
+functions() {
+  $(".flip").click(function(){
+   $(".more").slideToggle("slow");
+  });
+  $('.Picture').slick({
+    appendArrows:'.but',
+    nextArrow: '<button class="next w-25 h-6 "><span class="icon-Group-2530"></span></button>',
+    prevArrow: '<button class="prev w-25 h-6"><span class="icon-Group-2454"></span></button>'
+  });
+}
+
+
 }
 
 new UserAgent().init()

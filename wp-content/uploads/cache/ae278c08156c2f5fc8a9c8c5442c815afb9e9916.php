@@ -4,7 +4,7 @@
             <span class="icon-Group-2468 z-1 text-10xl -right-49 opacity-40 absolute "></span>
             <div class="content z-2 relative ">
                 <div class=" row w-full">
-                    <div class="col w-full 2xl:w-1/2 ">
+                    <div class="col w-full xl:w-1/2 ">
                         <div class="TRAI">
                             <div class="gach text-orange">
                                 <h6>THE LATEST</h6>
@@ -31,7 +31,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col w-full 2xl:w-1/2 mt-10">
+                    <div class="col w-full xl:w-1/2 mt-10">
                         <div class="col w-full bg-white rounded-3xl mt-15 ">
                             <div class="dau2">
                                 <h3>Lorem ipsum dolor sit amet, consetetur</h3>

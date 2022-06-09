@@ -16,7 +16,7 @@
                 </p>
             </div>
         </div>
-        <div class="BUUtton">
+        <div class="Button">
             <div class="btt w-60 text-3xl absolute bg-orange bottom-25 -right-26 text-center tracking-widest "></div>
         </div>
     </div>

@@ -35,6 +35,7 @@ asc2(){
     });
   });
 }
+
 asc3(){
   $(document).ready(function(){
     $("slick_slide").click(function(){

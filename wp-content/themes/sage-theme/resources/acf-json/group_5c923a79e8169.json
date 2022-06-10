@@ -105,6 +105,15 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62a2c4d36ac9f": {
+                    "key": "layout_62a2c4d36ac9f",
+                    "name": "AUC",
+                    "label": "AUC",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -130,5 +139,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1654745664
+    "modified": 1654834387
 }

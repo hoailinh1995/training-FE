@@ -1,4 +1,4 @@
-<section class="module-LogoContent font-poppins w-full m-auto xx:w-1/2 2xl:w-60-per lg:w-70-per md:w-80-per">
+<section class="module-LogoContent font-poppins w-full m-auto xx:w-1/2 ">
     <div class="">
         <div class="">
             <div class="title font-bold text-4xl">

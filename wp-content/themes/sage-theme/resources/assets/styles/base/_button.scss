@@ -16,3 +16,6 @@
 .btn-slideno{
   @apply text-orange hover:text-yellow
 }
+.btn-white{
+  @apply text-white border-white hover:text-orange hover:border-orange
+}

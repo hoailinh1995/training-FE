@@ -1,7 +1,7 @@
 <section class="module-Header font-poppins w-full">
     <div class="bg-cover right-0 left-0 top-0 bottom-0 h-910 absolute z-1" style="background-image:url(<?= \App\asset_path('images/BG1.png'); ?>)" ></div>
         <!-- <img class="" src="<?= \App\asset_path('images/BG.png'); ?>"> -->
-    <div class="container absolute top-18.5 left-375 z-2">
+    <div class="container absolute top-18.5 left-375 z-3">
         <div class="menu row text-center">
             <div class="logo w-30-per">
                 <img class="" src="<?= \App\asset_path('images/E.png'); ?>">
@@ -33,9 +33,10 @@
                     <button class="btn-red font-extrabold rounded-full w-95 h-20">ABOUT US</button>
                 </div>
             </div>
-            <!-- <div class="image w-65-per">
-                <div class="bg-cover right-0 left-0 top-0 bottom-0 h-910 absolute z-1" style="background-image:url(<?= \App\asset_path('images/Lap.png'); ?>)" ></div>
-            </div> -->
+            <div class="image w-65-per">
+                <div class="bg-cover right-0 bottom-0 h-690 absolute z-2 w-1565 top-73 left-5" style="background-image:url(<?= \App\asset_path('images/lap1.png'); ?>)" ></div>
+                <div class="bg-cover top-315 left-663 h-500 absolute z-2 w-330" style="background-image:url(<?= \App\asset_path('images/phone1.png'); ?>)" ></div>
+            </div>
         </div>
     </div>
 </section>

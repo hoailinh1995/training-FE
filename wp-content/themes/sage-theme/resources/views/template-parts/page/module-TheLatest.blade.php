@@ -1,9 +1,9 @@
 <section class="module-TheLatest font-nunito relative">
     <meta name="viewport" content="width-device-width, initial-scale=1">
-    <span class="icomoon icon-iconC text-40xl absolute z-1 right-60 top-34 opacity-25"></span>
+    <span class="icomoon icon-iconC text-40xl absolute z-1 right-195 top-34 opacity-25"></span>
         <div class="container relative z-3 py-60">
-            <div class="font-bold text-red-700 p-4">
-                <p>THE LATEST</p>
+            <div class=" p-4">
+                <p class=" font-bold text-red-700">THE LATEST</p>
             </div>
             <div class="flex flex-row flex-wrap ">
                 <div class="left w-full lg:w-1/2  p-4">

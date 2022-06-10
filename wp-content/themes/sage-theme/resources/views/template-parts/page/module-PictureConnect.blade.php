@@ -1,9 +1,9 @@
 <section class="module-PictureConnect font-poppins">
-    <div class="container flex flex-row w-full">
-        <div class="image w-90-per">
-            <img class="" src="@asset('images/Pic.png')">
-        </div>
-        <div class="content w-1/2 pt-210">
+    <div class="image absolute z-1 w-60-per">
+        <img class="" src="@asset('images/Pic.png')">
+    </div>
+    <div class="container absolute z-1 top-205 mt-1880 right-7.5 w-40-per">
+        <div class="content w-66-per pt-210">
             <div class="title text-4xl font-bold mb-10">
                 Connecting Your Business to What Matters Most
             </div>

@@ -105,6 +105,15 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62a693aeb1238": {
+                    "key": "layout_62a693aeb1238",
+                    "name": "Footer",
+                    "label": "Footer",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -130,5 +139,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1654655624
+    "modified": 1655083950
 }

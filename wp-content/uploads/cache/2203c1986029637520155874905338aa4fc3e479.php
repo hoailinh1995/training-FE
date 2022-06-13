@@ -1,6 +1,6 @@
 <section class="module-LogoContent bg-gra font-poppins m-auto xx:w-1/2 2xl:w-60-per lg:w-70-per md:w-80-per">
     <div class="">
-        <div class="title font-bold w-1/2">
+        <div class="title font-bold w-full">
             <h3>
                 Our Open Ecosystem of Partners Gives You the Power to Choose
             </h3>

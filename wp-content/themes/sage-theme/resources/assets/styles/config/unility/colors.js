@@ -24,7 +24,9 @@ const Colors = {
   transparent: 'transparent',
   gray:{
     100: '#D4D3D2',
-    10: '#666666'
+    10: '#666666',
+    30: '#909090',
+    40: '#B6CFD0',
   }
 }
 module.exports = {

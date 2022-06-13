@@ -1,5 +1,5 @@
 <section class="modul_AOC">
-    <div class="CONTAINERR bg-gray-300 h-500 lg:h-315 xl:h-350 ">
+    <div class="CONTAINERR bg-gray-300 h-520 lg:h-315 xl:h-350 ">
         <div class="Contents row xl:relative pt-5-per">
 
             <div div class="Left w-full w-85-per pl-15-per pt-3-per lg:w-1/2 lg:w-38-per lg:pl-45 xl:ml-5-per">

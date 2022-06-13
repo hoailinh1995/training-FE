@@ -28,7 +28,7 @@ export default class UserAgent {
       prevArrow: '<button class="btn-slideno"><span class="icomoon icon-chevron-left1"></span></button>'
     });
     $('.slickSlide3').slick({
-      appendArrows: '.butSlide2',
+      // appendArrows: '.butSlide2',
       nextArrow: '<button class="btn-slideno"><span class="icomoon icon-chevron-right1"></span></button>',
       prevArrow: '<button class="btn-slideno"><span class="icomoon icon-chevron-left1"></span></button>'
     });

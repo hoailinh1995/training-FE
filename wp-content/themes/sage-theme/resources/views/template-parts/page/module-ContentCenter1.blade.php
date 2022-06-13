@@ -1,9 +1,9 @@
 <section class="module-ContentCenter1 xx:w-1/2 2xl:w-60-per lg:w-70-per md:w-80-per font-poppins w-1/2 mt-690 m-auto">
     <div class="container">
         <div class="title text-center font-bold text-4xl pl-250 pr-250 animate-bounce">
-            <h3>
+            <h2>
                 Enterprise ERP Solutions for Beverage & Food Industry    
-            </h3>
+            </h2>
         </div>
         <div class="para text-center font-light text-xl pl-15 pr-15">
             <p>

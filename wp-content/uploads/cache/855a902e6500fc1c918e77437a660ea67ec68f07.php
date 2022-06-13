@@ -1,4 +1,4 @@
-<section class="module-ContentCenter2 font-poppins w-full m-auto">
+<section class="module-ContentCenter2 font-poppins w-full m-auto absolute top-1222 -left-5">
     <div class="container">
         <div class="icon w-70-per m-auto">
             <div class="flex flex-row ">

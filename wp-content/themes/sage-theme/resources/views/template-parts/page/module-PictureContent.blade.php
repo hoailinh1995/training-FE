@@ -1,4 +1,4 @@
-<section class="module-PictureContent font-poppin">
+<section class="module-PictureContent font-poppin pt-450">
     <div class="container flex flex-row w-full">
         <div class="image">
             <img src="@asset('/images/PicCtn.png')">

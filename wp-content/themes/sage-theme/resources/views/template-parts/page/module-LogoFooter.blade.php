@@ -11,8 +11,8 @@
             </p>
         </div>
         <div class="logo">
-            <div class="slick_slide3 w-90-per m-auto">
-                <div class="w-full text-center align-middle">
+            <div class="slick_slide3 w-90-per m-auto ">
+                <div class="w-full absolute left-1340">
                     <div class="lg1 w-13-per float-left"><img class="" src="@asset('/images/1.png')"></div>
                     <div class="lg2 w-13-per float-left ml-17 -mt-5"><img class="" src="@asset('/images/2.png')"></div>
                     <div class="lg3 w-13-per float-left -mt-9 ml-18"><img class="" src="@asset('/images/3.png')"></div>
@@ -20,7 +20,7 @@
                     <div class="lg5 w-13-per float-left mt-2 ml-5"><img class="" src="@asset('/images/5.png')"></div>
                     <div class="lg6 w-13-per float-left -mt-2 -ml-8"><img class="" src="@asset('/images/6.png')"></div>
                 </div>
-                <div class="w-full text-center align-middle">
+                <div class="w-full text-center align-middle left-1340">
                 <div class="lg1 w-13-per float-left"><img class="" src="@asset('/images/1.png')"></div>
                     <div class="lg2 w-13-per float-left ml-17 -mt-5"><img class="" src="@asset('/images/2.png')"></div>
                     <div class="lg3 w-13-per float-left -mt-9 ml-18"><img class="" src="@asset('/images/3.png')"></div>

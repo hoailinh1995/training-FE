@@ -13,6 +13,12 @@
                 <img src="@asset('images/Anh4.png')" alt="hinh">
                 <img src="@asset('images/Anh5.png')" alt="hinh">
                 <img src="@asset('images/Anh6.png')" alt="hinh">    
+                <img src="@asset('images/Anh1.png')" alt="hinh">
+                <img src="@asset('images/Anh2.png')" alt="hinh">
+                <img src="@asset('images/Anh3.png')" alt="hinh">
+                <img src="@asset('images/Anh4.png')" alt="hinh">
+                <img src="@asset('images/Anh5.png')" alt="hinh">
+                <img src="@asset('images/Anh6.png')" alt="hinh">    
         </div>
     </div>
 </section>

@@ -13,6 +13,12 @@
                 <img src="<?= \App\asset_path('images/Anh4.png'); ?>" alt="hinh">
                 <img src="<?= \App\asset_path('images/Anh5.png'); ?>" alt="hinh">
                 <img src="<?= \App\asset_path('images/Anh6.png'); ?>" alt="hinh">    
+                <img src="<?= \App\asset_path('images/Anh1.png'); ?>" alt="hinh">
+                <img src="<?= \App\asset_path('images/Anh2.png'); ?>" alt="hinh">
+                <img src="<?= \App\asset_path('images/Anh3.png'); ?>" alt="hinh">
+                <img src="<?= \App\asset_path('images/Anh4.png'); ?>" alt="hinh">
+                <img src="<?= \App\asset_path('images/Anh5.png'); ?>" alt="hinh">
+                <img src="<?= \App\asset_path('images/Anh6.png'); ?>" alt="hinh">    
         </div>
     </div>
 </section>

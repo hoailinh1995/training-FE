@@ -12,7 +12,7 @@
                     <p>Our completely open API provides the ability to choose the resources, functionality, and partners that you need to accomplish what you want in the way that you want while still experiencing the ease of a single sign-on experience without compromising efficiency or breaking data flow.</p>
                 </div>
             </div>
-            <div class="slick_slide1 bg-blue-400 w-full h-650 lg:w-1/2">                  
+            <div class="slick_slide1 bg-blue-400 w-full h-650 lg:w-1/2 ">                  
                     <div class="anh1 pl-44">
                         <img src="<?= \App\asset_path('images/Mega1.png'); ?>" alt="hinh">
                     </div>
@@ -20,7 +20,7 @@
                         <img src="<?= \App\asset_path('images/Mega1.png'); ?>" alt="hinh">
                     </div>                 
             </div>
-            <div class="button_slick1 row absolute bg-blue-400 w-50 h-50 left-326 bottom-60 ">         
+            <div class="button_slick1 row absolute bg-blue-400 w-50 h-50 left-326 bottom-60 lg:left-750 lg:bottom-200 2xl:left-1030 2xl:bottom-60">         
             </div>
         </div>
     </div>

@@ -1,6 +1,20 @@
 <footer id="footer" class="module footer">
   <div class="container footer-top">
-    <div class="row">
+    <img src="@asset('images/Anh1.png')" alt="hinh">
+  </div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+    <!-- <div class="row">
       <ul class="list-none col p-0 w-1/2 lg:w-2/3">
       </ul>
       <div class="footer-item-col col w-1/2 lg:w-1/3">
@@ -14,8 +28,8 @@
     </div>
   </div>
 </footer>
-
-<!-- endblock -->
+--------------------------------------------------------------------------------------------
+                    --endblock---
 <noscript>
 <div id="mod-noscript" class="mod-noscript bg-black text-white fixed inset-0 z-200">
     <div class="table w-full h-full">
@@ -26,5 +40,5 @@
       </div>
     </div>
   </div>
-</noscript>
+</noscript> -->
 

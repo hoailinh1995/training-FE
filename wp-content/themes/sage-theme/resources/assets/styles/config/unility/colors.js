@@ -2,7 +2,8 @@ const Colors = {
   primary: '#b94a02',
   green: {
     100: '#576541',
-    200: '#B6CFD0'
+    200: '#B6CFD0',
+    300: '#F1F5F5',
 
   },
   yellow: '#e0aa2a',
@@ -10,6 +11,10 @@ const Colors = {
     100: '#b94a02',
     200: '#A33100',
     300: '#dfc8a0'
+  },
+  red: {
+    100:'#E03116',
+
   },
   gray: {
     100: '#fcf7ef',

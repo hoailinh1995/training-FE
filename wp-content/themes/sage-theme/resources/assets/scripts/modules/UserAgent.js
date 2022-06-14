@@ -73,6 +73,7 @@ asc5(){
     this.asc4()
     this.asc5()
     this.function()
+    this.function1()
   }
 function(){
 
@@ -82,6 +83,13 @@ function(){
       prevArrow: '<button class="back w-25"><span class="icomoon icon-chevron-left"></span></button>'
     });
   }
+function1(){
+  $('.slick_slide1').slick({
+    appendArrows: '.button_slick1',
+    nextArrow: '<button class="next w-25"><span class="icomoon icon-chevron-right"></span></button>',
+    prevArrow: '<button class="back w-25"><span class="icomoon icon-chevron-left"></span></button>'
+  });
+}
 }
 
 new UserAgent().init()

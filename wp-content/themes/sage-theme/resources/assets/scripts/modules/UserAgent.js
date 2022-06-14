@@ -17,6 +17,15 @@ export default class UserAgent {
     $(".flip3").click(function(){
       $(".more3").slideToggle("slow");
     });
+    $(".flip_a").click(function(){
+      $(".explore1").slideToggle("slow");
+    });
+    $(".flip_b").click(function(){
+      $(".explore2").slideToggle("slow");
+    });
+    $(".flip_c").click(function(){
+      $(".explore3").slideToggle("slow");
+    });
     $('.slick_slide').slick({
       appendArrows: '.button_slick',
       nextArrow: '<button class="btn-red w-1/2"><span class="icomoon icon-chevron-right"></span></button>',
@@ -28,8 +37,8 @@ export default class UserAgent {
       prevArrow:  '<button class="btn-slick-none"><span class="icomoon icon-chevron-left"></span></button>'
     });
     $('.slick_slide3').slick({
-      nextArrow:  '<button class="btn-slick-none absolute right-18 top-11 text-4xl"><span class="icomoon icon-chevron-right""></span></button>',
-      prevArrow:  '<button class="btn-slick-none absolute left-10 top-11 text-4xl"><span class="icomoon icon-chevron-left"></span></button>'
+      nextArrow:  '<button class="btn-slick-none absolute right-18 top-11 text-4xl z-2"><span class="icomoon icon-chevron-right""></span></button>',
+      prevArrow:  '<button class="btn-slick-none absolute left-10 top-11 text-4xl z-2"><span class="icomoon icon-chevron-left"></span></button>'
     });
   }
 }

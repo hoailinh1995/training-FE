@@ -16,3 +16,9 @@
 .btn-slick-none{
   @apply text-orange hover:text-green-500;
 }
+.btn-green{
+  @apply text-white border-white hover:text-green-500 hover:border-green-500;
+}
+.btn-white{
+  @apply text-white hover:text-green-500;
+}

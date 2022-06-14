@@ -1,15 +1,13 @@
-<section class="module-PictureContent font-poppin pt-450">
-    <div class="container flex flex-row w-full">
-        <div class="image">
-            <img src="<?= \App\asset_path('/images/PicCtn.png'); ?>">
+<section class="module-PictureContent font-poppin xx:pt-450">
+    <div class="image -ml-63 -mt-51">
+            <img src="<?= \App\asset_path('/images/PicCtn.png'); ?>" loading="lazy">
         </div>
-        <div class="content w-1/2 pt-200">
+    <div class="container absolute right-318 top-2045 w-26-per">
+        <div class="content">
             <div class="title text-4xl font-bold">
-                <h2>
                     Connecting Your Business to What Matters Most
-                </h2>
             </div>
-            <div class="para text-base font-light leading-5 w-full">
+            <div class="para text-base font-light leading-5 w-90-per">
                 <p>
                     At Encompass, we are committed to improving the way the beverage industry works. 
                 </p>
@@ -21,7 +19,7 @@
                 </p>
             </div>
             <div class="text-base">
-                <button class="btn-red font-extrabold rounded-full w-95 h-20">LEARN MORE</button>
+                <button class="btn-red font-extrabold rounded-full w-240 h-26">LEARN MORE</button>
             </div>
         </div>
     </div>

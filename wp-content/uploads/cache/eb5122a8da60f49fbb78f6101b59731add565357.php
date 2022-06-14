@@ -1,24 +1,25 @@
-<section class="module-Header font-poppins w-full ">
+<section class="module-Header font-poppins w-full">
     <div class="bg-cover left-0 right-0 top-0 bottom-0 h-943 absolute z-1" style="background-image:url(<?= \App\asset_path('/images/header.png'); ?>)" ></div>
+    <!-- <div class="border top-2 absolute z-10"></div> -->
     <div class="container absolute z-2 top-21 left-360">
         <div class="logo w-30-per">
             <img src="<?= \App\asset_path('/images/encompass.png'); ?>">
         </div>
-        <div class="menu w-52-per row text-left text-white absolute z-2 left-508 top-1 ">
-            <div class="w-1/4 font-semibold text-lg">
+        <div class="menu w-52-per row text-left absolute z-2 left-508 top-1 -ml-2">
+            <div class="btn-white w-1/4 font-semibold text-lg">
                     ABOUT US
             </div>
-            <div class="w-1/4 font-semibold text-lg">
+            <div class="btn-white w-1/4 font-semibold text-lg">
                     LEADERSHIP
             </div>
-            <div class="w-1/4 font-semibold text-lg pl-6">
+            <div class="btn-white w-1/4 font-semibold text-lg pl-6">
                     CAREERS
             </div>
-            <div class="w-1/4 font-semibold text-lg">
+            <div class="btn-white w-1/4 font-semibold text-lg">
                     CONTACT US
             </div>
         </div>
-        <div class="title w-40-per xx:mt-180 xx:-ml-7">
+        <div class="title w-40-per xx:mt-180 xx:ml-1 animate-opacity">
             <div class="font-bold">
                 <h2 class="text-white text-7xl">
                     Unlock the Power of Connection

@@ -1,8 +1,8 @@
-<section class="module-TheLatest relative font-poppins">
+<section class="module-TheLatest relative font-poppins xx:-mt-55">
 <span class="icomoon icon-iconC text-70xl absolute z-1 right-154 top-86 opacity-25 text-gray-100"></span>
     <div class="container w-full relative z-3 py-60">
-        <div class="font-extrabold text-red-700"> 
-            <p>THE LATEST</p>
+        <div class="ml-51"> 
+            <p class="font-extrabold text-red-700">THE LATEST</p>
         </div>
         <div class="flex flex-row flex-wrap w-full">
             <div class="left xx:w-1/2 xx:ml-48 w-full lg:w-1/2 p-4 ">

@@ -1,16 +1,16 @@
-<section class="module-abc mt-1000">
+<section class="module-abc mt-1140 ml-100">
   <meta name="viewport" content="width-device-width, initial-scale=1">
   <div class="container">
     <div class="row w-100-per">
       <div class="left col xx:w-35-per">
         <div class=" border-t-1 w-44-per bg-orange h-1 mb-15 ml-1"></div>
-        <div class="the text-4xl font-bold leading-10">
-          <h2>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h2>
+        <div class="the text-4xl font-bold w-90-per leading-10">
+          The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:
         </div>
       </div>
       <div class="right col xx:w-65-per xx:pl-30">
         <div class="row ">
-        <div class="left col xx:w-40-per">
+        <div class="left col xx:w-40-per -ml-10">
           <div class="a">
             <div class="drive">
               <h3>Drive Business Growth</h3>
@@ -29,7 +29,7 @@
             </div>
           </div>
         </div>
-        <div class="phai col xx:w-44-per xx:pl-40">
+        <div class="phai col xx:w-44-per xx:pl-40 -ml-25">
           <div class="c">
             <div class="Leverage">
               <h3>Leverage Real-Time Data for Better Decision-Marking</h3>
@@ -50,28 +50,24 @@
         </div>
       </div>
     </div>
-    <div class="slide bg-white rounded-4xl shadow-2xl xx:w-910 xx:mt-35 m-auto relative z-1">
-        <div class="slickSlide">
-            <div class="p-46 pr-100 font-bold text-4xl">
-                <h2>
+    <div class="slide bg-white rounded-4xl shadow-2xl xx:w-73-per xx:mt-35 xx:ml-10  m-auto relative z-1">
+        <div class="slickSlide h-470 w-90-per">
+            <div class=" mt-8 ml-10 p-46 pr-100 font-bold text-4xl">
                     “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
-                </h2>
-                <p class=" font-bold text-xl">
+                <p class=" font-bold text-xl mt-9">
                     David Little <br>
                     CTO, Savannah Distributing
                 </p>
             </div>
-            <div class="p-46 pr-100 font-bold text-4xl">
-                <h2>
+            <div class=" mt-8 ml-10 p-46 pr-100 font-bold text-4xl">
                     “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
-                </h2>
-                <p class=" font-bold text-xl">
+                <p class=" font-bold text-xl mt-9">
                     David Little <br>
                     CTO, Savannah Distributing
                 </p>
             </div>
         </div>
-        <div class="buttonSlide absolute z-2 text-3xl -right-9 bottom-25 w-50 "></div>
+        <div class="buttonSlide absolute z-2 text-3xl left-898 bottom-35 w-14-per "></div>
     </div>
   </div>
 </section>

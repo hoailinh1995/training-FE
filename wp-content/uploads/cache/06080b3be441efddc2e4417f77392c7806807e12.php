@@ -3,23 +3,23 @@
         <!-- <img class="" src="<?= \App\asset_path('images/BG.png'); ?>"> -->
     <div class="container w-full absolute top-18.5 left-375 z-3">
         <div class="logo">
-            <img class="" src="<?= \App\asset_path('images/E.png'); ?>">
+            <img class=" -ml-7" src="<?= \App\asset_path('images/E.png'); ?>">
         </div>
         <div class="menu row w-52-per text-left absolute z-2 left-500 top-1">
-            <div class="m1 w-1/4 text-white font-semibold text-lg">
+            <div class="m1 w-1/4 btn-white font-semibold text-lg">
                 ABOUT US
             </div>
-            <div class="m2 w-1/4 text-white font-semibold text-lg">
+            <div class="m2 w-1/4 btn-white font-semibold text-lg">
                 LEADERSHIP
             </div>
-            <div class="m3 w-1/4 text-white font-semibold pl-7 text-lg">
+            <div class="m3 w-1/4 btn-white font-semibold pl-7 text-lg">
                 CAREERS
             </div>
-            <div class="m w-1/4 text-white font-semibold text-lg">
+            <div class="m w-1/4 btn-white font-semibold text-lg">
                 CONTACT US
             </div>
         </div>
-        <div class="bot text-left w-40-per xx:mt-90">
+        <div class="bot text-left w-40-per xx:mt-90 xx:-ml-7">
                 <div class="title font-bold">
                     <h2 class="text-white text-8xl">
                         Unlock the Power of Connection
@@ -31,7 +31,7 @@
                     </p> 
                 </div>
                 <div class="text-base">
-                    <button class="btn-red font-extrabold rounded-full absolute z-2 top-437 w-240 h-29">ABOUT US</button>
+                    <button class="btn-red font-extrabold rounded-full absolute z-3 top-437 w-240 h-29">ABOUT US</button>
                 </div>
         </div>
             <div class="image w-65-per">

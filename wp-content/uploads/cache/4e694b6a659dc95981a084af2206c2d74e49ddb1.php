@@ -1,4 +1,4 @@
-<section class="module-EncompassFooter font-poppins w-full absolute">
+<section class="module-EncompassFooter font-poppins w-full absolute xx:-mt-240">
     <div class="bg-cover right-0 left-0 top-0 bottom-0 h-460 absolute z-1" style="background-image:url(<?= \App\asset_path('images/BF1.png'); ?>)" ></div>
     <div class="container">
         <div class="logo w-30-per">
@@ -10,13 +10,13 @@
             </div>
         </div>
         <div class="under row w-55-per top-350 left-640 text-center absolute z-2">
-            <div class="m1 font-semibold text-white text-base w-20-per">
+            <div class="m1 font-semibold btn-white text-base w-20-per">
                 ORCHESTRA SITE
             </div>
-            <div class="m2 font-semibold text-white text-base w-20-per">
+            <div class="m2 font-semibold btn-white text-base w-20-per">
                 ENCOMPASS WEBSITE
             </div>
-            <div class="m3 font-semibold text-white text-base w-20-per">
+            <div class="m3 font-semibold btn-white text-base w-20-per">
                 HANDOFF WEBSITE
             </div>
         </div>

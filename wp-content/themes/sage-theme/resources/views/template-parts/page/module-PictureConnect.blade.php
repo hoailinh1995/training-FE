@@ -1,10 +1,10 @@
-<section class="module-PictureConnect font-poppins">
-    <div class="image absolute z-1 w-60-per">
+<section class="module-PictureConnect font-poppins xx:-mt-40">
+    <div class="image absolute z-1 w-1270 h-515 -ml-65 -mt-8">
         <img class="" src="@asset('images/Pic.png')">
     </div>
-    <div class="container absolute z-1 top-205 mt-1880 right-7.5 w-40-per">
+    <div class="container absolute z-1 top-205 mt-1626 right-25 w-40-per">
         <div class="content w-66-per pt-210">
-            <div class="title text-4xl font-bold mb-10">
+            <div class="title text-4xl font-bold w-529 mb-10">
                 Connecting Your Business to What Matters Most
             </div>
             <div class="para text-base w-90-per font-light leading-5">
@@ -19,7 +19,7 @@
                 </p>
             </div>
             <div class=" text-white text-base ">
-                <button class="btn-red rounded-full font-extrabold w-95 h-20">LEARN MORE</button>
+                <button class="btn-red rounded-full font-extrabold mt-12 w-235 h-28">LEARN MORE</button>
             </div>
         </div>
     </div>

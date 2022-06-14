@@ -1,4 +1,4 @@
-<section class="module-ContentCenter2 font-poppins w-full m-auto">
+<section class="module-ContentCenter2 font-poppins w-full -mt-36 m-auto">
     <div class="container">
         <div class="icon">
             <div class="flex flex-row pb-10 w-70-per m-auto">
@@ -28,15 +28,16 @@
                         </h3>
                     </div>
                     <div class="para1 w-75-per font-light text-lg m-auto">
-                        <p class="">
-                            Over 400 breweries, distilleries, and cideries use Encompass' Orchestra Cloud to work from a single source of truth for operations, data, and decision making. Streamlining the business in this way provides benefits that extend to tier-to-tier automation, process transparency, and predictive forecasting.
-                        </p>
-                    </div>
-                    <div class="link1 btn-slideno text-base font-bold mt-65">
-                        <a class=" no-underline" href="">
+                        Over 400 breweries, distilleries, and cideries use Encompass' Orchestra Cloud to work from a single source of truth for operations, data, and decision making. Streamlining the business in this way provides benefits that extend to tier-to-
+                        <div class="morea" style="display: none;">
+                            tier automation, process transparency, and predictive forecasting.
+                        </div>
+                        <div class="flipa text-base font-bold mt-7">
+                        <p class=" btn-slideno">
                             EXPLORE ORCHESTRA
-                        </a>
-                        <span class="icomoon icon-chevron-right"></span>
+                            <span class="icomoon icon-chevron-right1"></span>
+                        </p>
+                        </div>
                     </div>
                 </div>
                 <div class="cont2 text-center w-1/3">
@@ -45,16 +46,17 @@
                             Solutions for Distributors
                         </h3>
                     </div>
-                    <div class="para2 w-70-per font-light text-lg m-auto">
-                        <p class="">
-                            Encompass Cloud powered by the Encompass Platform is specifically built for the beverage and food distribution industry. Encompass Cloud integrates warehouse management, sales execution, logistics, warehouse automation, and retailer ordering tools in a way that makes the overall business function smoothly, predictably, efficiently.
-                        </p>
-                    </div>
-                    <div class="link2 btn-slideno text-base font-bold">
-                        <a class=" no-underline" href="">
+                    <div class="para2 w-83-per font-light text-lg m-auto">
+                        Encompass Cloud powered by the Encompass Platform is specifically built for the beverage and food distribution industry. Encompass Cloud integrates warehouse management, sales execution, logistics, warehouse automation, and retailer ordering tools in a way that
+                        <div class="moreb" style="display: none;">
+                            makes the overall business function smoothly, predictably, efficiently.
+                        </div>
+                        <div class="flipb text-base font-bold mt-6">
+                        <p class=" btn-slideno">
                             EXPLORE ENCOMPASS CLOUD
-                        </a>
-                        <span class="icomoon icon-chevron-right"></span>    
+                            <span class="icomoon icon-chevron-right1"></span>
+                        </p>
+                        </div>
                     </div>
                 </div>
                 <div class="cont3 text-center w-1/3">
@@ -63,16 +65,17 @@
                             Solutions for Retailers
                         </h3>
                     </div>
-                    <div class="para3 w-70-per font-light text-lg m-auto">
-                       <p class="">
-                            Our Retail solutions are advancing the way beverage retailers do business by optimizing commercial interactions between distributors, retailers, and consumers. This is done by consolidating online ordering and retail eCommerce websites with advanced product discovery and delivery applications. 
-                        </p> 
-                    </div>
-                    <div class="link3 btn-slideno text-base font-bold mt-30">
-                        <a class=" no-underline" href="">
+                    <div class="para3 w-83-per font-light text-lg m-auto">
+                        Our Retail solutions are advancing the way beverage retailers do business by optimizing commercial interactions between distributors, retailers, and consumers. This is done by consolidating online ordering and retail eCommerce websites with advanced product
+                        <div class="morec" style="display: none;">
+                            discovery and delivery applications. 
+                        </div>
+                        <div class="flipc text-base font-bold mt-6">
+                        <p class=" btn-slideno">
                             EXPLORE RETAIL SOLUTION 
-                        </a>
-                        <span class="icomoon icon-chevron-right"></span>
+                            <span class="icomoon icon-chevron-right1"></span>
+                        </p>
+                        </div>
                     </div>
                 </div>
             </div>

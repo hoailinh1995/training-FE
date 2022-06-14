@@ -1,7 +1,7 @@
-<section class="module-AboveLatest font-poppins">
+<section class="module-AboveLatest font-poppins xx:ml-204 xx:mt-10">
     <div class="container">
         <div class="flex flex-row flex-wrap w-full">
-            <div class="content1 w-1/3 border-gray-10 border-r-2">
+            <div class="content1 w-383 border-gray-10 border-r-2">
                 <div class=" h-90">
                     <img class="" src="@asset('images/L1.png')">
                 </div>
@@ -13,7 +13,7 @@
                 </p>
             </div>
             <!-- <div class="line bg-red-600 w-1 h-380"></div> -->
-            <div class="content2 border-gray-10 border-r-2 pl-35 w-1/3">
+            <div class="content2 border-gray-10 border-r-2 ml-28 w-357">
                 <div class="h-90">
                     <img class="" src="@asset('images/L2.png')">
                 </div>
@@ -24,7 +24,7 @@
                     Flexible Solutions
                 </p>
             </div>
-            <div class="content3 pl-35 w-1/3">
+            <div class="content3 ml-33 w-1/3">
                 <div class="h-90">
                     <img class=" h-82" src="@asset('images/L3.png')">
                 </div>  

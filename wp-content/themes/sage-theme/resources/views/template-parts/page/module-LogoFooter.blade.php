@@ -1,5 +1,5 @@
-<section class="module-LogoFooter font-poppins">
-    <div class="container">
+<section class="module-LogoFooter font-poppins relative z-2 border-t-4 xx:-mt-23 xx:-ml-12">
+    <div class="container mt-56">
         <div class="title font-bold text-center text-4xl w-30-per m-auto animate-pulse">
             <h3>
                 Trusted By Industry Leaders Across the Supply Chain
@@ -10,7 +10,7 @@
                We are trusted by the world's leading manufacturers, distributors, and retailers to provide the best of what technology, specifically built for the beverage and food industry, can make possible. 
             </p>
         </div>
-        <div class="logo">
+        <div class="logo -mt-20">
             <div class="SlickLogo">
                 <div class="slickSlide3">
                 <div>

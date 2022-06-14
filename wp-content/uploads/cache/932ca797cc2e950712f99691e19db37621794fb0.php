@@ -1,50 +1,38 @@
-<header id="header" class="module header w-full top-0 left-0 fixed z-200 down_lg:overflow-hidden">
-    <div class="container">
-        <nav class="row navbar items-center">
+<header id="header" class="module header h-375 lg:h-250 xl:h-300">
+    <div class=" col relative bg-cover h-300 w-full" style="background-image: url(<?= \App\asset_path('images/Header.png'); ?>)">
+
+        <div class=" col h-1/5 ">
+            <div class="absolute top-10 lg:top-13 lg:ml-5-per 2xl:ml-15-per">
+                <img src="<?= \App\asset_path('images/Logo.png'); ?>" alt="hinh">
+            </div>
             <div
-                class="col w-full down_lg:flex down_lg:flex-wrap lg:w-1/5 header-mobile relative justify-between items-center">
-                <div class="lg:w-full relative">
-                    <a id="header-logo" class="navbar-brand header-logo py-5 inline-block align-middle"
-                        href="<?php echo App::getLogo()['href']; ?>">
-                        <img src="<?php echo App::getLogo()['url']; ?>" alt="<?php echo App::getLogo()['alt']; ?>" class="w-full">
-                    </a>
+                class="absolute text-strong text-gray-100 -right-20-per top-4.5-per lg:top-5.5-per lg:left-35-per xl:left-45-per">
+                <h4>ABOUT
+                    US&nbsp;&nbsp;&nbsp;&nbsp;LEADERSHIP&nbsp;&nbsp;&nbsp;&nbsp;CREERS&nbsp;&nbsp;&nbsp;&nbsp;CONTACTS
+                    US</h4>
+            </div>
+        </div>
+
+        <div class="col  h-4/5">
+            <div class="Content lg:ml-5-per 2xl:mt-2-per 2xl:ml-15-per">
+                <div class="Head text-center text-gray-100 lg:w-40-per lg:text-left xl:w-35-per ">
+                    <h1>Unlock the Power of Connection</h1>
                 </div>
-                <div class="block lg:hidden">
-                    <button class="navbar-toggler hamburger-menu p-4 mt-0 cursor-pointer" type="button"
-                        data-toggle="collapse" data-target="#main-menu" aria-controls="main-menu" aria-expanded="false"
-                        aria-label="Toggle navigation">
-                        <span class="icon-bar block bg-white relative ml-auto w-16 h-2"></span>
-                        <span class="icon-bar block bg-white relative ml-auto w-16 h-2 mt-3"></span>
-                        <span class="icon-bar block bg-white relative ml-auto w-16 h-2 mt-3"></span>
-                        <span class="sr-only">Open Menu</span>
-                    </button>
+                <div
+                    class="Body text-center w-65-per ml-17-per text-gray-100 lg:w-32-per lg:text-left lg:ml-0 2xl:w-25-per">
+                    <h4>Connect & Grow Your Business with the Power of the Encompass Platform</h4>
+                </div>
+                <div
+                    class="Block bg-red-200 w-30-per text-center rounded-3xl ml-35-per text-gray-100  lg:w-25-per lg:ml-0 xl:w-15-per 2xl:w-12-per">
+                    <h5>ABOUT US</h5>
                 </div>
             </div>
 
-            <div class="col w-full lg:w-4/5 navbar-collapse main-menu flex flex-col justify-between" id="main-menu"
-                data-module="menu">
-                <ul class="main-menu-ul navbar-nav list-none flex mb-0 p-0 text-white flex-col text-inherit
-        lg:flex-row lg:justify-end">
-                    <li class="menu-item mb-0 ">
-                        <a class="block py-9 lg:p-9 no-underline" href="#">Workshops</a>
-                    </li>
-                    <li class="menu-item mb-0">
-                        <a class="block py-9 lg:p-9 no-underline" href="#">erp-selection</a>
-                    </li>
-                    <li class="menu-item mb-0">
-                        <a class="block py-9 lg:p-9 no-underline" href="#">Erp lanning</a>
-                    </li>
-
-                    <li class="active menu-item mb-0">
-                        <a class="block py-9 lg:p-9 no-underline" href="#">Program Mangement</a>
-                    </li>
-                    <li class="menu-item mb-0">
-                        <a class="block py-9 lg:p-9 no-underline" href="#">Training</a>
-                    </li>
-                </ul>
-                <?php echo App::getMainNav(); ?>
-
+            <div
+                class="absolute top-50-per -right-45-per -ml-20-per lg:ml-5-per lg:-right-20-per lg:top-10-per xl:ml-5-per xl:top-10-per xl:-right-17-per 2xl:-right-1-per">
+                <img src="<?= \App\asset_path('images/Headerr.png'); ?>" alt="hinh">
             </div>
-        </nav>
+        </div>
     </div>
+
 </header>

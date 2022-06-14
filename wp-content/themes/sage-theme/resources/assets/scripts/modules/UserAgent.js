@@ -72,10 +72,10 @@ slick_slide3(){
   $('.slick_slide3').slick({
     dots: true,
     speed: 300,
-    nextArrow: '<button class="next2 absolute z-2 left-100-per bottom-60 w-10 h-10"><span class="icomoon icon-Group-2455"></span></button>',
-    prevArrow: '<button class="prev2 absolute z-2 top-73 right-100-per w-10 h-10"><span class="icomoon icon-Group-2454"></span></button>',
     slidesToShow: 6,
     slidesToScroll: 6,
+    prevArrow: '.next1',
+    nextArrow: '.prev2',
     responsive: [
       {
         breakpoint: 1441,

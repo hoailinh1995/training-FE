@@ -45,7 +45,7 @@
                 <div class="Head2 lg:w-90-per lg:ml-7-per xl:w-150 xl:ml-18-per">
                     <h3>Solutions for Distributors</h3>
                 </div>
-                <div class="Body2 w-70-per ml-18-per xl:w-70-per xl:w-155">
+                <div class="Body2 w-70-per ml-18-per  xl:w-155">
                     <p>Encompass Cloud powered by the Encompass Platform is specifically built for the beverage and food
                         distribution industry. Encompass Cloud integrates warehouse management, sales execution,
                         logistics,

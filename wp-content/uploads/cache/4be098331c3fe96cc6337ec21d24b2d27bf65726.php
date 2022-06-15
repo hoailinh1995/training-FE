@@ -27,8 +27,8 @@
                         provides benefits that extend to tier-to-tier automation, process transparency, and predictive
                         forecasting.</p>
                 </div>
-                <div class="footer1 lg:ml-10-per xl:ml-30-per xl:pt-17-per">
-                    <h7>EXPLORE ORCHESTRA <span class="icon-Group-2530"></span></h7>
+                <div class="footer1 lg:ml-10-per xl:ml-35-per xl:pt-17-per font-bold text-orange">
+                    <h7>EXPLORE ORCHESTRA <span class="icon-Group-2530 "></span></h7>
                     <div
                         class="Pic1 pl-47-per mt-5-per lg:absolute lg:rotate-90 lg:-top-142 lg:left-35 xl:-top-160 xl:left-45 2xl:-top-185">
                         <img src="<?= \App\asset_path('images/ANH2591.png'); ?>" alt="hinh">
@@ -53,7 +53,7 @@
                         function
                         smoothly, predictably, efficiently.</p>
                 </div>
-                <div class="footer2 lg:mt-5-per lg:ml-6-per xl:ml-10-per 2xl:ml-2-per">
+                <div class="footer2 lg:mt-5-per lg:ml-6-per xl:ml-10-per 2xl:ml-2-per font-bold text-orange">
                     <h7>EXPLORE ORCHESTRA <span class="icon-Group-2530"></span></h7>
                     <div
                         class="Pic2 pl-47-per  mt-5-per lg:absolute lg:rotate-90 lg:-top-142 lg:right-40 xl:-top-160 xl:right-45 2xl:-top-185">
@@ -79,7 +79,7 @@
                         applications.
                     </p>
                 </div>
-                <div class="Footer3 lg:pt-12 lg:ml-8-per xl:ml-5-per 2xl:ml-10-per 2xl:pt-9-per">
+                <div class="Footer3 lg:pt-12 lg:ml-8-per xl:ml-12-per 2xl:ml-10-per 2xl:pt-9-per font-bold text-orange">
                     <h7>EXPLORE ORCHESTRA <span class="icon-Group-2530"></span></h7>
                 </div>
             </div>

@@ -1,4 +1,4 @@
-<section class="Module_AYC bg-gray-300">
+<section class="Module_AYC">
     <div class="container relative z-1">
         <div class="content text-center">
             <div class="Head">

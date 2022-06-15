@@ -1,7 +1,6 @@
 <section class="module-AboveTheLatest xx:ml-19 xx:mt-9">
-<!-- xx:w-70-per 2xl:w-80-per lg:w-90-per md:w-1/2 -->
-    <div class="container flex flex-row m-auto flex-wrap xx:w-65-per 2xl:w-80-per lg:w-90-per md:w-1/2">
-        <div class="ctent1 w-1/3 border-r-2 border-gray-40">
+    <div class="container xx:m-auto flex flex-row flex-wrap xx:w-65-per 2xl:mt-24 2xl:ml-68">
+        <div class="ctent1 xx:w-1/3 2xl:w-28-per border-r-2 border-gray-40">
             <div class="h-180">
                 <img class="" src="@asset('/images/ct1.png')">
             </div>
@@ -12,7 +11,7 @@
                 to Provide a Single Source of Truth
             </p>
         </div>
-        <div class="ctent2 w-1/3 border-r-2 pl-35 border-gray-40">
+        <div class="ctent2 xx:w-1/3 2xl:w-28-per xx:ml-0 border-r-2 pl-35 border-gray-40 2xl:ml-20 2xl:pl-24">
             <div class="h-180 -mt-4 -ml-17">
                 <img class="" src="@asset('/images/ct2.png')">
             </div>
@@ -23,7 +22,7 @@
                 Flexible Solutions
             </p>
         </div>
-        <div class="ctent3 w-1/3 pl-35">
+        <div class="ctent3 xx:w-1/3 2xl:w-30-per pl-35 2xl:-ml-6">
             <div class="h-180 ml-5 -mt-7">
                 <img class="h-165" src="@asset('/images/ct3.png')">
             </div>

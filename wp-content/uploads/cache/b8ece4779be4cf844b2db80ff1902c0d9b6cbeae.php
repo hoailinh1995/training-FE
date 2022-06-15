@@ -1,6 +1,6 @@
 <section class="module-PictureContent font-poppin xx:pt-450">
     <div class="image xx:-ml-63 xx:-mt-542 2xl:-mt-213 2xl:-ml-377">
-            <img src="<?= \App\asset_path('/images/PicCtn.png'); ?>" loading="lazy">
+            <img src="<?= \App\asset_path('/images/PicCtn.png'); ?>">
         </div>
     <div class="container absolute xx:right-318 xx:top-2038 xx:w-26-per 2xl:w-33-per 2xl:top-1888 2xl:right-107">
         <div class="content">

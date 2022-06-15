@@ -1,6 +1,6 @@
-<section class="module-LogoFooter xx:-mt-5 relative z-2">
+<section class="module-LogoFooter xx:-mt-5 relative z-2 2xl:mt-6">
 <div class="border top-2"></div>
-    <div class="container mt-50">
+    <div class="container xx:mt-50 2xl:mt-46">
         <div class="title text-center m-auto font-bold text-4xl w-37-per animate-bounce">
                 Trusted By Industry Leaders Across the Supply Chain
         </div>

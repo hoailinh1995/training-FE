@@ -1,13 +1,13 @@
-<section class="module-TheLatest relative font-poppins xx:-mt-55">
-<span class="icomoon icon-iconC text-70xl absolute z-1 right-154 top-86 opacity-25 text-gray-100"></span>
+<section class="module-TheLatest relative font-poppins xx:-ml-2 xx:-mt-55 2xl:-mt-64 2xl:ml-64">
+<span class="icomoon icon-iconC text-70xl absolute z-1 xx:right-154 2xl:-right-88 top-86 opacity-25 text-gray-100"></span>
     <div class="container w-full relative z-3 py-60">
-        <div class="ml-51"> 
+        <div class="xx:ml-51 2xl:ml-3"> 
             <p class="font-extrabold text-red-700">THE LATEST</p>
         </div>
         <div class="flex flex-row flex-wrap w-full">
-            <div class="left xx:w-1/2 xx:ml-48 w-full lg:w-1/2 p-4 ">
-                <div class="bg-white rounded-3xl shadow-2xl">
-                    <div class="rounded-t-3xl w-full h-295 bg-no-repeat bg-cover" style="background-image:url(<?= \App\asset_path('/images/May-27.jpg'); ?>)" ></div>
+            <div class="left xx:w-1/2 xx:ml-48 w-full 2xl:w-53-per p-4 ">
+                <div class="bg-white rounded-4xl shadow-2xl">
+                    <div class="rounded-t-4xl w-full h-295 bg-no-repeat bg-cover" style="background-image:url(<?= \App\asset_path('/images/May-27.jpg'); ?>)" ></div>
                     <!-- <img class="rounded-t-3xl" src="<?= \App\asset_path('/images/May-27.jpg'); ?>"> -->
                     <div class="p-8">
                         <div class="font-bold">
@@ -28,9 +28,9 @@
                     </div>
                 </div>
             </div>
-            <div class="right xx:w-34-per xx:-ml-3 flex-col flex-wrap w-full lg:w-1/2">
+            <div class="right xx:w-34-per xx:-ml-3 flex-col flex-wrap 2xl:w-36-per ">
                 <div class="up md:w-full p-4 w-70-per ml-10">
-                    <div class="bg-white rounded-3xl p-8 shadow-2xl">
+                    <div class="bg-white rounded-4xl p-8 shadow-2xl">
                         <div class="font-bold">
                             <h3>
                                 Lorem ipsum dolor sit amet, consetetur
@@ -50,7 +50,7 @@
                     </div>
                 </div>
                 <div class="down md:w-full p-4 w-70-per mt-13 ml-10">
-                    <div class="bg-white rounded-3xl p-8 shadow-2xl">
+                    <div class="bg-white rounded-4xl p-8 shadow-2xl">
                         <div class="font-bold">
                             <h3>
                                 Lorem ipsum dolor sit amet, consetetur

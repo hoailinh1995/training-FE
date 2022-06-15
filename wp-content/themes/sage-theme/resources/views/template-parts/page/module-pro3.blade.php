@@ -19,9 +19,10 @@
                 <img src="@asset('images/Anh4.png')" alt="hinh">
                 <img src="@asset('images/Anh5.png')" alt="hinh">
                 <img src="@asset('images/Anh6.png')" alt="hinh">    
+               
         </div>
-        <button class="next2 z-2 bottom-20 left-5 absolute w-25"><span class="icomoon icon-Group-2454"></span></button>
-       <button class="prev2 z-2 bottom-20 right-5 absolute w-25"><span class="icomoon icon-Group-2455"></span></button>
+        <button class="next2 z-2 bottom-20 right-5 absolute w-25"><span class="icomoon icon-Group-2455"></span></button>
+       <button class="prev2 z-2 bottom-20 left-5  absolute w-25"><span class="icomoon icon-Group-2454"></span></button>
     </div>
 </section>
 

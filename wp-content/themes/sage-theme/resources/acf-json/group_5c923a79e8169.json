@@ -87,6 +87,15 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62a93670a11e7": {
+                    "key": "layout_62a93670a11e7",
+                    "name": "module_7",
+                    "label": "module7",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -112,6 +121,6 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1655094182,
+    "modified": 1655256688,
     "local_file": "\/Users\/hoaimi\/Local Sites\/hoaimy\/app\/public\/wp-content\/themes\/sage-theme\/resources\/acf-json\/group_5c923a79e8169.json"
 }

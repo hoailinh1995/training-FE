@@ -1,4 +1,4 @@
-<selection class="Module-Flower">
+<section class="Module-Flower">
     <div class="Container">
         <div class="flex flex-row flex-wrap w-full">
         <div class="content1 w-full lg:w-1/3 lg:border-r-2 lg:border-b-0 border-b-2 p-0 lg:p-40  lg:m-0 mx-30 my-40 border-green-200">
@@ -36,7 +36,7 @@
         </div>
     </div>
 </div>
-</selection>
+</section>
         
 
 

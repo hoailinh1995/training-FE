@@ -1,4 +1,4 @@
-<section class="module-Footer font-poppins w-full absolute xx:-mt-212">
+<section class="module-Footer font-poppins w-full absolute xx:-mt-207">
 <div class="bg-cover left-0 right-0 top-0 bottom-0 h-460 absolute z-1" style="background-image:url(<?= \App\asset_path('/images/bg_ft.png'); ?>)" ></div>
     <div class="container">
         <div class="logo">

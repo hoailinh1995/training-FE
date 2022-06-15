@@ -14,6 +14,7 @@ const lineHeight = {
   9: '2.25rem',
   10: '2.5rem',
   800: '80rem',
+  11: '48px',
 }
 module.exports = {
   lineHeight

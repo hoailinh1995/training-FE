@@ -1,8 +1,8 @@
 <section class="module-PictureContent font-poppin xx:pt-450">
-    <div class="image -ml-63 -mt-51">
+    <div class="image xx:-ml-63 xx:-mt-542 2xl:-mt-213 2xl:-ml-377">
             <img src="<?= \App\asset_path('/images/PicCtn.png'); ?>" loading="lazy">
         </div>
-    <div class="container absolute right-318 top-2045 w-26-per">
+    <div class="container absolute xx:right-318 xx:top-2038 xx:w-26-per 2xl:w-33-per 2xl:top-1888 2xl:right-107">
         <div class="content">
             <div class="title text-4xl font-bold">
                     Connecting Your Business to What Matters Most

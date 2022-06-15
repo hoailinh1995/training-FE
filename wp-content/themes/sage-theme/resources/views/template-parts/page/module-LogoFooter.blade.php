@@ -1,10 +1,8 @@
-<section class="module-LogoFooter xx:mt-9 relative z-2">
+<section class="module-LogoFooter xx:-mt-5 relative z-2">
 <div class="border top-2"></div>
-    <div class="container mt-43">
-        <div class="title text-center m-auto font-bold text-4xl w-30-per animate-bounce">
-            <h3>
+    <div class="container mt-50">
+        <div class="title text-center m-auto font-bold text-4xl w-37-per animate-bounce">
                 Trusted By Industry Leaders Across the Supply Chain
-            </h3>
         </div>
         <div class="para font-light text-center m-auto text-lg w-60-per">
             <p>

@@ -25,10 +25,82 @@
                     "min": "",
                     "max": ""
                 },
-                "layout_6285b00755167": {
-                    "key": "layout_6285b00755167",
-                    "name": "tcb",
-                    "label": "tcb",
+                "layout_6285a9c35105d": {
+                    "key": "layout_6285a9c35105d",
+                    "name": "duydt",
+                    "label": "duydt",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62941569da8e1": {
+                    "key": "layout_62941569da8e1",
+                    "name": "duydt2",
+                    "label": "duydt2",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_6298312353857": {
+                    "key": "layout_6298312353857",
+                    "name": "test",
+                    "label": "test",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629d825313a02": {
+                    "key": "layout_629d825313a02",
+                    "name": "duydt3",
+                    "label": "duydt3",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_629ec218a9aaa": {
+                    "key": "layout_629ec218a9aaa",
+                    "name": "duydt25",
+                    "label": "duydt25",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62a04395a860d": {
+                    "key": "layout_62a04395a860d",
+                    "name": "duydt4",
+                    "label": "duydt4",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62a2a618e91cc": {
+                    "key": "layout_62a2a618e91cc",
+                    "name": "duydt5",
+                    "label": "duydt5",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62a7fdb3b30cd": {
+                    "key": "layout_62a7fdb3b30cd",
+                    "name": "duydt6",
+                    "label": "duydt6",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62a97a81e5355": {
+                    "key": "layout_62a97a81e5355",
+                    "name": "duydt7",
+                    "label": "duydt7",
                     "display": "block",
                     "sub_fields": [],
                     "min": "",
@@ -58,5 +130,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1652928519
+    "modified": 1655274113
 }

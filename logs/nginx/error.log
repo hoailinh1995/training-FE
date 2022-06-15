@@ -1,0 +1,10 @@
+2022/05/18 11:59:20 [alert] 13840#7356: OpenEvent("ngx_master_9316") failed (2: The system cannot find the file specified)
+2022/05/30 09:25:51 [alert] 7988#2488: OpenEvent("ngx_master_14864") failed (2: The system cannot find the file specified)
+2022/05/30 12:00:05 [alert] 11112#7972: OpenEvent("ngx_master_5880") failed (2: The system cannot find the file specified)
+2022/05/31 16:29:40 [alert] 4232#7852: OpenEvent("ngx_master_8216") failed (2: The system cannot find the file specified)
+2022/06/06 12:01:45 [alert] 12488#15092: OpenEvent("ngx_master_14572") failed (2: The system cannot find the file specified)
+2022/06/07 16:41:13 [alert] 15624#1092: OpenEvent("ngx_master_9612") failed (2: The system cannot find the file specified)
+2022/06/08 07:25:39 [alert] 11104#11660: OpenEvent("ngx_master_2692") failed (2: The system cannot find the file specified)
+2022/06/08 14:07:21 [error] 3696#8344: *4809 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /bca/ HTTP/1.0", upstream: "fastcgi://127.0.0.1:10003", host: "duydeptrai.vm"
+2022/06/09 16:28:15 [alert] 8148#13568: OpenEvent("ngx_master_10524") failed (2: The system cannot find the file specified)
+2022/06/15 15:16:39 [error] 10008#5212: *3474 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET /wp-content/themes/sage-theme/dist/styles/print.css HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "duydeptrai.vm", referrer: "http://localhost:3000/home/"

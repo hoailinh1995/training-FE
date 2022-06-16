@@ -18,7 +18,7 @@
                 <img src="<?= \App\asset_path('images/Anh3.png'); ?>" alt="hinh">
                 <img src="<?= \App\asset_path('images/Anh4.png'); ?>" alt="hinh">
                 <img src="<?= \App\asset_path('images/Anh5.png'); ?>" alt="hinh">
-                <img src="<?= \App\asset_path('images/Anh6.png'); ?>" alt="hinh">    
+                <img src="<?= \App\asset_path('images/Anh6.png'); ?>" alt="hinh">  
                
         </div>
         <button class="next2 z-2 bottom-20 right-5 absolute w-25"><span class="icomoon icon-Group-2455"></span></button>

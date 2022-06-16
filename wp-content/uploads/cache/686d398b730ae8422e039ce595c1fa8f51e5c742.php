@@ -6,7 +6,9 @@
                 <div class="xl:pl-30">
                     <span class="icon-Group-2527 text-9xl "></span>
                     <h2>Streamlined</h2>
-                    <p>to Provide a Single Source of Truth</p>
+                    <div class="text-20">
+                        <p>to Provide a Single Source of Truth</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -17,7 +19,9 @@
                 <div class="xl:pl-60 lg:pl-50">
                     <span class="icon-Group-2528 text-9xl "></span>
                     <h2>Scalable</h2>
-                    <p>Flexible Solutions</p>
+                    <div class="text-20">
+                        <p>Flexible Solutions</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -27,7 +31,9 @@
                 <div class="xl:pl-70 lg:pl-50">
                     <span class="icon-Path-5249 text-9xl"></span>
                     <h2>Backed by</h2>
-                    <p>Superior Service & Support</p>
+                    <div class="text-20">
+                        <p>Superior Service & Support</p>
+                    </div>
                 </div>
             </div>
         </div>

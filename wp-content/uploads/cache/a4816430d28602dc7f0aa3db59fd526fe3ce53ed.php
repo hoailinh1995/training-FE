@@ -4,16 +4,20 @@
             <div class="page1 p-30">
                 <h2>“We’ve done more with Encompass in the past 6 months than we did in 3 years on our previous
                     solution.”</h2>
-                <p>David Little
-                    <br>CTO, Savannah Distribu ting
-                </p>
+                <div class="font-bold mt-5-per">
+                    <p>David Little
+                        <br>CTO, Savannah Distribu ting
+                    </p>
+                </div>
             </div>
             <div class="page2 p-30 ">
                 <h2>“Next “We've done more with Encompass in the past 6 months than we did in 3 years on our previous
                     solution.””</h2>
-                <p>David Little
-                    <br>CTO, Savannah Distributing
-                </p>
+                <div class="font-bold mt-5-per">
+                    <p>David Little
+                        <br>CTO, Savannah Distributing
+                    </p>
+                </div>
             </div>
         </div>
         <div class="Button">

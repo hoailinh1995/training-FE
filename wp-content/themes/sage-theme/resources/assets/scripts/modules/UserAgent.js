@@ -51,8 +51,8 @@ function() {
   // });
   $('.slick_slide').slick({
     appendArrows:'.btt',
-    nextArrow: '<button class="next w-25 h-20"><span class="phaitrang"></span></button>',
-    prevArrow: '<button class="prev w-25 h-20"><span class="traitrang"></span></button>'
+    nextArrow: '<button class="next w-25 h-20"><span class="icon-Group-24521"></span></button>',
+    prevArrow: '<button class="prev w-25 h-20"><span class="icon-Group-2453"></span></button>'
   });
 }
   
@@ -74,8 +74,8 @@ slick_slide3(){
     speed: 300,
     slidesToShow: 6,
     slidesToScroll: 6,
-    prevArrow: '.next1',
-    nextArrow: '.prev2',
+    prevArrow: '.prev2',
+    nextArrow: '.next2',
     responsive: [
       {
         breakpoint: 1441,

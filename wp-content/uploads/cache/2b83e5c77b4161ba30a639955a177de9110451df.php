@@ -16,7 +16,7 @@
 
             <div class="Block2 lg:row lg:w-2/3">
                 <div
-                    class="text-gray-100 lg:absolute mt-5-per ml-16-per lg:top-47-per xl:text-xl xl:ml-0 xl:top-51-per 2xl:text-2xl 2xl:ml-2-per 2xl:top-48-per">
+                    class="text-gray-100 font-bold lg:absolute mt-5-per ml-16-per lg:top-47-per xl:text-xl xl:ml-0 xl:top-51-per 2xl:text-2xl 2xl:ml-2-per 2xl:top-48-per">
                     <h8>ORCHESTRA SITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ENCOMPASS
                         WEBSITE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HANDOFF WEBSITE</h8>
                 </div>

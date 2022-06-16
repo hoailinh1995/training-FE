@@ -1,7 +1,7 @@
 <section class="container text-center">
 
     <div class="Block_a xl:relative">
-        <div class="Head_0 w-60-per ml-22-per lg:w-265 lg:ml-24-per xl:w-48-per xl:ml-27-per">
+        <div class="Head_0 w-60-per ml-22-per lg:w-265 lg:ml-24-per xl:w-48-per xl:ml-26-per 2xl:ml-27-per ">
             <h2>Enterprise ERP Solutions for Beverage & Food Industry </h2>
         </div>
         <div class="Body_0 w-60-per ml-22-per lg:w-300 xl:w-74-per xl:absolute xl:-left-50">
@@ -27,7 +27,7 @@
                         provides benefits that extend to tier-to-tier automation, process transparency, and predictive
                         forecasting.</p>
                 </div>
-                <div class="footer1 lg:ml-10-per xl:ml-35-per xl:pt-17-per font-bold text-orange">
+                <div class="footer1 lg:ml-10-per xl:ml-35-per xl:pt-17-per font-bold text-orange hover:text-black">
                     <h7>EXPLORE ORCHESTRA <span class="icon-Group-2530 "></span></h7>
                     <div
                         class="Pic1 pl-47-per mt-5-per lg:absolute lg:rotate-90 lg:-top-142 lg:left-35 xl:-top-160 xl:left-45 2xl:-top-185">

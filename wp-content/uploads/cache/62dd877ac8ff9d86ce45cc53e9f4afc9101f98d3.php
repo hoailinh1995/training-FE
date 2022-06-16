@@ -16,18 +16,42 @@
             </div>
         </div>
         <div class="slick_slide3 relative z-1 ">
-            <img src="<?= \App\asset_path('images/Image1.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image2.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image3.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image4.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image5.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image6.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image1.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image2.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image3.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image4.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image5.png'); ?>" alt="hinh">
-            <img src="<?= \App\asset_path('images/Image6.png'); ?>" alt="hinh">
+            <div class="xl:mt-5-per">
+                <img src="<?= \App\asset_path('images/Image1.png'); ?>" alt="hinh">
+            </div>
+            <div class="">
+                <img src="<?= \App\asset_path('images/Image2.png'); ?>" alt="hinh">
+            </div>
+            <div class="">
+                <img src="<?= \App\asset_path('images/Image3.png'); ?>" alt="hinh">
+            </div>
+            <div class="xl:mt-5-per">
+                <img src="<?= \App\asset_path('images/Image4.png'); ?>" alt="hinh">
+            </div>
+            <div class="xl:mt-12-per">
+                <img src="<?= \App\asset_path('images/Image5.png'); ?>" alt="hinh">
+            </div>
+            <div class="xl:mt-9-per">
+                <img src="<?= \App\asset_path('images/Image6.png'); ?>" alt="hinh">
+            </div>
+            <div class="xl:mt-5-per">
+                <img src="<?= \App\asset_path('images/Image1.png'); ?>" alt="hinh">
+            </div>
+            <div class="">
+                <img src="<?= \App\asset_path('images/Image2.png'); ?>" alt="hinh">
+            </div>
+            <div class="">
+                <img src="<?= \App\asset_path('images/Image3.png'); ?>" alt="hinh">
+            </div>
+            <div class="xl:mt-5-per">
+                <img src="<?= \App\asset_path('images/Image4.png'); ?>" alt="hinh">
+            </div>
+            <div class="xl:mt-12-per">
+                <img src="<?= \App\asset_path('images/Image5.png'); ?>" alt="hinh">
+            </div>
+            <div class="xl:mt-9-per">
+                <img src="<?= \App\asset_path('images/Image6.png'); ?>" alt="hinh">
+            </div>
         </div>
         <div class="">
             <button class="next2 absolute z-2 right-0 top-90 xl:top-105 w-10 h-10"><span

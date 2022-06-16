@@ -1,4 +1,4 @@
-<selection class="module-riv">
+<section class="module-riv bg-white">
     <div class="container">
         <div class="flex flex-row flex-wrap w-full items-center	">
             <div class="picture h-auto -ml-38 p-0 w-1/2">
@@ -18,4 +18,4 @@
             </div>
         </div>
     </div>
-</selection>
+</section>

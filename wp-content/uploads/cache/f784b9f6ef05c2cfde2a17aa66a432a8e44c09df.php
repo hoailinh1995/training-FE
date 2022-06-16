@@ -72,10 +72,3 @@
         </div>
     </div>
 </section>
-
-
-    <!-- height: 228px;
-    background-position: center;
-    background-size: cover;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px; -->

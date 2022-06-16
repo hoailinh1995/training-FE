@@ -60,7 +60,7 @@
                     <h3>Solutions for Retailers</h3>
                 </div>
                 <div class="Body3 sm:pl-72 sm:pr-62 lg:pl-5 lg:pr-20">
-                    <p>Our Retail solutions are advancing the way beverage retailers do business by optimizing
+                    <p>Our Retail solutions are advancingg the way beverage retailers do business by optimizing
                         commercial
                         interactions between distributors, retailers, and consumers. This is done by consolidating
                         online

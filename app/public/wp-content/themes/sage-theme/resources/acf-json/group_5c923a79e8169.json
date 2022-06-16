@@ -105,6 +105,24 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62aa7ff1515f6": {
+                    "key": "layout_62aa7ff1515f6",
+                    "name": "header",
+                    "label": "header",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
+                },
+                "layout_62aa7ffedf174": {
+                    "key": "layout_62aa7ffedf174",
+                    "name": "footer",
+                    "label": "footer",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -130,5 +148,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1655274113
+    "modified": 1655341054
 }

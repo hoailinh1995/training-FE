@@ -1,6 +1,123 @@
-<header id="header" class="module header w-full top-0 left-0 fixed z-200 down_lg:overflow-hidden">
-    <div class="container">
-        <nav class="row navbar items-center">
+<header id="header" class="module header lg:w-100rem">
+    <div class="anhfull relative w-full bg-cover">
+        <img src="@asset('images/hbg.png')" alt="hinh">
+        <div class=" lg:w-270">
+                <h1>Unlock the power of connection</h1>
+            </div>
+        <div class="container">
+            
+            <div class="top w-full">
+                <div class=" lg:absolute lg:top-15 lg:left-40"><img src="@asset('images/en.png')" alt="hinh"></div>
+                <div class=" lg:absolute lg:top-20 lg:left-350 text-white lg:text-xs">
+                    <b>ABOUT US</b>
+                </div>
+
+                <div class="lg:absolute lg:top-20 lg:left-450 text-white lg:text-xs ">
+                    <b>LEADERSHIP</b>
+                </div>
+
+                <div class=" lg:absolute lg:top-20 lg:left-550 text-white lg:text-xs">
+                    <b>CAREERS</b>
+                </div>
+
+                <div class=" lg:absolute lg:top-20 lg:left-650 text-white lg:text-xs">
+                    <b>CONTACT US</b>
+                </div>
+
+            </div>
+            <div class="bot absolute">
+
+
+                <div class="">
+                    <p>Connect & Grow Your Business with the Power of the Encompass Platform</p>
+                </div>
+                <div class="">
+                    <button class="rounded-full bg-red-600 text-white">ABOUT US</button>
+                </div>
+                <div class="">
+                    <div class=""><img src="@asset('images/tablet.png')" alt="hinh"></div>
+                </div>
+
+
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!-- <nav class="row navbar items-center">
             <div
                 class="col w-full down_lg:flex down_lg:flex-wrap lg:w-1/5 header-mobile relative justify-between items-center">
                 <div class="lg:w-full relative">
@@ -43,8 +160,9 @@
                         <a class="block py-9 lg:p-9 no-underline" href="#">Training</a>
                     </li>
                 </ul>-->
-                {!! App::getMainNav() !!}
-            </div>
-        </nav>
+            <!-- {!! App::getMainNav() !!}
+    </div>
+    </nav>  -->
+        </div>
     </div>
 </header>

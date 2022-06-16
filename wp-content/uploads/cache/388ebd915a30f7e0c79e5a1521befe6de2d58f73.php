@@ -1,6 +1,6 @@
-<section class="module-ContentCenter1 xx:w-1/2 xx:mt-678 2xl:mt-644 m-auto font-poppins">
-    <div class="container xx:w-full 2xl:w-70-per">
-        <div class="title text-4xl text-center font-bold pl-76 pr-81 animate-pulse">
+<section class="module-ContentCenter1 xx:w-1/2 xx:mt-678 2xl:mt-644 lg:mt-624 md:mt-906 m-auto font-poppins">
+    <div class="container xx:w-full 2xl:w-70-per md:w-85-per">
+        <div class="title text-4xl text-center font-bold lg:pl-76 lg:pr-81 md:pl-30 md:pr-30 animate-pulse">
             Enterprise ERP Solutions for Beverage & Food Industry 
         </div>
         <div class="para">

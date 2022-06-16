@@ -1,8 +1,8 @@
 <section class="module-PictureContent font-poppin xx:pt-450">
-    <div class="image xx:-ml-63 xx:-mt-542 2xl:-mt-213 2xl:-ml-377">
+    <div class="image xx:-ml-63 xx:-mt-542 xx:w-1260 2xl:-mt-213 2xl:-ml-377 2xl:w-1268 lg:w-936 lg:-ml-279 lg:-mt-120">
             <img src="@asset('/images/PicCtn.png')">
         </div>
-    <div class="container absolute xx:right-318 xx:top-2038 xx:w-26-per 2xl:w-33-per 2xl:top-1888 2xl:right-107">
+    <div class="container absolute xx:right-318 xx:top-2038 xx:w-26-per 2xl:w-33-per 2xl:top-1888 2xl:right-107 lg:w-30-per lg:right-107 lg:top-1778">
         <div class="content">
             <div class="title text-4xl font-bold">
                     Connecting Your Business to What Matters Most
@@ -19,7 +19,7 @@
                 </p>
             </div>
             <div class="text-base">
-                <button class="btn-red font-extrabold rounded-full w-240 h-26">LEARN MORE</button>
+                <button class="btn-red font-extrabold rounded-full w-240 h-26 hidden 2xl:block">LEARN MORE</button>
             </div>
         </div>
     </div>

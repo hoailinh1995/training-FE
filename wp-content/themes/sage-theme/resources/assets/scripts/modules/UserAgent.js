@@ -37,8 +37,8 @@ export default class UserAgent {
       prevArrow:  '<button class="btn-slick-none"><span class="icomoon icon-chevron-left"></span></button>'
     });
     $('.slick_slide3').slick({
-      nextArrow:  '<button class="btn-slick-none absolute right-18 top-11 text-4xl z-2"><span class="icomoon icon-chevron-right""></span></button>',
-      prevArrow:  '<button class="btn-slick-none absolute left-10 top-11 text-4xl z-2"><span class="icomoon icon-chevron-left"></span></button>'
+      nextArrow:  '<button class="btn-slick-none absolute 2xl:right-18 lg:-right-21 top-11 text-4xl z-2"><span class="icomoon icon-chevron-right""></span></button>',
+      prevArrow:  '<button class="btn-slick-none absolute 2xl:left-10 lg:-left-8 top-11 text-4xl z-2"><span class="icomoon icon-chevron-left"></span></button>'
     });
   }
 }

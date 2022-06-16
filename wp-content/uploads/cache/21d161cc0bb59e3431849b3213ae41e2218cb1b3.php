@@ -1,4 +1,4 @@
-<section class="module-TheLatest relative font-poppins xx:-ml-2 xx:-mt-55 2xl:-mt-64 2xl:ml-64">
+<section class="module-TheLatest relative font-poppins xx:-ml-2 xx:-mt-59 2xl:-mt-64 2xl:ml-64 xx:w-full 2xl:w-91-per lg:w-85-per lg:-mt-235 lg:ml-38">
 <span class="icomoon icon-iconC text-70xl absolute z-1 xx:right-154 2xl:-right-88 top-86 opacity-25 text-gray-100"></span>
     <div class="container w-full relative z-3 py-60">
         <div class="xx:ml-51 2xl:ml-3"> 
@@ -9,7 +9,7 @@
                 <div class="bg-white rounded-4xl shadow-2xl">
                     <div class="rounded-t-4xl w-full h-295 bg-no-repeat bg-cover" style="background-image:url(<?= \App\asset_path('/images/May-27.jpg'); ?>)" ></div>
                     <!-- <img class="rounded-t-3xl" src="<?= \App\asset_path('/images/May-27.jpg'); ?>"> -->
-                    <div class="p-8">
+                    <div class="2xl:p-15 lg:p-26">
                         <div class="font-bold">
                             <h3>
                                 Lorem ipsum dolor sit amet, consetetur
@@ -28,9 +28,9 @@
                     </div>
                 </div>
             </div>
-            <div class="right xx:w-34-per xx:-ml-3 flex-col flex-wrap 2xl:w-36-per ">
+            <div class="right xx:w-34-per xx:-ml-3 flex-col flex-wrap 2xl:w-36-per 2xl:ml-0 lg:-ml-12 lg:w-full 2xl:mt-0 lg:mt-14">
                 <div class="up md:w-full p-4 w-70-per ml-10">
-                    <div class="bg-white rounded-4xl p-8 shadow-2xl">
+                    <div class="bg-white rounded-4xl 2xl:p-15 lg:p-26 shadow-2xl">
                         <div class="font-bold">
                             <h3>
                                 Lorem ipsum dolor sit amet, consetetur
@@ -49,8 +49,8 @@
                         
                     </div>
                 </div>
-                <div class="down md:w-full p-4 w-70-per mt-13 ml-10">
-                    <div class="bg-white rounded-4xl p-8 shadow-2xl">
+                <div class="down md:w-full p-4 w-70-per 2xl:mt-2 ml-10 lg:mt-15">
+                    <div class="bg-white rounded-4xl 2xl:p-15 lg:p-26 shadow-2xl">
                         <div class="font-bold">
                             <h3>
                                 Lorem ipsum dolor sit amet, consetetur

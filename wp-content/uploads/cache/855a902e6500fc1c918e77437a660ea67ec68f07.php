@@ -1,17 +1,17 @@
-<section class="module-ContentCenter2 relative font-poppins w-full m-auto xx:-mt-41 2xl:-mt-38 -ml-3">
+<section class="module-ContentCenter2 relative font-poppins w-full m-auto xx:-mt-41 2xl:-mt-38 lg:-mt-36 -ml-3">
     <div class="container">
-        <div class="pic2 w-27.5-per absolute xx:left-640 xx:top-7 2xl:top-5 2xl:left-393">
+        <div class="pic2 2xl:w-27.5-per absolute xx:left-640 xx:top-7 2xl:top-5 2xl:left-393 lg:w-15.5-per lg:left-268 lg:top-9">
             <img class="inline-block" src="<?= \App\asset_path('/images/line.png'); ?>">
         </div>
-        <div class="pic4 w-27.5-per absolute xx:right-332 xx:top-7 2xl:right-222 2xl:top-4">
+        <div class="pic4 2xl:w-27.5-per absolute xx:right-332 xx:top-7 2xl:right-222 2xl:top-4 lg:w-15.5-per lg:right-256 lg:top-9">
                     <img class="inline-block" src="<?= \App\asset_path('/images/line.png'); ?>">
         </div>
         <div class="row w-full relative">
             <div class="para1 col w-30-per text-center">
-                <div class="pic1 ml-78">
+                <div class="pic1 2xl:ml-78 lg:ml-35">
                     <img class="inline-block" src="<?= \App\asset_path('/images/fact.png'); ?>">
                 </div>
-                <div class="content text-center w-77-per mt-17 ml-62">
+                <div class="content text-center 2xl:w-77-per 2xl:mt-17 2xl:ml-62 lg:w-full lg:ml-16 lg:mt-14">
                     <div class="title font-semibold text-2xl m-auto text-center">
                         <h3>
                             Solutions for Manufacturers
@@ -23,7 +23,7 @@
                             -tier automation, process transparency, and predictive forecasting.
                         </div>
                     </div>
-                    <div class="flip_a text-base font-bold mt-30">
+                    <div class="flip_a text-base font-bold 2xl:mt-30 lg:mt-31">
                         <p class="align-bottom btn-slick-none">
                             EXPLORE ORCHESTRA
                             <span class="icomoon icon-chevron-right"></span>
@@ -36,7 +36,7 @@
                 <div class="pic3 text-center ml-24">
                     <img class="inline-block" src="<?= \App\asset_path('/images/Path.png'); ?>">
                 </div>
-                <div class="text-center w-77-per mt-14 ml-36">
+                <div class="text-center 2xl:w-77-per 2xl:mt-14 2xl:ml-36 lg:w-full lg:ml-15 lg:mt-11">
                     <div class="title font-semibold text-2xl text-center m-auto">
                         <h3>
                             Solutions for Distributors
@@ -58,10 +58,10 @@
             </div>
             <div class="space w-5-per"></div>
             <div class="para3 col w-30-per text-center">
-                <div class="pic5 text-center -ml-37 mt-7">
+                <div class="pic5 text-center 2xl:-ml-37 2xl:mt-7 lg:mt-5 lg:ml-9">
                     <img class="inline-block" src="<?= \App\asset_path('/images/store.png'); ?>">
                 </div>
-                <div class="right w-77-per mt-17 ml-5">
+                <div class="conent right 2xl:w-77-per 2xl:mt-17 2xl:ml-5 lg:w-full lg:mt-16">
                     <div class="title font-semibold text-2xl m-auto">
                         <h3>
                             Solutions for Retailers

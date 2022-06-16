@@ -1,15 +1,15 @@
 <section class="module-abc font-poppins xx:-mt-4 xx:ml-320">
-  <div class="container xx:ml-128 xx:mt-27 2xl:mt-50 2xl:ml-66">
+  <div class="container xx:ml-128 xx:mt-27 2xl:mt-50 2xl:ml-66 2xl:w-full lg:w-85-per lg:mt-44 lg:ml-43">
     <div class="row w-100-per">
-      <div class="left col xx:w-33-per xx:-ml-45 2xl:w-33-per">
-      <div class="border-t-1 w-50-per bg-orange mb-15 ml-1 h-2"></div>
+      <div class="left col xx:w-33-per xx:mt-6 xx:-ml-45 2xl:w-33-per lg:w-104-per">
+      <div class="border-t-1 2xl:w-50-per lg:w-22-per bg-orange mb-15 ml-1 h-2"></div>
       <div class="text-4xl font-bold leading-11">
         The encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:
       </div>
       </div>
-      <div class="right col xx:w-63-per xx:-ml-4 2xl:w-67-per">
+      <div class="right col xx:w-63-per xx:mt-7 xx:-ml-4 2xl:mt-1 2xl:-ml-1 2xl:w-67-per lg:mt-29 lg:-ml-29">
         <div class="row ">
-        <div class="trai col w-45-per xx:ml-32 ml-28">
+        <div class="trai col 2xl:w-45-per lg:w-46-per xx:ml-32 ml-28">
           <div class="a">
             <div class="drive">
               <h3>Drive Business Growth</h3>
@@ -18,7 +18,7 @@
               <p>Tap into the power of predictive analytics and demand forecasting. Capitalize on revenue-generating opportunities faster. Encompass ERP captures mission-critical data across your entire operation, empowering you to bring your beverage of food business into new levels of profitability.</p>
             </div>
           </div>
-          <div class="b xx:mt-21 2xl:mt-37">
+          <div class="b xx:mt-21 2xl:mt-37 lg:mt-32">
             <div class="improve">
               <h3>Improve Operational Efficiencies</h3>
             </div>
@@ -38,7 +38,7 @@
             </div>
           </div>
           <div class="d xx:-mt-15">
-            <div class="Enhance xx:w-83-per 2xl:w-70-per">
+            <div class="Enhance xx:w-83-per 2xl:w-70-per lg:w-95-per">
               <h3>Enhance Team Dynamics & Employee</h3>
             </div>
             <div class="xx:w-80-per 2xl:w-80-per">
@@ -49,26 +49,28 @@
         </div>
       </div>
     </div>
-    <div class="slide 2xl:w-75-per xx:w-72-per xx:h-462 xx:-mt-6 xx:-ml-35 bg-white rounded-4xl shadow-2xl relative z-1">
+    <div class="slide 2xl:w-75-per xx:w-72-per xx:h-462 xx:-mt-6 xx:-ml-35 bg-white 
+    rounded-4xl shadow-2xl relative z-1 2xl:ml-0 2xl:mt-0 lg:mt-64 lg:w-97-per">
       <div class="slick_slide">
-        <div class="p-46 xx:mt-4 xx:ml-6 2xl:w-56-per">
-          <div class="text-4xl font-bold 2xl:w-80-per xx:w-84-per xx:-mt-1 2xl:mt-8 xx:ml-2 2xl:ml-16">
+        <div class="p-46 xx:mt-4 xx:ml-6 2xl:w-56-per 2xl:mt-0 2xl:ml-0 lg:mt-5 lg:ml-10">
+          <div class="text-4xl font-bold 2xl:w-80-per xx:w-84-per lg:w-104-per xx:-mt-1 2xl:mt-8 xx:ml-2 2xl:ml-16">
               “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
           </div>
-          <p class="text-xl font-bold xx:ml-1 xx:mt-7 2xl:mt-8 2xl:ml-19">
+          <p class="text-xl font-bold xx:ml-1 xx:mt-7 2xl:mt-8 2xl:ml-19 lg:mt-8">
             David Little<br>CTO,  Savannah Distributing
           </p>
         </div>
-        <div class="p-46 xx:mt-4 xx:ml-6 2xl:w-56-per">
-          <div class="text-4xl font-bold 2xl:w-80-per xx:w-84-per xx:-mt-1 2xl:mt-8 xx:ml-2 2xl:ml-16">
+        <div class="p-46 xx:mt-4 xx:ml-6 2xl:w-56-per 2xl:mt-0 2xl:ml-0 lg:mt-5 lg:ml-10">
+          <div class="text-4xl font-bold 2xl:w-80-per xx:w-84-per  lg:w-104-per xx:-mt-1 2xl:mt-8 xx:ml-2 2xl:ml-16">
               “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
           </div>
-          <p class="text-xl font-bold xx:ml-1 xx:mt-7 2xl:mt-8 2xl:ml-19">
+          <p class="text-xl font-bold xx:ml-1 xx:mt-7 2xl:mt-8 2xl:ml-19 lg:mt-8">
             David Little<br>CTO,  Savannah Distributing
           </p>
         </div>
       </div>
-      <div class="button_slick w-70 absolute z-2 text-3xl xx:bottom-35 xx:-right-29 2xl:-right-17 2xl:bottom-82"></div>
+      <div class="button_slick w-70 absolute z-2 text-3xl xx:bottom-35 xx:-right-29 
+      2xl:-right-17 2xl:bottom-82 lg:-right-21 lg:bottom-40"></div>
     </div>
   </div>
 </section>

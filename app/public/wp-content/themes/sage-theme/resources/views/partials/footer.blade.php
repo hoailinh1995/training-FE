@@ -1,6 +1,13 @@
 <footer id="footer" class="module footer">
   <div class="container footer-top">
-    <div class="row">
+
+
+
+
+
+
+
+    <!-- <div class="row">
       <ul class="list-none col p-0 w-1/2 lg:w-2/3">
       
         {!! App::getFooterNav() !!}
@@ -14,11 +21,11 @@
     <div class="footer-copyright last-mb-none p-3">
       {!! App::getCopyRight() !!}
     </div>
-  </div>
+  </div> -->
 </footer>
 
 <!-- endblock -->
-<noscript>
+<!-- <noscript>
 <div id="mod-noscript" class="mod-noscript bg-black text-white fixed inset-0 z-200">
     <div class="table w-full h-full">
       <div class="table-cell align-middle text-center">
@@ -28,5 +35,5 @@
       </div>
     </div>
   </div>
-</noscript>
+</noscript> -->
 

@@ -1,47 +1,40 @@
-<header id="header" class="module header lg:w-100rem">
-    <div class="anhfull relative w-full bg-cover">
+<header id="header" class="module header lg:w-100rem xx:w-120rem md:w-1400">
+    <div class="anhfull relative w-full bg-cover bg-white">
         <img src="<?= \App\asset_path('images/hbg.png'); ?>" alt="hinh">
-        <div class=" lg:w-270">
-                <h1>Unlock the power of connection</h1>
-            </div>
+        <div class=" absolute lg:w-270 lg:top-160 lg:left-40 text-white 2xl:w-420 2xl:top-210">
+            <h1>Unlock the power of connection</h1>
+        </div>
+        <div class=" absolute lg:top-350 lg:w-280 lg:left-40 text-white 2xl:w-370">
+            <p>Connect & Grow Your Business with the Power of the Encompass Platform</p>
+        </div>
+        <div class=" lg:top-440 absolute lg:left-40">
+            <button class="rounded-full bg-red-600 text-white w-242 h-27 hover:bg-yellow">ABOUT US</button>
+        </div>
+        <div class=" absolute lg:top-170 lg:left-535 lg:w-700 2xl:w-1070 2xl:left-700 xx:left-940 md:w-740 md:top-390 md:left-200">
+            <div class=""><img src="<?= \App\asset_path('images/tablet.png'); ?>" alt="hinh"></div>
+        </div>
+        <div class="line w-full lg:absolute lg:h-1 lg:top-45 bg-gray-300  "></div>
         <div class="container">
-            
-            <div class="top w-full">
-                <div class=" lg:absolute lg:top-15 lg:left-40"><img src="<?= \App\asset_path('images/en.png'); ?>" alt="hinh"></div>
-                <div class=" lg:absolute lg:top-20 lg:left-350 text-white lg:text-xs">
-                    <b>ABOUT US</b>
+
+            <div class="top w-full ">
+                <div class=" absolute lg:top-15 lg:left-40 md:top-15 md:left-30 md:w-75"><img src="<?= \App\asset_path('images/en.png'); ?>" alt="hinh"></div>
+                <div class=" absolute lg:top-20 lg:left-350 text-white lg:text-xs 2xl:text-xl 2xl:left-550">
+                    <button class=" hover:bg-black"><b>ABOUT US</b></button>
                 </div>
 
-                <div class="lg:absolute lg:top-20 lg:left-450 text-white lg:text-xs ">
-                    <b>LEADERSHIP</b>
+                <div class="absolute lg:top-20 lg:left-450 text-white lg:text-xs 2xl:text-xl 2xl:left-750">
+                    <button class=" hover:bg-black"><b>LEADERSHIP</b></button>
                 </div>
 
-                <div class=" lg:absolute lg:top-20 lg:left-550 text-white lg:text-xs">
-                    <b>CAREERS</b>
+                <div class=" absolute lg:top-20 lg:left-550 text-white lg:text-xs 2xl:text-xl 2xl:left-950">
+                    <button class=" hover:bg-black"><b>CAREERS</b></button>
                 </div>
 
-                <div class=" lg:absolute lg:top-20 lg:left-650 text-white lg:text-xs">
-                    <b>CONTACT US</b>
+                <div class=" absolute lg:top-20 lg:left-650 text-white lg:text-xs 2xl:text-xl 2xl:left-1150">
+                    <button class=" hover:bg-black"><b>CONTACT US</b></button>
                 </div>
 
             </div>
-            <div class="bot absolute">
-
-
-                <div class="">
-                    <p>Connect & Grow Your Business with the Power of the Encompass Platform</p>
-                </div>
-                <div class="">
-                    <button class="rounded-full bg-red-600 text-white">ABOUT US</button>
-                </div>
-                <div class="">
-                    <div class=""><img src="<?= \App\asset_path('images/tablet.png'); ?>" alt="hinh"></div>
-                </div>
-
-
-
-            </div>
-
 
 
 

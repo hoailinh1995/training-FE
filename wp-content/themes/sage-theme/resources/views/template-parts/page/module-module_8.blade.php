@@ -8,7 +8,7 @@
         <div class="content">
             <div class="header1 w-30% ml-10% text-white">
                 <h1>Unlock the Power of Connection</h1>
-            </div>
+        </div>
             <div class="content1 w-23% ml-10% text-white">
             <p>Connect & Grow Your Business with the Power of the Encompass Platform</p>
             </div>

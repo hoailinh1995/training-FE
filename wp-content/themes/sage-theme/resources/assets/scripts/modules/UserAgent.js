@@ -74,6 +74,7 @@ asc5(){
     this.asc5()
     this.function()
     this.function1()
+    this.function2()
   }
 function(){
 
@@ -86,6 +87,13 @@ function(){
 function1(){
   $('.slick_slide1').slick({
     appendArrows: '.button_slick1',
+    nextArrow: '<button class="next w-25"><span class="icomoon icon-chevron-right"></span></button>',
+    prevArrow: '<button class="back w-25"><span class="icomoon icon-chevron-left"></span></button>'
+  });
+}
+function2(){
+  $('.slick_slide2').slick({
+    appendArrows: '.button_slick2',
     nextArrow: '<button class="next w-25"><span class="icomoon icon-chevron-right"></span></button>',
     prevArrow: '<button class="back w-25"><span class="icomoon icon-chevron-left"></span></button>'
   });

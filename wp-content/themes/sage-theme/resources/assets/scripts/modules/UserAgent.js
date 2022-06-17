@@ -38,8 +38,8 @@ export default class UserAgent {
     });
     $('.slickSlide3').slick({
       // appendArrows: '.butSlide2',
-      nextArrow: '<button class="btn-slideno text-4xl"><span class="icomoon icon-chevron-right1 absolute z-2 right-92 top-37"></span></button>',
-      prevArrow: '<button class="btn-slideno text-4xl"><span class="icomoon icon-chevron-left1 absolute z-2 left-98 top-37"></span></button>'
+      nextArrow: '<button class="btn-slideno text-4xl"><span class="icomoon icon-chevron-right1 absolute z-2 2xl:right-92 2xl:top-37 lg:right-11 lg:top-29"></span></button>',
+      prevArrow: '<button class="btn-slideno text-4xl"><span class="icomoon icon-chevron-left1 absolute z-2 2xl:left-98 2xl:top-37 lg:left-10 lg:top-29"></span></button>'
     });
   }
 }

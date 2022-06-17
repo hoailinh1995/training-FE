@@ -1,5 +1,6 @@
 const { rem, lineHeight } = require('../utils')
 const fontSize = {
+  s: ['35px'],
   x: ['5px', { lineHeight: '1' }],
   xs: ['0.75rem', { lineHeight: '1' }],
   sm: ['0.875rem', { lineHeight: '1.25' }],

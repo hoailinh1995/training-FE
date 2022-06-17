@@ -1,13 +1,13 @@
-<section class="module-PictureConnect font-poppins xx:-mt-40">
-    <div class="image absolute z-1 w-1270 h-515 -ml-65 -mt-8">
+<section class="module-PictureConnect font-poppins xx:-mt-50 2xl:-mt-218 lg:mt-7">
+    <div class="image 2xl:w-1270 2xl:h-515 xx:-ml-65 xx:-mt-8 2xl:-mt-210 2xl:-ml-376 lg:-ml-298 lg:-mt-63 lg:w-965 lg:h-470 md:w-1266 md:-ml-410 md:-mt-353">
         <img class="" src="<?= \App\asset_path('images/Pic.png'); ?>">
     </div>
-    <div class="container absolute z-1 top-205 mt-1626 right-25 w-40-per">
+    <div class="container absolute z-1 xx:top-1830 xx:right-25 2xl:top-1682 2xl:right-5 lg:top-1570 lg:right-2 lg:w-40-per md:w-full md:top-3544 md:-right-110">
         <div class="content w-66-per pt-210">
-            <div class="title text-4xl font-bold w-529 mb-10">
+            <div class="title text-4xl font-bold 2xl:w-529 lg:w-298 mb-10">
                 Connecting Your Business to What Matters Most
             </div>
-            <div class="para text-base w-90-per font-light leading-5">
+            <div class="para text-base xx:w-90-per 2xl:w-435 lg:w-268 font-light leading-5">
                 <p>
                     At Encompass, we are committed to improving the way the beverage industry works. 
                 </p>
@@ -19,7 +19,7 @@
                 </p>
             </div>
             <div class=" text-white text-base ">
-                <button class="btn-red rounded-full font-extrabold mt-12 w-235 h-28">LEARN MORE</button>
+                <button class="btn-red rounded-full font-extrabold mt-12 w-235 h-28 hidden 2xl:block">LEARN MORE</button>
             </div>
         </div>
     </div>

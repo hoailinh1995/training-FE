@@ -22,7 +22,7 @@
             <div class="improve">
               <h3>Improve Operational Efficiencies</h3>
             </div>
-            <div class="stream text-lg 2xl:w-288 2xl:-mt-8 lg:w-full md:w-85-per">
+            <div class="stream text-lg 2xl:w-288 2xl:-mt-8 lg:w-140-per md:w-85-per">
               <p>Streamline processes and save money by reducing leakage with a fully integrated ERP system that works for your business.
                 Encompass ERP makes it possible to identify where, when, and how resources can be best allocated to provide the most optimal outcome.</p>
             </div>
@@ -37,7 +37,7 @@
               <p>Accelerate business decisions with better, more accurate system-to-system data and comprehensive reporting that results in deep, actionable insights. Stay ahead of potential disruptions and maintain a finger on the pulse of your supply chain from anywhere in the world.</p>
             </div>
           </div>
-          <div class="d 2xl:-mt-15 lg:mt-25">
+          <div class="d 2xl:-mt-15 lg:-mt-14">
             <div class="Enhance">
               <h3>Enhance Team Dynamics & Employee</h3>
             </div>
@@ -49,10 +49,10 @@
         </div>
       </div>
     </div>
-    <div class="slide bg-white rounded-4xl shadow-2xl xx:w-73-per xx:mt-34 xx:ml-10 2xl:w-78-per 2xl:mt-48 2xl:ml-10 lg:w-90-per lg:mt-50 lg:ml-0 md:w-full md:mt-21 md:-ml-29 m-auto relative z-1">
+    <div class="slide bg-white rounded-4xl shadow-2xl xx:w-73-per xx:mt-34 xx:ml-10 2xl:w-78-per 2xl:mt-48 2xl:ml-10 lg:w-90-per lg:mt-19 lg:ml-0 md:w-full md:mt-21 md:-ml-29 m-auto relative z-1">
         <div class="slickSlide h-470 w-90-per">
             <div class=" text lg:mt-8 lg:ml-10 md:ml-18 md:mt-36 lg:p-46 pr-100">
-              <div class=" font-bold text-4xl 2xl:w-full lg:w-140-per md:w-140-per">
+              <div class=" font-bold text-4xl 2xl:w-full lg:w-110-per md:w-140-per">
                 “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
               </div> 
                 <p class=" font-bold text-xl mt-9">
@@ -61,7 +61,7 @@
                 </p>
             </div>
             <div class=" text lg:mt-8 lg:ml-10 md:ml-18 md:mt-36 lg:p-46 pr-100">
-              <div class=" font-bold text-4xl 2xl:w-full lg:w-140-per md:w-140-per">
+              <div class=" font-bold text-4xl 2xl:w-full lg:w-110-per md:w-140-per">
                 “We've done more with Encompass in the past 6 months than we did in 3 years on our previous solution.”
               </div> 
                 <p class=" font-bold text-xl mt-9">

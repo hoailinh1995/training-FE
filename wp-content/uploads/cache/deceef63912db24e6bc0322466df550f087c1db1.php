@@ -5,11 +5,11 @@
                 <p class=" font-bold text-red-700 2xl:mt-14">THE LATEST</p>
             </div>
             <div class="flex flex-row flex-wrap w-full ">
-                <div class="left xx:w-1/2 2xl:w-53-per 2xl:-mt-14 lg:w-92-per p-4">
+                <div class="left xx:w-1/2 2xl:w-53-per 2xl:-mt-14 lg:w-92-per lg:ml-0 md:ml-18 md:w-90-per p-4">
                     <div class=" bg-white rounded-4xl w-full shadow-2xl">
                     <div class="rounded-t-4xl w-full h-280 bg-no-repeat bg-cover" style="background-image:url(<?= \App\asset_path('images/May27.jpg'); ?>)" ></div>
                         <!-- <img class="rounded-t-3xl" src="<?= \App\asset_path('images/May27.jpg'); ?>"> -->
-                        <div class="pl-20 2xl:pt-6 2xl:w-80-per lg:w-92-per lg:pt-23 pb-19">
+                        <div class="pl-20 2xl:pt-6 2xl:w-80-per lg:w-92-per lg:pt-23 md:pt-18 md:w-80-per pb-19">
                             <div class="font-bold">
                                 <h3>
                                     Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
@@ -29,9 +29,9 @@
                         </div> 
                     </div>
                 </div>
-                <div class="right flex-col flex-wrap xx:w-1/2 2xl:w-37-per 2xl:-mt-14 lg:w-92-per lg:mt-14">
+                <div class="right flex-col flex-wrap xx:w-1/2 2xl:w-37-per 2xl:-mt-14 lg:w-92-per lg:mt-14 lg:ml-0 md:w-90-per md:mt-8 md:ml-18">
                     <div class="up p-4 xx:w-70-per 2xl:w-full 2xl:ml-5 lg:w-full lg:ml-0">
-                        <div class=" rounded-4xl 2xl:p-15 lg:p-26 bg-white xx:w-455 shadow-2xl">
+                        <div class=" rounded-4xl 2xl:p-15 lg:p-26 md:p-23 bg-white xx:w-455 shadow-2xl">
                             <div class="font-bold">
                                 <h3>
                                     Lorem ipsum dolor sit amet, conseyetur
@@ -51,7 +51,7 @@
                         </div>
                     </div>
                     <div class="down p-4 xx:w-70-per 2xl:w-full 2xl:ml-5 lg:w-full lg:ml-0 2xl:mt-4 lg:mt-28">
-                        <div class="bg-white rounded-4xl 2xl:p-15 lg:p-26 xx:w-455 shadow-2xl">
+                        <div class="bg-white rounded-4xl 2xl:p-15 lg:p-26 lg:mt-0 md:p-23 md:mt-29 xx:w-455 shadow-2xl">
                             <div class="font-bold">
                             <h3>
                                 Lorem ipsum dolor sit amet, conseyetur

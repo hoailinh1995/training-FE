@@ -1,4 +1,4 @@
-<section class="mod_pro">
+<section class="mod_pro relative ">
     <div class="container bg-white">
         <div class="row sm:pl-101 lg:pl-20 ">
             <div class="left col lg:w-1/3 sm:border-b-2 sm:border-green-100 sm:w-91 lg:border-r-2 lg:border-b-0 lg:pt-15 lg:pr-50 lg:pl-26 ">

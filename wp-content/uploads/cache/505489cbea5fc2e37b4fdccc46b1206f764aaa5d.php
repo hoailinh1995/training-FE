@@ -1,4 +1,4 @@
-<footer id="footer" class="module footer w-full">
+<footer id="footer" class="module footer w-full relative">
   <div class="tong">
     <div class="bg-cover h-300 w-full relative" style="background-image: url(<?= \App\asset_path('images/Footerbackground.png'); ?>)">
       <div class="hinh1  absolute top-30-per left-35-per 2xl:left-5-per 2xl:top-62-per lg:left-1-per lg:top-48-per ">

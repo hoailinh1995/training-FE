@@ -1,4 +1,4 @@
-<section class="mod_pro4">
+<section class="mod_pro4 relative lg:bottom-25 2xl:top-15 ">
     <div class="continer text-center">
         <div class="Block_a">
             <div class="Head_0 sm:pl-79 sm:pr-96 ">
@@ -29,7 +29,7 @@
                     </div>
                 </div>
             </div>
-            <div class="Pic1 absolute left-280 sm:rotate-90 lg:left-238 lg:top-100 lg:rotate-0 2xl:left-360 xx:left-500 ">
+            <div class="Pic1 absolute left-280 sm:left-323 sm:top-454 sm:w-75 sm:rotate-90 lg:left-238 lg:top-100 lg:rotate-0 2xl:left-360 xx:left-500 ">
                 <img src="@asset('images/DuongThang.png')" alt="hinh">
             </div>
             <div class="content2 w-full lg:w-1/3  pb-65 relative lg:pt-10">
@@ -50,7 +50,7 @@
 
                 </div>
             </div>
-            <div class="Pic2 absolute left-280 sm:rotate-90 lg:rotate-0 lg:top-100 lg:left-581 2xl:left-862 xx:left-1200">
+            <div class="Pic2 absolute left-280 sm:left-319 sm:w-81 sm:top-960 sm:rotate-90 lg:rotate-0 lg:top-100 lg:left-581 2xl:left-862 xx:left-1200">
                 <img src="@asset('images/DuongThang.png')" alt="hinh">
             </div>
             <div class="content3 w-full lg:w-1/3 lg:pt-20">

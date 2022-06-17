@@ -1,4 +1,4 @@
-<section class="mod_pro2">
+<section class="mod_pro2 relative">
     <div class="container">
         <div class="row relative ">
             <div class="trai bg-blue-400 w-full pl-50 pr-50 lg:w-1/2">

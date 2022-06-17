@@ -1,4 +1,4 @@
-<header id="header" class="module header w-full ">
+<header id="header" class="module header w-full relative ">
     <div class="tong lg:h-717 sm:h-1070 2xl:h-768 bg-white">
         <div class="bg-cover sm:h-1070 2xl:h-770 xx:h-927 lg:h-817 bg-white w-full relative" style="background-image: url(<?= \App\asset_path('images/Headerbackgroundprovip.png'); ?>)">
             <div class="NoiDung">

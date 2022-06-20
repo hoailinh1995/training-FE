@@ -99,18 +99,18 @@
     </div>
   </div>
 </section> -->
-<section class="module-abc relative">
+<section class="module-abc relative lg:bottom-419 2xl:-top-100  font-poppins">
   <meta name="viewport" content="width-device-width, initial-scale=1">
   <div class="container">
-    <div class="row w-100-per bg-white pl-30">
-      <div class="left col w-full 2xl:w-1/2  ">
+    <div class="row w-100-per bg-white pl-30 sm:pl-55">
+      <div class="left col w-full 2xl:w-1/2  sm:pr-33 sm:pt-25 ">
         <div class="the">
           <div class="gach bg-red-600 h-4 w-100 "></div>
           <br>
           <h1>The Encompass Platform Seamlessly Connectes the Supply Chain, Allowing You to:</h1>
         </div>
       </div>
-      <div class="right col w-full 2xl:w-1/2 ">
+      <div class="right col w-full 2xl:w-1/2 sm:pt-40 ">
         <div class="row ">
           <div class="trai col w-full lg:w-1/2  ">
             <div class="a">

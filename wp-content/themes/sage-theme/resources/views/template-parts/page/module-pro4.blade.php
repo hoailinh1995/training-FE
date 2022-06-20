@@ -1,4 +1,4 @@
-<section class="mod_pro4 relative lg:bottom-25 2xl:top-15 ">
+<section class="mod_pro4 relative lg:bottom-25 2xl:top-15 font-poppins">
     <div class="continer text-center">
         <div class="Block_a">
             <div class="Head_0 sm:pl-79 sm:pr-96 ">

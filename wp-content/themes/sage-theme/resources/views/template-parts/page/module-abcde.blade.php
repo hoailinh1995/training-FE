@@ -1,4 +1,4 @@
-<section class="mod_abcde relative">
+<section class="mod_abcde relative font-poppins  sm:top-262 lg:-top-358  2xl:-top-90 xx:-top-90  " >
   <div class="slide w-700 bg-white rounded-3xl shadow-2xl m-auto relative z-1 lg:w-800 2xl:w-800 ">
     <div class="chuyencanh">
       <div class="a p-30 ">

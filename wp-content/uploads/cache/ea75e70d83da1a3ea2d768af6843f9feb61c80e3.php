@@ -1,4 +1,4 @@
-<section class="mod_pro2 relative">
+<section class="mod_pro2 relative sm:top-400 lg:-top-303 2xl:-top-30 font-poppins">
     <div class="container">
         <div class="row relative ">
             <div class="trai bg-blue-400 w-full pl-50 pr-50 lg:w-1/2">

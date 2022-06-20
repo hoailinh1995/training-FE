@@ -1,4 +1,4 @@
-<section class="mod_pro3 relative">
+<section class="mod_pro3 relative font-poppins">
     <div class="container relative z-1 ">
         <div class="tieude">
             <div class="tieude1 border-black"><h2>Trusted By Industry Leaders Across the Supply Chain</h2></div>

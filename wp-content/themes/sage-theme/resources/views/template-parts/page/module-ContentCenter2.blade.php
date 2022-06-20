@@ -21,7 +21,7 @@ lg:-mt-36 lg:-ml-3 md:-mt-44 md:ml-1">
                     <div class="para font-light text-lg m-auto leading-6">
                             Over 400 breweries, distilleries, and cideries use Encompass' Orchestra Cloud to work from a single source of truth for operations, data, and decision making. Streamlining the business in this way provides benefits that extend to tier-to
                         <div class="explore1" style="display:none">
-                            -tier automation, process transparency, and predictive.
+                            -tier automation, process.
                         </div>
                     </div>
                     <div class="flip_a text-base font-bold 2xl:mt-30 lg:mt-31 md:mt-6">
@@ -69,7 +69,7 @@ lg:-mt-36 lg:-ml-3 md:-mt-44 md:ml-1">
                         </h3>
                     </div>
                     <div class="para font-light text-lg m-auto leading-6">
-                            Our Retail solutions are advancing the way beverage retailers do business by optimizing commercial interactions between distributors, retailers, and consumers. This is done by consolidating online ordering and retail eCommerce websites with advanced product 
+                            Our Retail solutions are advancing the way beverage retailers do business by optimizing commercial interactions between distributors, retailers, and consumers. This is done by consolidating online ordering and retail eCommerce websites with advanced
                             <div class="explore3" style="display: none">
                                 discovery and delivery applications. 
                             </div>

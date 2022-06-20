@@ -50,7 +50,7 @@
       </div>
     </div>
     <div class="slide 2xl:w-75-per xx:w-72-per xx:h-462 xx:-mt-6 xx:-ml-35 bg-white 
-    rounded-4xl shadow-2xl relative z-1 2xl:ml-0 2xl:mt-0 lg:mt-41 lg:w-97-per md:-ml-27 
+    rounded-4xl shadow-2xl relative z-1 2xl:ml-0 2xl:mt-0 lg:mt-41 lg:ml-1 lg:w-97-per md:-ml-27 
     md:mt-64 md:w-98-per md:h-460">
       <div class="slick_slide">
         <div class="p-46 xx:mt-4 xx:ml-6 2xl:w-56-per 2xl:mt-0 2xl:ml-0 lg:mt-5 lg:ml-10 md:-ml-31 md:mt-10">
@@ -71,7 +71,7 @@
         </div>
       </div>
       <div class="button_slick w-70 absolute z-2 text-3xl xx:bottom-35 xx:-right-29 
-      2xl:-right-17 2xl:bottom-82 lg:-right-21 lg:bottom-40 md:-bottom-30 md:-right-18"></div>
+      2xl:-right-17 2xl:bottom-82 lg:-right-21 lg:bottom-40 md:bottom-29 md:-right-18"></div>
     </div>
   </div>
 </section>

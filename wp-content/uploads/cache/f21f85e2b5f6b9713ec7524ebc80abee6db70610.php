@@ -19,8 +19,8 @@
             md:-ml-41 md:mt-0">
                 Scalable,
             </h3>
-            <p class="font-light text-left xx:-ml-3 2xl:w-full lg:w-90-per 2xl:text-4xl lg:text-3xl 
-            md:text-4xl -mt-4 -ml-14 md:-ml-42">
+            <p class="font-light text-left xx:-ml-3 2xl:w-full lg:w-90-per 2xl:text-4xl lg:text-3xl lg:-ml-15
+            md:text-4xl -mt-4 md:-ml-42">
                 Flexible Solutions
             </p>
         </div>

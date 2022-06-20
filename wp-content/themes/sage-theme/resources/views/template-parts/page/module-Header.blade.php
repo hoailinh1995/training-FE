@@ -1,11 +1,11 @@
 <section class="module-Header font-poppins xx:w-full">
-    <div class="bg-cover left-0 right-0 top-0 bottom-0 xx:h-943 2xl:h-794 md:h-835 absolute z-1" style="background-image:url(@asset('/images/header.png'))" ></div>
+    <div class="bg-cover -left-2 right-0 top-0 bottom-0 xx:h-943 2xl:h-794 md:h-835 absolute z-1" style="background-image:url(@asset('/images/header.png'))" ></div>
     <!-- <div class="border top-2 absolute z-10"></div> -->
-    <div class="container lg:text-left md:text-center absolute z-2 xx:top-19 xx:left-360 2xl:left-130 2xl:top-19 lg:top-19 lg:left-0 md:top-19 md:left-25">
+    <div class="container lg:text-left absolute z-2 xx:top-19 xx:left-360 2xl:left-130 2xl:top-19 lg:top-19 lg:left-0 md:top-19 md:left-25">
         <div class="logo w-30-per 2xl:ml-1 lg:ml-43">
             <img src="@asset('/images/encompass.png')">
         </div>
-        <div class="menu w-52-per row text-left absolute z-2 2xl:left-508 2xl:w-52-per 2xl:top-1 2xl:-ml-2 lg:top-0 lg:right-39 lg:w-57-per">
+        <div class="menu hidden lg:flex row w-52-per text-left absolute z-2 2xl:left-508 2xl:w-52-per 2xl:top-1 2xl:-ml-2 lg:top-0 lg:right-39 lg:w-57-per">
             <div class="btn-white w-1/4 font-semibold text-lg">
                     ABOUT US
             </div>
@@ -19,7 +19,26 @@
                     CONTACT US
             </div>
         </div>
-        <div class="title lg:w-40-per md:w-full xx:mt-180 xx:ml-1 2xl:mt-68 2xl:-ml-1 lg:mt-62 lg:ml-43 animate-opacity
+        <div class="menu slide absolute z-4 -top-4 left-522 lg:hidden">
+            <div class="flip_d ml-44">
+                <span class="icomoon icon-menu text-5xl text-orange hover:text-white"></span>
+            </div>
+            <div class="menu_hide col text-left bg-green-500" style="display: none">
+                <div class="btn-white2 font-semibold text-lg pl-14 border-b-1">
+                        ABOUT US
+                </div>
+                <div class="btn-white2 font-semibold text-lg pl-6 border-b-1">
+                        LEADERSHIP
+                </div>
+                <div class="btn-white2 font-semibold text-lg pl-18 border-b-1">
+                        CAREERS
+                </div>
+                <div class="btn-white2  font-semibold text-lg">
+                        CONTACT US
+                </div>
+            </div>
+        </div>
+        <div class="title md:text-center lg:text-left lg:w-40-per md:w-full xx:mt-180 xx:ml-1 2xl:mt-68 2xl:-ml-1 lg:mt-62 lg:ml-43 animate-opacity
         md:-ml-26 md:mt-101">
             <div class="font-bold">
                 <h2 class="text-white text-7xl">

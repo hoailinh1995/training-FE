@@ -26,6 +26,9 @@ export default class UserAgent {
     $(".flipc").click(function(){
       $(".morec").slideToggle("slow");
     });
+    $(".flipd").click(function(){
+      $(".mored").slideToggle("slow");
+    });
     $('.slickSlide').slick({
       appendArrows: '.buttonSlide',
       nextArrow: '<button class="btn-red w-1/2"><span class="icomoon icon-chevron-right1"></span></button>',

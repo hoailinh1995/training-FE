@@ -5,7 +5,7 @@
         <div class="logo">
             <img class=" -ml-7" src="@asset('images/E.png')">
         </div>
-        <div class="menu row text-left absolute z-2 xx:w-52-per xx:left-500 xx:top-1 2xl:w-52-per 2xl:left-505 2xl:top-1 lg:left-290 lg:top-2 lg:w-57-per">
+        <div class="menu hidden lg:flex row text-left absolute z-2 xx:w-52-per xx:left-500 xx:top-1 2xl:w-52-per 2xl:left-505 2xl:top-1 lg:left-290 lg:top-2 lg:w-57-per">
             <div class="m1 w-1/4 btn-white font-semibold text-lg">
                 ABOUT US
             </div>
@@ -17,6 +17,29 @@
             </div>
             <div class="m w-1/4 btn-white font-semibold text-lg">
                 CONTACT US
+            </div>
+        </div>
+        <div class="3line lg:hidden absolute z-3 -top-2 left-510">
+            <div class="flipd ml-42">
+            <p class=" btn-slideno">
+                <span class="icomoon icon-menu1 text-5xl"></span>
+            </p>
+            </div>
+            <div class="para3">
+                <div class="mored col bg-yellow" style="display: none;">
+                    <div class="m1 btn-white font-semibold text-lg pl-13 border-b-1">
+                        ABOUT US
+                    </div>
+                    <div class="m2 btn-white font-semibold text-lg pl-5 border-b-1">
+                        LEADERSHIP
+                    </div>
+                    <div class="m3 btn-white font-semibold text-lg pl-18 border-b-1">
+                        CAREERS
+                    </div>
+                    <div class="m btn-white font-semibold text-lg">
+                        CONTACT US
+                    </div>
+                </div>
             </div>
         </div>
         <div class="bot lg:text-left lg:w-40-per xx:mt-90 xx:-ml-7 2xl:mt-69 2xl:-ml-8 lg:mt-62 lg:-ml-8 md:w-85-per md:-ml-6 md:mt-51 md:text-center">

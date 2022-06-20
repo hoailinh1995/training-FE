@@ -8,7 +8,7 @@
                 <h3 class="font-bold text-left xx:mt-0 xx:ml-0 2xl:mt-0 2xl:ml-0 2xl:text-5xl lg:text-4xl lg:-mt-10 lg:ml-0 md:text-5xl md:ml-7">
                     Streamlined
                 </h3>
-                <p class="font-light text-left xx:-mt-10 xx:ml-5 2xl:text-4xl 2xl:-mt-6 2xl:ml-0 lg:text-3xl lg:-mt-12 lg:ml-0 md:text-4xl md:-mt-6 md:ml-8">
+                <p class="font-light text-left xx:-mt-10 xx:ml-1 2xl:text-4xl 2xl:-mt-6 2xl:ml-0 lg:text-3xl lg:-mt-12 lg:ml-0 md:text-4xl md:-mt-6 md:ml-8">
                     to Provide a Single Source of Truth
                 </p>
             </div>

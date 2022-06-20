@@ -15,7 +15,7 @@ const fontSize = {
   '9xl': ['8rem', { lineHeight: '1' }],
   '70xl': ['35rem', { lineHeight: '1' }],
   '10xl': ['7rem', { lineHeight: '1' }],
-  
+  '12':'12px',
   'h1': ['1.875rem', { lineHeight: '1.13333'}],
   'h2': [rem(24), { lineHeight: lineHeight(24, 32) }],
   'h3': ['1.25rem', { lineHeight: '1.13333' }],

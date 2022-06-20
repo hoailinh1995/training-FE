@@ -1,19 +1,19 @@
 <header id="header" class="module header lg:w-100rem xx:w-120rem md:w-1400">
     <div class="anhfull relative w-full bg-cover bg-white">
         <img src="@asset('images/hbg.png')" alt="hinh">
-        <div class=" absolute lg:w-270 lg:top-160 lg:left-40 text-white 2xl:w-420 2xl:top-210">
+        <div class=" absolute lg:w-270 lg:top-160 lg:left-40 text-white 2xl:w-420 2xl:top-210 md:w-490 md:left-60 md:text-center md:top-150">
             <h1>Unlock the power of connection</h1>
         </div>
-        <div class=" absolute lg:top-350 lg:w-280 lg:left-40 text-white 2xl:w-370">
+        <div class=" absolute lg:top-350 lg:w-280 lg:left-40 text-white 2xl:w-370 md:w-375 md:text-center md:top-265 md:left-170">
             <p>Connect & Grow Your Business with the Power of the Encompass Platform</p>
         </div>
-        <div class=" lg:top-440 absolute lg:left-40">
-            <button class="rounded-full bg-red-600 text-white w-242 h-27 hover:bg-yellow">ABOUT US</button>
+        <div class=" lg:top-440 absolute lg:left-40 md:top-320 md:left-235">
+            <button class="rounded-full bg-red-600 text-white lg:w-242 lg:h-27 xl:w-242 xl:h-27 md:w-220 md:h-22.5 hover:bg-yellow">ABOUT US</button>
         </div>
         <div class=" absolute lg:top-170 lg:left-535 lg:w-700 2xl:w-1070 2xl:left-700 xx:left-940 md:w-740 md:top-390 md:left-200">
             <div class=""><img src="@asset('images/tablet.png')" alt="hinh"></div>
         </div>
-        <div class="line w-full lg:absolute lg:h-1 lg:top-45 bg-gray-300  "></div>
+        <div class="line w-full lg:absolute lg:h-1 lg:top-45 bg-gray-300 md:top-45 md:absolute md:h-1  "></div>
         <div class="container">
 
             <div class="top w-full ">

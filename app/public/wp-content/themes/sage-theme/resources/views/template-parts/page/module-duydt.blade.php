@@ -1,7 +1,7 @@
 <section class="module-duydt">
   <meta name="viewport" content="width-device-width, initial-scale=1">
   <div class="container">
-    <div class="row w-100-per bg-white pl-30">
+    <div class="row w-100-per bg-white pl-30 md:mt-50">
       <div class="left col w-full 2xl:w-1/2  ">
         <div class="the">
           <div class="line bg-red-600 h-2 w-100 "></div>

@@ -1,13 +1,26 @@
 <footer id="footer" class="module footer">
-  <div class="container footer-top">
+  <div class="anhfull relative">
+    <img src="@asset('images/blackwave.png')" alt="hinh">
+    <div class="content">
+      <div class=" absolute md:w-90 md:left-280 md:top-200"><img src="@asset('images/blueen.png')" alt="hinh"></div>
+      <div class=" absolute md:w-75 md:left-290 md:top-250"><img src="@asset('images/media.png')" alt="hinh"></div>
+      <div class="but text-white- border-2 border-white rounded-full"><button class="text-white">CONTACT</button></div>
+      <div class="word">
+        <div class=" absolute md:top-300 md:left-130 text-white md:text-12">ORCHESTRA SITE</div>
+        <div class=" absolute md:top-300 md:left-290 text-white md:text-12">ENCOMPASS WEBSITE</div>
+        <div class=" absolute md:top-300 md:left-450 text-white md:text-12">HANDOFF WEBSITE</div>
+      </div>
+      <div class="copy">
+        <p>© Encompcass Technologies 2021</p>
+      </div>
+    </div>
+  </div>
 
 
 
 
 
-
-
-    <!-- <div class="row">
+  <!-- <div class="row">
       <ul class="list-none col p-0 w-1/2 lg:w-2/3">
       
         {!! App::getFooterNav() !!}
@@ -36,4 +49,3 @@
     </div>
   </div>
 </noscript> -->
-

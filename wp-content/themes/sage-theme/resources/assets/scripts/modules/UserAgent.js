@@ -93,9 +93,9 @@ function1(){
 }
 function2(){
   $('.slick_slide2').slick({
-    appendArrows: '.button_slick2',
-    nextArrow: '<button class="next w-25"><span class="icomoon icon-chevron-right"></span></button>',
-    prevArrow: '<button class="back w-25"><span class="icomoon icon-chevron-left"></span></button>'
+    // appendArrows: '.button_slick2',
+    nextArrow: '<button class="next absolute w-25 "><span class="icomoon icon-chevron-right"></span></button>',
+    prevArrow: '<button class="back absolute w-25 "><span class="icomoon icon-chevron-left"></span></button>'
   });
 }
 }

@@ -4,7 +4,7 @@ lg:-mt-36 lg:-ml-3 md:-mt-44 md:ml-1">
         <div class="pic2 md:rotate-90 lg:rotate-0 2xl:w-27.5-per md:w-16.5-per absolute xx:left-640 xx:top-7 2xl:top-5 2xl:left-393 lg:w-15.5-per lg:left-268 lg:top-9 md:top-338 md:left-319">
             <img class="inline-block" src="<?= \App\asset_path('/images/line.png'); ?>">
         </div>
-        <div class="pic4 md:rotate-90 lg:rotate-0 2xl:w-27.5-per md:w-16.5-per absolute xx:right-332 xx:top-7 2xl:right-222 2xl:top-4 lg:w-15.5-per lg:right-256 lg:top-9 md:top-801 md:right-322">
+        <div class="pic4 md:rotate-90 lg:rotate-0 2xl:w-27.5-per md:w-16.5-per absolute xx:right-335 xx:top-7 2xl:right-222 2xl:top-4 lg:w-15.5-per lg:right-256 lg:top-9 md:top-801 md:right-322">
                     <img class="inline-block" src="<?= \App\asset_path('/images/line.png'); ?>">
         </div>
         <div class="lg:row md:col w-full relative">

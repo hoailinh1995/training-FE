@@ -20,21 +20,26 @@
           </div>
           <div class="b xx:mt-21 2xl:mt-37 lg:mt-32 md:mt-37">
             <div class="improve">
-              <h3>Improve Operational Efficiencies</h3>
+              <h3 class="hidden lg:block">Improve Operational Efficiencies</h3>
+              <h3 class="lg:hidden w-75-per">Leverage Real-Time Data for Better Decision-Marking</h3>
             </div>
             <div class="w-80-per">
-              <p>Streamline processes and save money by reducing leakage with a fully integrated ERP system that works for your business.
+              <p class="hidden lg:block">Streamline processes and save money by reducing leakage with a fully integrated ERP system that works for your business.
                 Encompass ERP makes it possible to identify where, when, and how resources can be best allocated to provide the most optimal outcome.</p>
+              <p class="lg:hidden">Accelerate business decisions with better, more accurate system-to-system data and comprehensive reporting that results in deep, actionable insights. Stay ahead of potential disruptions and maintain a finger on the pulse of your supply chain from anywhere in the world.</p>
             </div>
           </div>
         </div>
-        <div class="phai col lg:w-45-per xx:-ml-17 2xl:-ml-31 md:w-full lg:mt-0 md:mt-17">
+        <div class="phai col lg:w-45-per xx:-ml-17 2xl:-ml-31 md:w-full lg:mt-0 md:-mt-1">
           <div class="c">
             <div class="Leverage xx:w-90-per 2xl:w-73-per lg:w-full md:w-75-per">
-              <h3>Leverage Real-Time Data for Better Decision-Marking</h3>
+              <h3 class="lg:hidden">Improve Operational Efficiencies</h3>
+              <h3 class="hidden lg:block">Leverage Real-Time Data for Better Decision-Marking</h3>
             </div>
             <div class="w-80-per">
-              <p>Accelerate business decisions with better, more accurate system-to-system data and comprehensive reporting that results in deep, actionable insights. Stay ahead of potential disruptions and maintain a finger on the pulse of your supply chain from anywhere in the world.</p>
+              <p class="hidden lg:block">Accelerate business decisions with better, more accurate system-to-system data and comprehensive reporting that results in deep, actionable insights. Stay ahead of potential disruptions and maintain a finger on the pulse of your supply chain from anywhere in the world.</p>
+              <p class="lg:hidden">Streamline processes and save money by reducing leakage with a fully integrated ERP system that works for your business.
+                Encompass ERP makes it possible to identify where, when, and how resources can be best allocated to provide the most optimal outcome.</p>
             </div>
           </div>
           <div class="d xx:-mt-15 lg:mt-0 md:mt-9">
@@ -51,7 +56,7 @@
     </div>
     <div class="slide 2xl:w-75-per xx:w-72-per xx:h-462 xx:-mt-6 xx:-ml-35 bg-white 
     rounded-4xl shadow-2xl relative z-1 2xl:ml-0 2xl:mt-0 lg:mt-41 lg:ml-1 lg:w-97-per md:-ml-27 
-    md:mt-64 md:w-98-per md:h-460">
+    md:mt-166 md:w-98-per md:h-460">
       <div class="slick_slide">
         <div class="p-46 xx:mt-4 xx:ml-6 2xl:w-56-per 2xl:mt-0 2xl:ml-0 lg:mt-5 lg:ml-10 md:-ml-31 md:mt-10">
           <div class="text-4xl font-bold 2xl:w-80-per xx:w-84-per lg:w-104-per xx:-mt-1 2xl:mt-8 xx:ml-2 2xl:ml-16 md:w-125-per">

@@ -1,7 +1,7 @@
 <section class="module-TheLatest relative font-poppins xx:-ml-2 xx:-mt-59 2xl:-mt-64 2xl:ml-64 xx:w-full 2xl:w-91-per lg:w-85-per lg:-mt-235 lg:ml-38 md:-mt-57">
 <span class="icomoon icon-iconC text-70xl absolute z-1 xx:right-154 2xl:-right-88 lg:-right-139 lg:top-86 md:top-2 md:-right-28 opacity-25 text-gray-100"></span>
     <div class="container w-full relative z-3 py-60">
-        <div class="xx:ml-51 2xl:ml-3"> 
+        <div class="xx:ml-51 2xl:ml-3 lg:ml-5 md:ml-25"> 
             <p class="font-extrabold text-red-700">THE LATEST</p>
         </div>
         <div class="flex flex-row flex-wrap w-full">

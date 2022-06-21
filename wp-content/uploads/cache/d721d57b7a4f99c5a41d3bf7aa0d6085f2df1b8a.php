@@ -1,6 +1,6 @@
 <section class="module_7 bg-white w-full m-auto">
     <div class="container -mt-7">
-        <div class="header1 text-center py-0 px-25 m-100 -mt-32">
+        <div class="header1 text-center py-0 px-25 m-100 -mt-227">
             <h1>Enterprise ERP Solutions for Beverage & Food Industry</h1>
         </div>
 
@@ -11,23 +11,23 @@
         </div>
 
         <div class="picture flex flex-grow flex-wrap ml-125 w-full">
-        <img class="-ml-35" src="<?= \App\asset_path('images/hinh_6.png'); ?>" alt="picture">
+        <img class="-ml-39.5 -mt-6.5" src="<?= \App\asset_path('images/hinh_6.png'); ?>" alt="picture">
 
-        <img class="ml-23 h-22" src="<?= \App\asset_path('images/hinh_7.png'); ?>" alt="picture">
+        <img class="ml-29 -mt-3.5 h-22" src="<?= \App\asset_path('images/hinh_7.png'); ?>" alt="picture">
 
-        <img class="ml-23" src="<?= \App\asset_path('images/hinh_8.png'); ?>" alt="picture">
+        <img class="ml-27.5 -mt-8.5" src="<?= \App\asset_path('images/hinh_8.png'); ?>" alt="picture">
 
-        <img class="ml-23 h-22" src="<?= \App\asset_path('images/hinh_9.png'); ?>" alt="picture">
+        <img class="ml-27 -mt-3.5 h-22" src="<?= \App\asset_path('images/hinh_9.png'); ?>" alt="picture">
 
-        <img class="ml-25" src="<?= \App\asset_path('images/hinh_10.png'); ?>" alt="picture">
+        <img class="ml-23.5 -mt-5" src="<?= \App\asset_path('images/hinh_10.png'); ?>" alt="picture">
         </div>
         
-        <div class="duoi1 text-center p-3 flex flex-row">
+        <div class="duoi1 text-center -ml-1 mt-8 p-3 flex flex-row">
             <div class="header2 -ml-25 mr-25">
             <h2>Solutions for Manufacturers</h2>
             </div>
             
-            <div class="header3 ml-35 ">
+            <div class="header3 ml-47.5 ">
                 <h2>Solutions for Distributors</h2>
             </div>
             

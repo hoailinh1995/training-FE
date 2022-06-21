@@ -1,29 +1,29 @@
-<div class="module11 bg-white">
+<div class="module11 overflow-hidden -mt-50 bg-white">
 <img class="z-2" src="@asset('images/hinh_15.png')" alt="picture">
     <div class="container">
-        <div class="header">
+        <div class="header -ml-16 mt-9">
         <img class="z-1 -mt-50% " src="@asset('images/hinh_12.png')" alt="picture">
         </div>
 
         <div class="content">
-            <div class="header1 w-30% ml-10% text-white">
+            <div class="header1 w-30% ml-54.5 mt-37.5 text-white">
                 <h1>Unlock the Power of Connection</h1>
         </div>
-            <div class="content1 w-23% ml-10% text-white">
+            <div class="content1 w-23% ml-55 mt-8.5 text-white">
             <p>Connect & Grow Your Business with the Power of the Encompass Platform</p>
             </div>
             <div class="piture">
-            <img class="z-2 w-1/2 ml-62% -mt-15%" src="@asset('images/hinh_11.png')" alt="picture">
-            <img class="z-1 w-17% ml-67% -mt-20% " src="@asset('images/hinh_13.png')" alt="picture">
+            <img class="z-2 w-70% ml-656 -mt-264" src="@asset('images/hinh_11.png')" alt="picture">
+            <img class="z-1 w-23% ml-754 -mt-393 " src="@asset('images/hinh_13.png')" alt="picture">
             </div>
-            <a href="#" class=" btn rounded-full text-center ml-10% -mt-55% py-7 px-28 text-white bg-red-100">
+            <a href="#" class=" btn rounded-full text-center ml-8% -mt-76% pl-38 pr-33.6 pt-8.5 pb-6 text-white bg-red-100">
                  ABOUT US
                 </a>
         </div>
     </div>
 <!-- <section class="module_7 bg-white w-full m-auto"> -->
     <div class="container -mt-7">
-        <div class="header1 text-center py-0 px-25 m-100 -mt-32">
+        <div class="header1 text-center py-0 px-25 m-100 -mt-60">
             <h1>Enterprise ERP Solutions for Beverage & Food Industry</h1>
         </div>
 
@@ -109,7 +109,7 @@
             </div>
         </div>
     </div>
-</section>
+
 <div class="module-test">
 <meta name="viewport" content="width-device-width, initial-scale=1">
   <div class="container">
@@ -329,7 +329,62 @@
                 </div>
             </div>
         </div>
-    </div>        
+    </div>  
+<!-- <section class="module10 z-2 bg-white"> -->
+  <div class="container ml-22">
+      <div class="header">
+          <h1 class="text-center w-48% ml-25%">Trusted By Industry Leaders Across the Supply Chain</h1>
+      </div>
+      <div class="content">
+          <p class="text-center w-60% ml-19% text-gray-300">We are trusted by the world's leading manufacturers, distributors, and retailers to provide the best of what technology, specifically built for the beverage and food industry, can make possible.</p>
+      </div>
+      <div class="slick w-full">
+                <div class="slick_slide2 ml-1">
+                    <div class="abc ml-100 flex flex-grow ">
+                    <div class="w-1/8 "><img class="" src="@asset('images/hinh_16.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-12.5"><img class="" src="@asset('images/hinh_17.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-20"><img class="" src="@asset('images/hinh_18.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-22"><img class="" src="@asset('images/hinh_19.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-26"><img class="" src="@asset('images/hinh_20.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-37.5"><img class="" src="@asset('images/hinh_21.png')" alt="picture"></div>
+                    </div>
+                    <div class="abc ml-100 flex flex-grow ">
+                    <div class="w-1/8 "><img class="" src="@asset('images/hinh_16.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-12.5"><img class="" src="@asset('images/hinh_17.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-20"><img class="" src="@asset('images/hinh_18.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-22"><img class="" src="@asset('images/hinh_19.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-26"><img class="" src="@asset('images/hinh_20.png')" alt="picture"></div>
+                    <div class="w-1/8 -ml-37.5"><img class="" src="@asset('images/hinh_21.png')" alt="picture"></div>
+                    </div>
+                </div>
+                <div class="button_slick2 absolute z-2 text-3xl mb-290 right-35 text-red-100  "></div>
+     
+      </div>
+  </div>
+  <!-- <section class="module9"> -->
+<img class="mt-20% h-400" src="@asset('images/hinh_22.png')" alt="picture">
+    <div class="container z-1 absolute">
+    <img class="z-1 absolute -mt-12% ml-10%" src="@asset('images/hinh_23.png')" alt="picture">
+    <img class="z-1 absolute -mt-7.8% ml-10% " src="@asset('images/hinh_24.png')" alt="picture">
 
+    <div class="content flex flex-grow z-1 absolute -mt-8% ml-28% w-42% text-white ">
+        <div class="OR ml-12% w-52%">
+        ORCHESTRA SITE
+        </div>
+        <div class="EN w-59%">
+        ENCOMPASS WEBSITE
+        </div>
+        <div class="HAN w-44% -mr-26% ">
+        HANDOFF WEBSITE
+        </div>
+        <a href="#" class=" btn  z-1 absolute -mt-2% ml-130% rounded-full text-center py-7 px-28 text-white ring ring-white ring-inset">
+             CONTACT
+         </a> 
+    </div>
 
+        <div class="text -mt-4% ml-10% w-46% text-gray-600">
+        © Encompass Technologies 2021
+        </div>
+        
+</div>    
 </section>

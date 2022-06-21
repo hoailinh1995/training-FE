@@ -1,5 +1,5 @@
 <section class="module10 z-2 bg-white">
-  <div class="container">
+  <div class="container ml-22">
       <div class="header">
           <h1 class="text-center w-48% ml-25%">Trusted By Industry Leaders Across the Supply Chain</h1>
       </div>

@@ -1,22 +1,22 @@
-<section class="module8">
+<section class="module8 overflow-hidden -mt-50">
 <img class="z-2" src="@asset('images/hinh_15.png')" alt="picture">
     <div class="container">
-        <div class="header">
+        <div class="header -ml-16 mt-9">
         <img class="z-1 -mt-50% " src="@asset('images/hinh_12.png')" alt="picture">
         </div>
 
         <div class="content">
-            <div class="header1 w-30% ml-10% text-white">
+            <div class="header1 w-30% ml-54.5 mt-37.5 text-white">
                 <h1>Unlock the Power of Connection</h1>
         </div>
-            <div class="content1 w-23% ml-10% text-white">
+            <div class="content1 w-23% ml-55 mt-8.5 text-white">
             <p>Connect & Grow Your Business with the Power of the Encompass Platform</p>
             </div>
             <div class="piture">
-            <img class="z-2 w-1/2 ml-62% -mt-15%" src="@asset('images/hinh_11.png')" alt="picture">
-            <img class="z-1 w-17% ml-67% -mt-20% " src="@asset('images/hinh_13.png')" alt="picture">
+            <img class="z-2 w-70% ml-656 -mt-264" src="@asset('images/hinh_11.png')" alt="picture">
+            <img class="z-1 w-23% ml-754 -mt-393 " src="@asset('images/hinh_13.png')" alt="picture">
             </div>
-            <a href="#" class=" btn rounded-full text-center ml-10% -mt-55% py-7 px-28 text-white bg-red-100">
+            <a href="#" class=" btn rounded-full text-center  ml-8% -mt-76% pl-38 pr-33.6 pt-8.5 pb-6 text-white bg-red-100">
                  ABOUT US
                 </a>
         </div>

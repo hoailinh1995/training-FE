@@ -132,6 +132,15 @@
                     "sub_fields": [],
                     "min": "",
                     "max": ""
+                },
+                "layout_62b1324515b11": {
+                    "key": "layout_62b1324515b11",
+                    "name": "HoaiMy",
+                    "label": "HoaiMy",
+                    "display": "block",
+                    "sub_fields": [],
+                    "min": "",
+                    "max": ""
                 }
             },
             "button_label": "Add Module",
@@ -157,6 +166,6 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1655687401,
+    "modified": 1655779909,
     "local_file": "\/Users\/hoaimi\/Local Sites\/hoaimy\/app\/public\/wp-content\/themes\/sage-theme\/resources\/acf-json\/group_5c923a79e8169.json"
 }

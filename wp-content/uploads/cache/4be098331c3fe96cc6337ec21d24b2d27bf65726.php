@@ -1,8 +1,9 @@
 <section class="container text-center">
 
     <div class="Block_a xl:relative">
-        <div class="Head_0 w-60-per ml-22-per lg:w-265 lg:ml-24-per xl:w-48-per xl:ml-26-per 2xl:ml-27-per ">
-            <h2>Enterprise ERP Solutions for Beverage & Food Industry </h2>
+        <div
+            class="Head_0 font-bold text-35 w-60-per ml-22-per lg:w-265 lg:ml-24-per xl:w-48-per xl:ml-26-per 2xl:ml-27-per ">
+            <p>Enterprise ERP Solutions for Beverage & Food Industry </p>
         </div>
         <div class="Body_0 w-60-per ml-22-per lg:w-300 xl:w-74-per xl:absolute xl:-left-50">
             <p>At Encompass, we’re revolutionizing the beverage and food supply chain like no other ERP solution has
@@ -30,10 +31,13 @@
                 <div class="footer1 lg:ml-10-per xl:ml-35-per xl:pt-17-per font-bold text-orange hover:text-black">
                     <h7>EXPLORE ORCHESTRA <span class="icon-Group-2530 "></span></h7>
                     <div
-                        class="Pic1 pl-47-per mt-5-per lg:absolute lg:rotate-90 lg:-top-142 lg:left-35 xl:-top-160 xl:left-45 2xl:-top-185">
+                        class="Pic1 xl:hidden pl-47-per mt-5-per lg:absolute lg:rotate-90 lg:-top-142 lg:left-35 xl:-top-160 xl:left-45 2xl:-top-185">
                         <img src="<?= \App\asset_path('images/ANH2591.png'); ?>" alt="hinh">
                     </div>
 
+                    <div class=" absolute hidden xl:flex row  xl:top-35 xl:left-145 2xl:left-165">
+                        <img src="<?= \App\asset_path('images/Anh2592.png'); ?>" alt="hinh">
+                    </div>
                 </div>
             </div>
         </div>
@@ -54,10 +58,13 @@
                         smoothly, predictably, efficiently.</p>
                 </div>
                 <div class="footer2 lg:mt-5-per lg:ml-6-per xl:ml-10-per 2xl:ml-2-per font-bold text-orange">
-                    <h7>EXPLORE ORCHESTRA <span class="icon-Group-2530"></span></h7>
+                    <h7>440EXPLORE ORCHESTRA <span class="icon-Group-2530"></span></h7>
                     <div
-                        class="Pic2 pl-47-per  mt-5-per lg:absolute lg:rotate-90 lg:-top-142 lg:right-40 xl:-top-160 xl:right-45 2xl:-top-185">
+                        class="Pic2 xl:hidden pl-47-per  mt-5-per lg:absolute lg:rotate-90 lg:-top-142 lg:right-40 xl:-top-160 xl:right-45 2xl:-top-185">
                         <img src="<?= \App\asset_path('images/ANH2591.png'); ?>" alt="hinh">
+                    </div>
+                    <div class=" absolute hidden xl:flex row xl:top-35 xl:right-150 2xl:right-165">
+                        <img src="<?= \App\asset_path('images/Anh2592.png'); ?>" alt="hinh">
                     </div>
                 </div>
             </div>

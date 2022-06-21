@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row w-full">
             <div class="left left col w-full xl:w-1/3 2xl:pl-10-per ">
-                <div class="bg-red h-1 w-92">
+                <div class="bg-orange h-1 w-92">
                 </div>
                 <br>
                 <div class="the pt-5">

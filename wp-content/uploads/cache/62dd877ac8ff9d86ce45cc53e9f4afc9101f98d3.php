@@ -16,7 +16,7 @@
             </div>
         </div>
         <div class="slick_slide3 relative z-1 ">
-            <div class="xl:mt-5-per">
+            <div class=" mt-7.5 xl:mt-5-per">
                 <img src="<?= \App\asset_path('images/Image1.png'); ?>" alt="hinh">
             </div>
             <div class="">

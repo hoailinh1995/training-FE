@@ -43,6 +43,7 @@ init ()
     this.function()
     this.functions()
     this.slick_slide3()
+    this.Menu()
   
   }
 function() {
@@ -103,6 +104,17 @@ slick_slide3(){
       // settings: "unslick"
       // instead of a settings object
     ]
+  });
+}
+
+Menu(){
+  $(document).ready(function(){
+    $(".Menu").click(function(){
+      $("#Option1").fadeToggle("slow");
+      $("#Option2").fadeToggle("1000");
+      $("#Option3").fadeToggle("3000");
+      $("#Option4").fadeToggle("4000");
+    });
   });
 }
 

@@ -28,9 +28,8 @@
                                             diam nonumy eirmod.Lorem ipsum dolor sit amet,consetetur
                                         </div>
                                     </div>
-
                                     <div class="nut1 font-bold text-orange pl-8 mt-2-per">
-                                        <button> Learn More </button><span class="icon-Group-2530"></span>
+                                        <button> Learn More </button>&ensp;<span class="icon-Group-2530"></span>
                                     </div>
                                 </div>
                             </div>
@@ -50,7 +49,7 @@
                                     nonumy eirmod.Lorem ipsum dolor sit amet,consetetur</div>
                             </div>
                             <div class="nut2 font-bold text-orange mt-2-per ">
-                                <button> Learn More </button> <span class="icon-Group-2530"></span>
+                                <button> Learn More </button>&ensp;<span class="icon-Group-2530"></span>
                             </div>
                         </div>
                         <br>
@@ -67,7 +66,7 @@
                                     nonumy eirmod.Lorem ipsum dolor sit amet,consetetur</div>
                             </div>
                             <div class="nut3 text-orange font-bold mt-2-per ">
-                                <button> Learn More </button> <span class="icon-Group-2530"></span>
+                                <button> Learn More </button> &ensp; <span class="icon-Group-2530"></span>
                             </div>
                         </div>
                     </div>

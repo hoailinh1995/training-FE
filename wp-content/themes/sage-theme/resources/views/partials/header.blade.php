@@ -7,7 +7,7 @@
                 <img src="@asset('images/Logo.png')" alt="hinh">
             </div>
             <div
-                class="absolute font-bold hidden lg:flex row text-gray-100 -right-20-per top-4.5-per lg:top-5.5-per lg:left-35-per xl:left-44-per  2xl:left-422 2xl:top-4">
+                class="absolute font-bold hidden lg:flex row text-gray-100 -right-20-per top-4.5-per lg:top-5.5-per lg:left-35-per xl:left-44-per  2xl:left-422 2xl:top-4 lg:letf-42-per">
                 <h8>ABOUT
                     <button>US</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button>LEADERSHIP</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button>CREERS</button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<button><a
                             href="https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link">CONTACT
@@ -47,7 +47,7 @@
             </div>
 
             <div
-                class="absolute top-60-per -right-28-per -ml-50-per lg:ml-5-per lg:-right-17-per lg:top-20-per xl:ml-5-per xl:top-13-per xl:-right-17-per 2xl:-right-6-per 2xl:top-49 2xl:right-15">
+                class="absolute top-60-per -right-28-per -ml-50-per lg:ml-5-per lg:-right-17-per lg:top-20-per xl:ml-5-per xl:top-13-per xl:-right-17-per 2xl:-right-6-per 2xl:top-49 2xl:-right-5">
                 <img src="@asset('images/Headerr.png')" alt="hinh">
             </div>
         </div>

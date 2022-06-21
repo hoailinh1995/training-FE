@@ -1,4 +1,4 @@
-<section class="module-abc">
+<section class="Module-abc font-poppins">
     <div class="container">
         <div class="row w-full">
             <div class="left left col w-full xl:w-1/3 2xl:pl-10-per ">

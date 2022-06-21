@@ -1,4 +1,4 @@
-<header id="header" class="module header h-475 lg:h-282.5 xl:h-345 2xl:h-365">
+<header id="header" class="module font-poppins header h-475 lg:h-282.5 xl:h-345 2xl:h-365">
     <div class=" col relative bg-cover h-375 w-full 2xl:h-450"
         style="background-image: url(<?= \App\asset_path('images/Header.png'); ?>)">
 
@@ -14,7 +14,7 @@
                             US</a></button>
                 </h8>
             </div>
-            <div class="Menu absolute lg:hidden right-20 top-20 text-right">
+            <div class="Menu absolute font-bold lg:hidden right-15 top-20 text-right">
                 <button><span class="icon-Component-26--1 text-3xl "></span></button><br><br>
                 <div class="">
                     <div id="Option1" class="text-gray-100">ABOUT US</div>

@@ -1,5 +1,4 @@
-<section class="container text-center">
-
+<section class="container text-center font-poppins">
     <div class="Block_a xl:relative">
         <div
             class="Head_0 font-bold text-35 w-60-per ml-22-per lg:w-265 lg:ml-24-per xl:w-48-per xl:ml-26-per 2xl:ml-27-per ">

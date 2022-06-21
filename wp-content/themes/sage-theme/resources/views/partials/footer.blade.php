@@ -1,4 +1,4 @@
-<footer id="footer" class="module footer">
+<footer id="footer" class="module footer font-poppins">
     <div class=" col bg-cover h-225 xl:h-255 w-full relative"
         style="background-image: url(@asset('images/Footer.png'))">
         <div class="Head col h-1/5"></div>

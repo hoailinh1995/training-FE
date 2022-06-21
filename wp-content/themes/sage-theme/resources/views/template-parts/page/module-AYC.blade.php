@@ -1,4 +1,4 @@
-<section class="Module_AYC">
+<section class="Module_AYC font-poppins">
     <div class="container relative z-1">
         <div class="content text-center">
             <div class="Head">

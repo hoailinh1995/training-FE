@@ -1,4 +1,4 @@
-<section class="container">
+<section class="Module_APC font-poppins">
     <div class="slide w-full bg-white rounded-3xl shadow-2xl sm:w-335 lg:w-400 relative z-1 m-auto">
         <div class=" w-full slick_slide">
             <div class="page1 p-30">

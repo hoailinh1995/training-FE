@@ -1,4 +1,4 @@
-<section class="Item">
+<section class="Module-AIC font-poppins">
     <div class="container">
         <div class="row">
             <div class="Left relative w-full h-300 bg-white lg:w-1/2">

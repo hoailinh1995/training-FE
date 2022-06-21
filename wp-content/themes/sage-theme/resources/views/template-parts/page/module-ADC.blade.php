@@ -1,4 +1,4 @@
-<section class="mod_ABC">
+<section class="Module_ADC font-poppins">
     <div class="container flex-col space-y-4 pl-15">
         <div class="relative z-2">
             <span class="icon-Group-2468 z-1 text-10xl -right-49 opacity-40 absolute "></span>

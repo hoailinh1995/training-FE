@@ -48,15 +48,15 @@
                     </div>
                 </div>
             </div>
-            <div class="menu text-right absolute sm:top-25 sm:right-62 sm:text-26 lg:hidden">
+            <div class="menu  text-right absolute sm:top-25 sm:right-62 sm:text-26 lg:hidden">
                 <button><span class="icomoon icon-Group-997"></span></button>
-                <div class="div1 text-white"> <button>ABOUT US</button></div>
+                <div class="div1 text-white bg-blue-100 rounded-full text-center"> <button>ABOUT US</button></div>
                 <br>
-                <div class="div2 text-white"> <button>LEADERSHIP</button></div>
+                <div class="div2 text-white bg-yellow rounded-full text-center"> <button>LEADERSHIP</button></div>
                 <br>
-                <div class="div3 text-white"> <button>CAREERS</button></div>
+                <div class="div3 text-white bg-green-300 rounded-full text-center"> <button>CAREERS</button></div>
                 <br>
-                <div class="div4 text-white"> <button>CONTACT US</button></div>
+                <div class="div4 text-white bg-orange rounded-full text-center"> <button>CONTACT US</button></div>
             </div>
         </div>
     </div>

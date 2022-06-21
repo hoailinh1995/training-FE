@@ -117,10 +117,10 @@ slick_slide3(){
 Menu(){
 $(document).ready(function(){
   $(".menu").click(function(){
-    $(".div1").fadeToggle("slow");
-    $(".div2").fadeToggle("slow");
-    $(".div3").fadeToggle("slow");
-    $(".div4").fadeToggle("slow");
+    $(".div1").fadeToggle(1000);
+    $(".div2").fadeToggle(2000);
+    $(".div3").fadeToggle(3000);
+    $(".div4").fadeToggle(4000);
   });
 });
 }

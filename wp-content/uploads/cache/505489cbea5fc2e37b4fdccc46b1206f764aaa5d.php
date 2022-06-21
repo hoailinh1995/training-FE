@@ -7,7 +7,7 @@
       <div class="hinh2  absolute top-40-per left-38-per 2xl:left-6-per 2xl:top-74-per lg:left-2-per lg:top-57-per  ">
         <img src="<?= \App\asset_path('images/Footer2.png'); ?>" alt="hinh">
       </div>
-      <div class="content row w-full  absolute top-48-per pl-5-per 2xl:w-64-per 2xl:left-21-per 2xl:top-71-per  lg:pl-0  lg:top-378 lg:left-258 lg:w-860">
+      <div class="content row w-full  absolute top-48-per pl-5-per 2xl:w-64-per 2xl:left-21-per 2xl:top-71-per  lg:pl-0  lg:top-336 lg:left-254 lg:w-860">
         <div class="chu1 w-1/3 text-white lg:w-216">
           <h3>OCHESTRA SITE</h3>
         </div>

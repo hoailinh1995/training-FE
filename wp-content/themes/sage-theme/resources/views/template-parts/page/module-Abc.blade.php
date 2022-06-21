@@ -14,11 +14,11 @@
             <div class="drive">
               <h3>Drive Business Growth</h3>
             </div>
-            <div class="tap text-lg xx:w-275 2xl:w-280 lg:w-150-per md:w-80-per">
+            <div class="tap text-lg xx:w-275 2xl:w-280 lg:w-129-per md:w-80-per">
               <p>Tap into the power of predictive analytics and demand forecasting. Capitalize on revenue-generating opportunities faster. Encompass ERP captures mission-critical data across your entire operation, empowering you to bring your beverage of food business into new levels of profitability.</p>
             </div>
           </div>
-          <div class="b xx:pt-37 xx:-mt-32 2xl:mt-18 lg:mt-20">
+          <div class="b hidden lg:block xx:pt-37 xx:-mt-32 2xl:mt-18 lg:mt-20">
             <div class="improve">
               <h3>Improve Operational Efficiencies</h3>
             </div>
@@ -27,14 +27,31 @@
                 Encompass ERP makes it possible to identify where, when, and how resources can be best allocated to provide the most optimal outcome.</p>
             </div>
           </div>
-        </div>
-        <div class="phai col xx:w-44-per xx:ml-9 2xl:w-1/2 2xl:-ml-13 2xl:pr-39 lg:w-1/2 lg:ml-48 md:-ml-9">
-          <div class="c">
+          <div class="c lg:hidden">
             <div class="Leverage lg:w-full md:w-70-per">
               <h3>Leverage Real-Time Data for Better Decision-Marking</h3>
             </div>
             <div class="Accelebrate text-lg lg:w-full md:w-85-per">
               <p>Accelerate business decisions with better, more accurate system-to-system data and comprehensive reporting that results in deep, actionable insights. Stay ahead of potential disruptions and maintain a finger on the pulse of your supply chain from anywhere in the world.</p>
+            </div>
+          </div>
+        </div>
+        <div class="phai col xx:w-44-per xx:ml-9 2xl:w-1/2 2xl:-ml-13 2xl:pr-39 lg:w-1/2 lg:ml-48 md:-ml-9">
+          <div class="c hidden lg:block">
+            <div class="Leverage lg:w-full md:w-70-per">
+              <h3>Leverage Real-Time Data for Better Decision-Marking</h3>
+            </div>
+            <div class="Accelebrate text-lg lg:w-full md:w-85-per">
+              <p>Accelerate business decisions with better, more accurate system-to-system data and comprehensive reporting that results in deep, actionable insights. Stay ahead of potential disruptions and maintain a finger on the pulse of your supply chain from anywhere in the world.</p>
+            </div>
+          </div>
+          <div class="b lg:hidden">
+            <div class="improve">
+              <h3>Improve Operational Efficiencies</h3>
+            </div>
+            <div class="stream text-lg 2xl:w-288 2xl:-mt-8 lg:w-140-per md:w-85-per">
+              <p>Streamline processes and save money by reducing leakage with a fully integrated ERP system that works for your business.
+                Encompass ERP makes it possible to identify where, when, and how resources can be best allocated to provide the most optimal outcome.</p>
             </div>
           </div>
           <div class="d 2xl:-mt-15 lg:-mt-14">

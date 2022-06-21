@@ -29,8 +29,11 @@
                     </div>
                 </div>
             </div>
-            <div class="Pic1 absolute left-280 sm:left-323 sm:top-454 sm:w-75 sm:rotate-90 lg:left-238 lg:top-100 lg:rotate-0 2xl:left-360 xx:left-500 ">
+            <div class="Pic1 sm:hidden lg:flex absolute left-280 sm:left-323 sm:top-454 sm:w-75 sm:rotate-90 lg:left-238 lg:top-100 lg:rotate-0 2xl:left-360 xx:left-500 ">
                 <img src="<?= \App\asset_path('images/DuongThang.png'); ?>" alt="hinh">
+            </div>
+            <div class="Pic11 sm:flex lg:hidden absolute left-280 sm:left-382 sm:top-400 sm:w-75 lg:left-238 lg:top-100 lg:rotate-0 2xl:left-360 xx:left-500 ">
+                <img src="<?= \App\asset_path('images/Mega2.png'); ?>" alt="hinh">
             </div>
             <div class="content2 w-full lg:w-1/3  pb-65 relative lg:pt-10">
                 <div class="Icon2 sm:pt-32"><span class="icomoon icon-Path-5210 text-7xl"></span></div>
@@ -50,8 +53,11 @@
 
                 </div>
             </div>
-            <div class="Pic2 absolute left-280 sm:left-319 sm:w-81 sm:top-960 sm:rotate-90 lg:rotate-0 lg:top-100 lg:left-581 2xl:left-862 xx:left-1200">
+            <div class="Pic2 sm:hidden lg:flex absolute left-280 sm:left-319 sm:w-81 sm:top-960 sm:rotate-90 lg:rotate-0 lg:top-100 lg:left-581 2xl:left-862 xx:left-1200">
                 <img src="<?= \App\asset_path('images/DuongThang.png'); ?>" alt="hinh">
+            </div>
+            <div class="Pic22 sm:flex lg:hidden absolute left-280 sm:left-382 sm:w-81 sm:top-909 lg:rotate-0 lg:top-100 lg:left-581 2xl:left-862 xx:left-1200">
+                <img src="<?= \App\asset_path('images/Mega2.png'); ?>" alt="hinh">
             </div>
             <div class="content3 w-full lg:w-1/3 lg:pt-20">
                 <div class="Icon3 sm:pt-23"><span class="icomoon icon-store-line text-7xl"></span></div>

@@ -114,6 +114,16 @@ slick_slide3(){
 //     ]
 // });
 // }
+Menu(){
+$(document).ready(function(){
+  $(".menu").click(function(){
+    $(".div1").fadeToggle("slow");
+    $(".div2").fadeToggle("slow");
+    $(".div3").fadeToggle("slow");
+    $(".div4").fadeToggle("slow");
+  });
+});
+}
   init () {
     console.log('test')
    // this.clikshow()
@@ -124,6 +134,7 @@ slick_slide3(){
     this.slickslide1()  
     this.slick_slide3()
     // this.slick2()
+    this.Menu()
   }
 
   

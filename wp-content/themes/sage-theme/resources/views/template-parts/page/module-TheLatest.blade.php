@@ -7,7 +7,7 @@
             <div class="flex flex-row flex-wrap w-full ">
                 <div class="left xx:w-1/2 2xl:w-53-per 2xl:-mt-14 lg:w-92-per lg:ml-0 md:ml-18 md:w-90-per p-4">
                     <div class=" bg-white rounded-4xl w-full shadow-2xl">
-                    <div class="rounded-t-4xl w-full h-280 bg-no-repeat bg-center bg-cover" style="background-image:url(@asset('images/May27.jpg'))" ></div>
+                    <div class="rounded-t-4xl w-full h-280 bg-no-repeat bg-center bg-cover" alt="May27" style="background-image:url(@asset('images/May27.jpg'))" ></div>
                         <!-- <img class="rounded-t-3xl" src="@asset('images/May27.jpg')"> -->
                         <div class="pl-20 2xl:pt-6 2xl:w-80-per lg:w-92-per lg:pt-23 md:pt-18 md:w-80-per pb-19">
                             <div class="font-bold">

@@ -1,6 +1,6 @@
 <section class="module-PictureConnect font-poppins xx:-mt-50 2xl:-mt-218 lg:mt-7">
     <div class="image 2xl:w-1270 2xl:h-515 xx:-ml-65 xx:-mt-8 2xl:-mt-210 2xl:-ml-376 lg:-ml-298 lg:-mt-63 lg:w-965 lg:h-470 md:w-1266 md:-ml-410 md:-mt-353">
-        <img class="" src="<?= \App\asset_path('images/Pic.png'); ?>">
+        <img class="lazy" data-src="<?= \App\asset_path('images/Pic.png'); ?>" src="<?php echo e(IMG_BASE64); ?>" alt="Pic">
     </div>
     <div class="container absolute z-1 xx:top-1830 xx:right-25 2xl:top-1682 2xl:right-5 lg:top-1570 lg:right-2 lg:w-40-per md:w-full md:top-3544 md:-right-110">
         <div class="content w-66-per pt-210">

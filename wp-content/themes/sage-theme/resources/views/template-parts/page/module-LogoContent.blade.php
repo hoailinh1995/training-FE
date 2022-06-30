@@ -17,10 +17,10 @@
             <div class="logo lg:w-1/2 md:w-full 2xl:m-0 lg:mt-34">
             <div class="slickSlide2">
                 <div>
-                    <img class="" src="@asset('images/Logo1.png')">
+                    <img class="lazy" data-src="@asset('images/Logo1.png')" src="{{IMG_BASE64}}" alt="Logo">
                 </div>
                 <div>
-                    <img class="" src="@asset('images/Logo1.png')">
+                    <img class="lazy" data-src="@asset('images/Logo1.png')" src="{{IMG_BASE64}}" alt="Logo">
                 </div>
             </div>
             <div class="butSlide lg:w-50 md:w-284 text-4xl float-right"></div>

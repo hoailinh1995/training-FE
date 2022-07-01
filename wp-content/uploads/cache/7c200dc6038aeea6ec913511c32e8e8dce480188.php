@@ -19,7 +19,7 @@
                 </p>
             </div>
             <div class=" text-white text-base ">
-                <button class="btn-red rounded-full font-extrabold mt-12 w-235 h-28 hidden 2xl:block">LEARN MORE</button>
+                <button class="btn-red rounded-full font-extrabold mt-28 w-235 h-28 hidden 2xl:block">LEARN MORE</button>
             </div>
         </div>
     </div>

@@ -1,15 +1,15 @@
 <section class="module-ContentCenter2 font-poppins relative z-2 w-full -mt-36 m-auto">
     <div class="container xx:ml-333 xx:mt-9 2xl:ml-47 2xl:mt-12 lg:mt-10 lg:ml-38">
         <div class="pic2 2xl:w-27.5-per absolute xx:left-628 xx:top-7 2xl:top-5 2xl:left-393 lg:w-15.5-per lg:left-268 lg:top-9 lg:rotate-0 md:rotate-90 md:top-337 md:left-326 md:w-15.5-per">
-            <img class="inline-block" alt="CC" src="@asset('/images/3Line.png')">
+            <img class="inline-block lazy" alt="CC" data-src="@asset('/images/3Line.png')" src="{{IMG_BASE64}}">
         </div>
         <div class="pic4 2xl:w-27.5-per absolute xx:right-340 xx:top-7 2xl:right-232 2xl:top-4 lg:w-15.5-per lg:right-256 lg:top-9 lg:rotate-0 md:rotate-90 md:top-802 md:right-322 md:w-15.5-per">
-                    <img class="inline-block" alt="CC" src="@asset('/images/3Line.png')">
+                    <img class="inline-block lazy" alt="CC" data-src="@asset('/images/3Line.png')" src="{{IMG_BASE64}}">
         </div>
         <div class=" lg:row  md:col relative">
             <div class="para1 col h-500 lg:w-30-per md:w-full">
-                <div class="icon1 text-center lg:mt-3 2xl:mr-5 lg:mr-47 md:mt-14">
-                    <img class=" inline-block" alt="CC" src="@asset('images/2Bottle.png')">
+                <div class="icon1 text-center lg:mt-3 2xl:mr-18 lg:mr-47 md:mt-14">
+                    <img class=" inline-block lazy" alt="CC" data-src="@asset('images/2Bottle.png')" src="{{IMG_BASE64}}">
                 </div>
                 <div class="cont1 text-center lg:mt-18 2xl:w-75-per 2xl:ml-19 lg:-ml-29 lg:w-full md:w-80-per md:m-auto md:mt-8">
                     <div class="tit1 m-auto font-semibold text-2xl">
@@ -22,7 +22,7 @@
                         <div class="morea" style="display: none;">
                             tier automation, process transparency, and predictive.
                         </div>
-                        <div class="flipa text-base font-bold lg:mt-34 lg:ml-18 md:mt-8">
+                        <div class="flipa text-base font-bold lg:mt-34 lg:ml-4 md:mt-8">
                         <p class=" btn-slideno">
                             EXPLORE ORCHESTRA
                             <span class="icomoon icon-chevron-right1"></span>
@@ -35,7 +35,7 @@
             </div>
             <div class="para2 col h-500 lg:w-30-per md:w-full -ml-35">
                 <div class="icon3 text-center lg:mt-0 lg:ml-0 md:-mt-27 md:ml-70">
-                    <img class=" inline-block" alt="CC" src="@asset('images/Path.png')">
+                    <img class=" inline-block lazy" alt="CC" data-src="@asset('images/Path.png')" src="{{IMG_BASE64}}">
                 </div>
                 <div class="cont2 text-center lg:mt-15 2xl:w-75-per 2xl:ml-22 lg:w-full lg:ml-2 md:w-80-per md:m-auto md:ml-66 md:mt-9">
                     <div class="tit2 m-auto font-semibold text-2xl">
@@ -60,8 +60,8 @@
             <div class="arrow2 w-5-per">
             </div>
             <div class="para3 col h-500 lg:w-30-per md:w-full -ml-35">
-                <div class="icon5 text-center lg:mt-6 2xl:mr-8 lg:-mr-45 md:-mt-12 md:-mr-69">
-                    <img class=" inline-block" alt="CC" src="@asset('images/Store.png')">
+                <div class="icon5 text-center lg:mt-6 2xl:-mr-2 lg:-mr-45 md:-mt-12 md:-mr-69">
+                    <img class=" inline-block lazy" alt="CC" data-src="@asset('images/Store.png')" src="{{IMG_BASE64}}">
                 </div>
                 <div class="cont3 text-center lg:mt-19 2xl:w-75-per 2xl:ml-17 lg:w-full lg:ml-18 md:w-80-per md:m-auto md:ml-64 md:mt-9">
                     <div class="tit3 m-auto font-semibold text-2xl">

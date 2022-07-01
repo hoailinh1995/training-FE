@@ -1,5 +1,5 @@
 <section class="module-Header font-poppins w-full">
-    <div class="bg-cover right-0 left-0 top-0 bottom-0 xx:h-912 xx:w-1919 2xl:w-1441 2xl:h-773 lg:h-781 md:h-816 absolute z-1" alt="BG" style="background-image:url(@asset('images/BG1.png'))" ></div>
+    <div class="bg-cover right-0 left-0 top-0 bottom-0 xx:h-912 xx:w-1925 2xl:w-1441 2xl:h-773 lg:h-781 md:h-816 absolute z-1" alt="BG" style="background-image:url(@asset('images/BG1.png'))" ></div>
         <!-- <img class="" src="@asset('images/BG.png')"> -->
     <div class="container w-full absolute xx:top-18.5 xx:left-375 z-3 2xl:left-144 2xl:top-19 lg:left-50 md:top-18 md:left-63">
         <div class="logo">
